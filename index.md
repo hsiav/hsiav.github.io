@@ -2,6 +2,18 @@
 
 # 喜欢本文的朋友，欢迎点右上方的star以及folk本文档案，让大家对翻墙有更深的认识，一起为自由而努力
 
+
+
+### 直接看 价格性价比结论 墙宇宙 VPN价格 測速比较图
+
+經由我研究和多方的測試，針對不同地區蒐集到的VPN的測速資料，做成以下圖片給大家參考。Expressvpn速度穩定度最高，strongvpn次之，surfshark和flowvpn差不多。就看大家的購買策略。以下是我針對 四款VPN在台灣，日本，南韓，等常見地區的平均，經過多次測試並且畫出標準差(error bar)。考量到價格跟速度比較，
+我認為:
+
+<img src="./image/upload-download.PNG" alt="drawing" width="600"/>
+
+- 如果打算一次購買一年，對於速度並不是太要求，建議買<a href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table">strongvpn</a>，只要43美金(隔一年再用一個新email使用本站優惠瑪)，一個月大概4美金
+- 如果打算一次買一年且對速度要求很高，當然建議買<a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>(隔一年再用一個新email使用本站優惠瑪)。一個月大概6美金
+
 最近更新：`2023年6月12日`
 
 >**据中央社引述中国官方消息报道，中国上网人数突破9亿，网购用户超过7亿，可见大家对上网的需求日益增加, 有鉴于网路上许多博主到处乱推荐VPN，都推荐一堆不能用的，不能用的就算了，还要骗大家去买来拿钱，这类博客有个特点，就是喜欢自己架一个网站，写一堆话来骗大家，近几年来，防火墙更新越来越强大，过去许多VPN已经完全不能使用。为了让大家能够持续的有知的自由，再加上太多网站喜欢说不实的讯息，我决定在github上建造一个网页，作为自由博客，帮助大家避坑，不要再浪费时间在那些危险的VPN或是不能用的VPN上。本文会介绍细节，讲一些技术，只想看翻墙科学软件推荐的朋友(如果只想快速选个科学上网软件来翻墙)，可以直接看我的推荐栏位。
@@ -73,16 +85,6 @@ IP 地址就像街道地址一样。它公开识别你的实际位置，并且�
 
 
 
-
-### 墙宇宙 VPN价格 測速比较图
-
-經由我研究和多方的測試，針對不同地區蒐集到的VPN的測速資料，做成以下圖片給大家參考。Expressvpn速度穩定度最高，strongvpn次之，surfshark和flowvpn差不多。就看大家的購買策略。以下是我針對 四款VPN在台灣，日本，南韓，等常見地區的平均，經過多次測試並且畫出標準差(error bar)。考量到價格跟速度比較，
-我認為:
-
-<img src="./image/upload-download.PNG" alt="drawing" width="600"/>
-
-- 如果打算一次購買一年，對於速度並不是太要求，建議買<a href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table">strongvpn</a>，只要43美金(隔一年再用一個新email使用本站優惠瑪)，一個月大概4美金
-- 如果打算一次買一年且對速度要求很高，當然建議買<a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>(隔一年再用一個新email使用本站優惠瑪)。一個月大概6美金
 
 
 
