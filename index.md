@@ -54,7 +54,6 @@
 
 > ## 本文内容导航
 > ### 1. [科學上網基本知識](#科學上網基本知識)
->> ### 1.1 [什么是科学上网?](#什么是科学上网?)
 > ### 2. [国产VPN推荐功能总结—2023年7月测试](#国产VPN推荐功能总结—2023年7月测试)
 
 
@@ -127,7 +126,7 @@ IP 地址就像街道地址一样。它公开识别你的实际位置，并且�
 
 ### 1.<a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table" target="_blank">StrongVPN–性价比最高</a>
 
-### StrongVPN 推荐
+### StrongVPN推荐
 
 <img src="./image/1d83ca53.gif" alt="drawing" width="400"/>
 
