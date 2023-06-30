@@ -5,6 +5,23 @@
 
 ### 直接看 价格性价比结论 墙宇宙 VPN价格 測速比较图
 
+### 我整理出的四个VPN的特色以及差异，包含最优惠的购买方式
+
+| 推荐的VPN | 最优惠买法(时间) | 一个月价格(美金)  | 总价 | 特色 | 支付保(Alipay) |
+| ------------- | ------------- | ----- | ----- | ----- | ----- | 
+| <a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table" target="_blank">StrongVPN</a>    | 一次买一年 | 3.66 | 43.99 | cp值最高 | 支援 |
+| <a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>   | 一次买一年(可用15个月)     |  5.33 | 6.67 X 12 = 80 | 最高级 速度稳定度最高 | 不支援|
+| <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark</a> | 一次买两年    |    $2.30 | 55 |  无限多设备 | 不支援 |
+|  <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(免费试用两天)</a> |  一次买一年    |    $4.17 | 50 | 免费试用两天 | 支援 |
+
+### 墙宇宙 VPN价格 比较图 怎样购买最便宜 (中國翻墻VPN購買的最佳策略)
+
+- 如果打算一次購買一年，對於速度並不是太要求，建議買<a href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table">strongvpn</a>，只要43美金(隔一年再用一個新email使用本站優惠瑪)
+- 如果打算一次購買兩年，對於速度並不是太要求，建議買<a href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">surfshark</a>，只要55美金(隔一年再用一個新email使用本站優惠瑪)
+- 如果打算一次買一年且對速度要求很高，當然建議買<a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>(隔一年再用一個新email使用本站優惠瑪)。一個月大概6美金
+- 如果只是想要念paper，速度上不那麼要求，可以考慮<a href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">flowvpn</a>
+
+
 經由我研究和多方的測試，針對不同地區蒐集到的VPN的測速資料，做成以下圖片給大家參考。Expressvpn速度穩定度最高，strongvpn次之，surfshark和flowvpn差不多。就看大家的購買策略。以下是我針對 四款VPN在台灣，日本，南韓，等常見地區的平均，經過多次測試並且畫出標準差(error bar)。考量到價格跟速度比較，
 我認為:
 
@@ -66,24 +83,6 @@ IP 地址就像街道地址一样。它公开识别你的实际位置，并且�
 - **VPN**
 知道如何翻墙成功的同伴可能听说过 VPN 一词，以了解 VPN 与什么连接。 VPN目前是一种加密策略，可以保护客户的IP、区域和个人数据不被泄露。 VPN 可以被视为一种伪装（如果从学术上讲，加密更重要的话）。在屏蔽（加扰）客户端 IP、IP 和个人数据后，他们可以通过防火墙到达一些墙外世界。
 同时，多数人频繁使用 VPN 背后的动机并不是来通过防火墙（就像我在Covid期间同时看到许多远端工作者VPN 一样）。然而这类传统VPN的已经不足以应付中国政府利用强大的国家优势制造的超级防火墙，传统的VPN在中国已经没有机会了。
-
-### 我整理出的四个VPN的特色以及差异，包含最优惠的购买方式
-
-
-
-| 推荐的VPN | 最优惠买法(时间) | 一个月价格(美金)  | 总价 | 特色 | 支付保(Alipay) |
-| ------------- | ------------- | ----- | ----- | ----- | ----- | 
-| <a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table" target="_blank">StrongVPN</a>    | 一次买一年 | 3.66 | 43.99 | cp值最高 | 支援 |
-| <a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>   | 一次买一年(可用15个月)     |  5.33 | 6.67 X 12 = 80 | 最高级 速度稳定度最高 | 不支援|
-| <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark</a> | 一次买两年    |    $2.30 | 55 |  无限多设备 | 不支援 |
-|  <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(免费试用两天)</a> |  一次买一年    |    $4.17 | 50 | 免费试用两天 | 支援 |
-
-### 墙宇宙 VPN价格 比较图 怎样购买最便宜 (中國翻墻VPN購買的最佳策略)
-
-- 如果打算一次購買一年，對於速度並不是太要求，建議買<a href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table">strongvpn</a>，只要43美金(隔一年再用一個新email使用本站優惠瑪)
-- 如果打算一次購買兩年，對於速度並不是太要求，建議買<a href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">surfshark</a>，只要55美金(隔一年再用一個新email使用本站優惠瑪)
-- 如果打算一次買一年且對速度要求很高，當然建議買<a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>(隔一年再用一個新email使用本站優惠瑪)。一個月大概6美金
-- 如果只是想要念paper，速度上不那麼要求，可以考慮<a href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">flowvpn</a>
 
 
 
