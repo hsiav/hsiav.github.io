@@ -73,13 +73,6 @@ IP 地址就像街道地址一样。它公开识别你的实际位置，并且�
 
 | 推荐的VPN | 最优惠买法(时间) | 一个月价格(美金)  | 总价 | 特色 | 支付保(Alipay) |
 | ------------- | ------------- | ----- | ----- | ----- | ----- | 
-| January  | $250    | January  | $250    |  January  | $250    | 
-| January  | $250    | January  | $250    |  January  | $250    | 
-| January  | $250    | January  | $250    |  January  | $250    | 
-
-
-| 推荐的VPN       | 最优惠买法(时间) |  一个月价格(美金)  | 总价 | 特色 | 支付保(Alipay)
-| ------------- | ------------- | ----- | ----- | ----- | ----- | 
 | <a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table" target="_blank">StrongVPN</a>    | 一次买一年 | 3.66 | 43.99 | cp值最高 | 支援 |
 | <a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>   | 一次买一年(可用15个月)     |  5.33 | 6.67 X 12 = 80 | 最高级 速度稳定度最高 | 不支援|
 | <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark</a> | 一次买两年    |    $2.30 | 55 |  无限多设备 | 不支援 |
