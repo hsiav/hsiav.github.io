@@ -57,7 +57,9 @@
 > ### 1. [科學上網基本知識](#科學上網基本知識)
 > ### 2. [国产VPN推荐功能总结2023年7月测试](#国产VPN推荐功能总结2023年7月测试)
 > ### 3. [strongvpn手把手-支付保alipay-购买教学](#strongvpn手把手-支付保alipay-购买教学)
-> ### 4. [surfshark手把手购买教学](#surfshark手把手购买教学)
+> ### 4. [expressvpn线上优惠玛购买教学-如何购买ExpressVPN](#expressvpn线上优惠玛购买教学-如何购买ExpressVPN)
+> ### 5. [surfshark手把手购买教学](#surfshark手把手购买教学)
+> ### 6. [中国翻墙VPN黑名单-千万不要入坑，不要使用](#中国翻墙VPN黑名单-千万不要入坑，不要使用)
 
 
 
@@ -272,7 +274,8 @@ strongvpn的特点就是有支付保(alipay)喜欢支付保的付款的朋友，
 
 
 
-## Expressvpn 线上优惠玛购买教学 (如何购买ExpressVPN) 要注意: expressvpn 不支援支付宝，喜欢支付保的付款的朋友，建议使用strongvpn，或是flowvpn。
+## expressvpn线上优惠玛购买教学-如何购买ExpressVPN
+要注意: expressvpn 不支援支付宝，喜欢支付保的付款的朋友，建议使用strongvpn，或是flowvpn。
 Expressvpn 支援: 国内银行卡购买ExpressVPN，包含visa或是master card(海外卡也可以)，还有比特币，还有paypal可以用。因为expressvpn 是海外网站，所以你可能需要翻牆才能访问。关于这点，可以参考我的镜像站连上网站的方法。
 
 ### 第一步: 前往优惠连结<a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn 优惠</a>:点选: get expressvpn (底下的红框框)
@@ -370,7 +373,7 @@ Expressvpn 支援: 国内银行卡购买ExpressVPN，包含visa或是master card
 
 
 
-## 中国翻墙VPN黑名单(千万不要入坑，不要使用)
+## 中国翻墙VPN黑名单-千万不要入坑，不要使用
 
 ### 熊猫VPN
 熊猫VPN是翻墙软件市场的后起之秀。 PandaVPN又叫“熊猫VPN”，公司成立于2018年，总部位于塞舌尔共和国， 官网是：pandavpn.pro 。 主要服务对象为中国大陆网民和在海外的华人华侨。但据我所知，PandaVPN在国内翻墙效果并不稳定。且网站虽然号称支持支付宝、微信、银联卡等国内付款方式。且有7天退款保障。但有许多网友表示，七天退款非常困难，就算申请退款，也几乎没有人回信。而且把国家设置在奇怪的小国家，有另外一位博主: [墙博士](https://dr-wall.com/pandavpn/)，仔细研究过熊猫VPN的连接和公司地址。可以发现付款的公司地址和塞舌尔共和国不一致，让大家感到非常担心。建议不要使用。
