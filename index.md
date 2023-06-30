@@ -1,3 +1,4 @@
+
 # 翻墙软件中国VPN推荐，推荐四款以下好用(2023年7月最新) 含性价比比较，只剩四款能用
 
 # 喜欢本文的朋友，欢迎点右上方的star以及folk本文档案，让大家对翻墙有更深的认识，一起为自由而努力
@@ -55,7 +56,8 @@
 > ## 本文内容导航
 > ### 1. [科學上網基本知識](#科學上網基本知識)
 > ### 2. [国产VPN推荐功能总结2023年7月测试](#国产VPN推荐功能总结2023年7月测试)
-> ### 3. [Strongvpn手把手-支付保alipay-购买教学](Strongvpn手把手-支付保alipay-购买教学)
+> ### 3. [strongvpn手把手-支付保alipay-购买教学](#strongvpn手把手-支付保alipay-购买教学)
+> ### 4. [surfshark手把手购买教学](#surfshark手把手购买教学)
 
 
 
@@ -249,7 +251,7 @@ Surfshark可以解除对 Netflix的封锁，而且还列出了近20 个国家/�
 
 
 
-## Strongvpn手把手-支付保alipay-购买教学
+## strongvpn手把手-支付保alipay-购买教学
 strongvpn的特点就是有支付保(alipay)喜欢支付保的付款的朋友，建议使用strongvpn，或是flowvpn
 
 第一步骤: 前往本站的专属优惠 <a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table" target="_blank">StrongVPN</a>，点选start now (参照下图)
@@ -286,7 +288,7 @@ Expressvpn 支援: 国内银行卡购买ExpressVPN，包含visa或是master card
 <img src="./image/exp/1-3.PNG" alt="drawing" width="600"/>
 
 
-## Surfshark 手把手购买教学
+## surfshark手把手购买教学
 ### 第一步: 前往surfshark优惠玛: <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark (具有无限多设备连接)</a> 点选: get (参考下方教学图片)
 
 <img src="./image/surfshark/1-1.PNG" alt="drawing" width="600"/>
