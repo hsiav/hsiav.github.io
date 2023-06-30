@@ -2,7 +2,11 @@
 
 # 喜欢本文的朋友，欢迎点右上方的star以及folk本文档案，让大家对翻墙有更深的认识，一起为自由而努力
 
-
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
 
 ### 直接看 价格性价比结论 墙宇宙 VPN价格 測速比较图
 
@@ -69,12 +73,12 @@ IP 地址就像街道地址一样。它公开识别你的实际位置，并且�
 同时，多数人频繁使用 VPN 背后的动机并不是来通过防火墙（就像我在Covid期间同时看到许多远端工作者VPN 一样）。然而这类传统VPN的已经不足以应付中国政府利用强大的国家优势制造的超级防火墙，传统的VPN在中国已经没有机会了。
 
 ### 我整理出的四个VPN的特色以及差异，包含最优惠的购买方式
-| 推荐的VPN       | 最优惠买法(时间) |  一个月价格(美金)  | 总价| 特色| 支付保(Alipay)
+| 推荐的VPN       | 最优惠买法(时间) |  一个月价格(美金)  | 总价 | 特色 | 支付保(Alipay)
 | ------------- | ------------- | ----- | ----- | ----- | ----- | 
-| <a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table" target="_blank">StrongVPN</a>    | 一次买一年 | 3.66| 43.99 | cp值最高 | 支援|
-| <a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>   | 一次买一年(可用15个月)     |  5.33 | 6.67 X 12 = 80 | 最高级 速度稳定度最高| 不支援|
-| <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark</a> |一次买两年    |    $2.30 | 55 |  无限多设备 | 不支援|
-|  <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(免费试用两天)</a> | 一次买一年    |    $4.17 | 50 | 免费试用两天 | 支援|
+| <a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table" target="_blank">StrongVPN</a>    | 一次买一年 | 3.66 | 43.99 | cp值最高 | 支援 |
+| <a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>   | 一次买一年(可用15个月)     |  5.33 | 6.67 X 12 = 80 | 最高级 速度稳定度最高 | 不支援|
+| <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark</a> | 一次买两年    |    $2.30 | 55 |  无限多设备 | 不支援 |
+|  <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(免费试用两天)</a> |  一次买一年    |    $4.17 | 50 | 免费试用两天 | 支援 |
 
 ### 墙宇宙 VPN价格 比较图 怎样购买最便宜 (中國翻墻VPN購買的最佳策略)
 
