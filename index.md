@@ -802,8 +802,8 @@ OpenVPN 是一种免费的开源协议，可用于大多数类型的设备。
 
 总的来说，无论你是一个竞技游戏的玩家，还是一个喜欢探索新游戏的冒险者，VPN都能给你带来巨大的好处。ExpressVPN和StrongVPN都是我们强烈推荐的优质选择，它们将为你的游戏体验提供强大的保障。现在就点击下方的链接，开始你的全新游戏旅程吧！
 
-- [立即体验ExpressVPN](#)
-- [立即体验StrongVPN](#)
+- [立即体验ExpressVPN](https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github)
+- [立即体验StrongVPN](https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table)
 
 _注意：在您购买时，我们可能会从中获得一定的佣金，但请放心，我们推荐的每一款产品都是我们亲自测试并深信其品质的。_
 
