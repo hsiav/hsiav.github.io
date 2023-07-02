@@ -500,6 +500,57 @@ PureVPN支持Windows、Mac OS、iOS（包括iPhone和iPad）、以及安卓Andro
 PureVPN拥有多种加密协议，并提供安全的DNS机制以及其他隐私保护功能，包括保护连接断开切换的机制，以防在连接中断后出现数据泄露的风险。PureVPN承诺不会记录行为日志，并且不会将数据分享给任
 
 
+这个表格列出了不确定能用，价格过高，或者已经不能使用的 VPN，以帮助读者避免选购不合适的 VPN。
+
+| VPN 名称 | 描述 |
+| --- | --- |
+| 360VPN | 不确定能用 |
+| Astrill VPN | 价格太高 |
+| CyberGhost | 价格太高 |
+| 大象VPN | 不确定能用 |
+| Flyvpn | 不确定能用 |
+| GreenVPN | 不确定能用 |
+| hotspot shield | 免费VPN |
+| IPVanish VPN | 价格太高 |
+| Kitten VPN | 不确定能用 |
+| Kuto VPN | 不确定能用 |
+| LetsVPN(快连VPN) | 不确定能用 |
+| NordVPN | 已经不能使用 |
+| Panda VPN | 不确定能用 |
+| PlexVPN | 小型VPN |
+| Private VPN | 不确定能用 |
+| Proton VPN | 不确定能用 |
+| PureVPN | 不确定能用 |
+| QuickVPN | 不确定能用 |
+| Shadowrocket | 不确定能用 |
+| SuperVPN | 不确定能用 |
+| Testflight VPN | 不确定能用 |
+| Thunder VPN(闪电VPN) | 非常不稳定 |
+| Turbo VPN | 不确定能用 |
+| UrbanVPN | 免费VPN |
+| VPN Proxy Master | 不确定能用 |
+| VPN hub | 不确定能用 |
+| VyprVPN | 不确定能用 |
+| Windscribe | 免费VPN |
+| 光年VPN | 已跑路 |
+| 公主连接加速器 | 不确定能用 |
+| 极光VPN | 不确定能用 |
+| 海鸥网络加速助手 | 风险VPN |
+| 火箭 VPN | 不确定能用 |
+| 佛跳墙VPN | 不确定能用 |
+| 老王VPN | 已经有人被抓 |
+| 蓝灯VPN | 开源 |
+| 边缘VPN | 小型VPN |
+| 狗急加速VPN | 小型VPN |
+| 飞鱼VPN | 小型VPN |
+| 黑洞VPN | 不确定能用 |
+| 蚂蚁VPN | 不确定能用 |
+| 789vpn(加速器) | 不确定能用 |
+| 神灯VPN | 不确定能用 |
+| 云帆VPN | 不确定能用 |
+| tenonvpn | 小型VPN |
+| 夏时VPN | 小型VPN |
+
 
 ## 中国VPN推荐标准以及必要的特色
 
