@@ -754,6 +754,37 @@ Expressvpn 底下我用mac当作教学。 先到<a href="https://www.expressvpn.
 
 ## 翻墙后可以做什么呢
 
+当你使用VPN翻墙后，你将会迎来一个全新的网络世界。这个世界拥有丰富的资源，无论你是寻找丰富的娱乐内容，获取更广泛的新闻报道，还是进行深入的在线学习，你都可以在这个网络世界中找到满足你的网站和应用。为了让你能更好地利用翻墙后的网络，我在此提供了一份详尽的网站和应用列表供你参考。
+
+首先，我们来看看社交媒体类应用，如Twitter、Facebook、Instagram、YouTube、WhatsApp、Telegram、Line等，这些都是我们在生活中交流沟通的重要平台。
+
+然后是流媒体服务，如Netflix、Hulu、HBO Max、Disney+、BBC iPlayer、HBO Now等，这些平台提供了大量的电影和电视剧资源。
+
+接下来是搜索引擎和问答社区，包括Google、Bing、DuckDuckGo、Reddit、Quora、Stack Exchange、Medium、Wikipedia等，这些网站可以帮助我们快速地找到所需的信息。
+
+新闻和媒体网站，如CNN、BBC、The New York Times、The Washington Post、The Guardian、Reuters、Al Jazeera、Bloomberg、Vice News等，可以让我们获取第一手的国际新闻。
+
+游戏爱好者可以通过VPN访问Steam、Epic Games、Origin、Battle.net、GOG、Twitch等游戏和游戏平台。
+
+此外，你还可以通过VPN访问The Pirate Bay、KickassTorrents、1337x、RARBG、Torrentz2、Nyaa.si等文件分享和下载网站。
+
+其他类型的网站还包括匿名网络（如Tor）、匿名电子邮件（如ProtonMail）、博客和论坛（如WordPress、PHPBB）、在线教育网站（如Coursera、edX）、网上购物网站（如Amazon、eBay）等等。
+
+请注意，虽然VPN可以帮助我们翻墙，但我们在使用的过程中，仍需要注意合法合规，尽量避免访问那些可能涉及法律风险的网站。
+
+以下是一份更详细的网络资源分类，希望对你有所帮助：
+
+|   类别   |   选择1   |   选择2   |   选择3   |   选择4   |   选择5   |
+| :----: | :----: | :----: | :----: | :----: | :----: |
+| 视频(电影)网站 | [Netflix](https://www.netflix.com/) | [Hulu](https://www.hulu.com/) | [Amazon Prime Video](https://www.primevideo.com/) | [BBC iPlayer](https://www.bbc.co.uk/iplayer) | [Disney+](https://www.disneyplus.com/) |
+| 音乐网站 | [Spotify](https://www.spotify.com/) | [Pandora](https://www.pandora.com/) | [Apple Music](https://www.apple.com/apple-music/) | [Tidal](https://tidal.com/) | [SoundCloud](https://soundcloud.com/) |
+| 查阅研究资料 | [Google Scholar](https://scholar.google.com/) | [Arxiv](https://arxiv.org/) | [IEEE](https://www.ieee.org/) | [JSTOR](https://www.jstor.org/) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/) |
+| 搜寻引擎 | [Google](https://www.google.com/) | [Bing](https://www.bing.com/) | [DuckDuckGo](https://duckduckgo.com/) | [Yahoo](https://www.yahoo.com/) | [StartPage](https://www.startpage.com/) |
+| 漫画网站 | [Marvel Unlimited](https://www.marvel.com/unlimited) | [DC Universe](https://www.dcuniverse.com/) | [ComiXology](https://www.comixology.com/) | [Crunchyroll](https://www.crunchyroll.com/) | [Webtoon](https://www.webtoons.com/) |
+| 国外新闻 | [CNN](https://www.cnn.com/) | [BBC](https://www.bbc.com/) | [The Wall Street Journal](https://www.wsj.com/) | [The Guardian](https://www.theguardian.com/) | [Al Jazeera](https://www.aljazeera.com/) |
+| 线上课程 | [Coursera](https://www.coursera.org/) | [edX](https://www.edx.org/) | [Khan Academy](https://www.khanacademy.org/) | [Udemy](https://www.udemy.com/) | [LinkedIn Learning](https://www.linkedin.com/learning/) |
+| 社群媒体 | [Facebook](https://www.facebook.com/) | [Instagram](https://www.instagram.com/) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Pinterest](https://www.pinterest.com/) |
+
 ### 翻牆違法嗎?
 按照《中国计算机信息国际联网管理暂行条例》第六条、第十四条的规定。1997 年的法规规定，个人和组织只能通过政府提供的渠道连接到国际网络。不過中国很少执行禁止个人公民使用 VPN 的法律，而且很少有任何人因使用 VPN 而被指控犯罪的先例。话虽如此，中国当局确实让你难以获得有效的 VPN。VPN 提供商网站被封锁。VPN 应用程序已从 Apple 和 Android 应用程序商店中删除。由于防火墙中使用的服务器黑名单和 VPN 检测技术，许多 VPN 在该国无法正常工作。
 
