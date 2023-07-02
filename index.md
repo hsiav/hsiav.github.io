@@ -59,6 +59,7 @@
 > ### 3. [strongvpn手把手-支付保alipay-购买教学](#strongvpn手把手-支付保alipay-购买教学)
 > ### 4. [expressvpn线上优惠玛购买教学-如何购买ExpressVPN](#expressvpn线上优惠玛购买教学-如何购买ExpressVPN)
 > ### 5. [surfshark手把手购买教学](#surfshark手把手购买教学)
+> ### 5. [flowvpn免费试用两天-手把手购买教学](#flowvpn免费试用两天-手把手购买教学)
 > ### 6. [中国翻墙VPN黑名单-千万不要入坑-不要使用](#中国翻墙VPN黑名单-千万不要入坑-不要使用)
 > ### 7. [中国VPN推荐标准以及必要的特色](#中国VPN推荐标准以及必要的特色)
 > ### 8. [你必须知道的VPN的核心知识](#你必须知道的VPN的核心知识)
@@ -315,7 +316,7 @@ Expressvpn 支援: 国内银行卡购买ExpressVPN，包含visa或是master card
 <img src="./image/surfshark/3-1.PNG" alt="drawing" width="600"/>
 
 
-## flowvpn免费试用两天 手把手购买教学
+## flowvpn免费试用两天-手把手购买教学
 
 ### 第一步骤: 按照上面的方式购买完成以后，到<a href="https://www.flowvpx.com/download/">flowvpn官方网站</a> 下载自己的使用设备
 有windows, mac, android, iOS 可供选择。
