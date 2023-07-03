@@ -1053,6 +1053,13 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 <img src="./image/speed_test/vpn_connection_ratio.png" alt="drawing" width="600"/>
 
 
+### VPN服务在世界各大洲连接Netflix的成功率
+本图表展示了四种不同的VPN服务（ExpressVPN，FlowVPN，Surfshark，以及StrongVPN）在世界各大洲连接Netflix的成功率。每个子图代表一种VPN服务，横坐标是洲名，纵坐标是连接成功率。
+从图中我们可以看出，这四种VPN服务在亚洲，欧洲和澳洲连接Netflix的成功率都相当高，表现出色。而在非洲和南美洲的表现则相对较弱。这可能是由于这些地区的网络环境或者基础设施等因素影响。
+总的来说，选择哪一种VPN服务，用户需要考虑他们所处的地理位置和该VPN服务在该地区连接Netflix的成功率。这张图表提供了一个很好的视觉参考，帮助用户根据他们的需求和地理位置来选择最适合他们的VPN服务。
+
+<img src="./image/speed_test/vpn_connection_netflix.png" alt="drawing" width="600"/>
+
 
 ## 如何用VPN观看流媒体指南
 
