@@ -317,6 +317,12 @@ Expressvpn 支援: 国内银行卡购买ExpressVPN，包含visa或是master card
 
 <img src="./image/exp/1-1.PNG" alt="drawing" width="600"/>
 
+| 订阅时长 | 总费用 | 每月费用 |
+| ---- | ---- | ---- |
+| 1个月 | $12.95 | $12.95 |
+| 6个月 | $59.95 | $9.99 |
+| 12个月 | $99.95 | $8.32 ($6.67 使用 <a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn 3个月优惠套餐</a> 购买 ) |
+
 ### 第二步: 你可以看到 买一年送三个月得连结，所以你只要付12个月的钱，但可以使用15个月(注意: 这个方式只能使用15个月，如果要续约，建议重新办一个email,再回来使用这个优惠玛。)
 
 <img src="./image/exp/1-2.PNG" alt="drawing" width="600"/>
