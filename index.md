@@ -223,6 +223,19 @@ ExpressVPN 的隐私保护使用工业级加密。Diffie-Helman 密钥交换可�
 **如果您决定取消，该过程也非常简单。您不必向公司证明您的决定是合理的。您可以完全使用该服务 30 天，如果您不满意，或者只是改变主意，只需告诉 ExpressVPN，您将获得退款。完全不需要擔心。**
 
 
+| 特性 | ExpressVPN |
+| ---- | ---------- |
+| 伺服器数量 | 3000+ |
+| 伺服器国家 | 94 |
+| 支援的平台 | Windows, Mac, iOS, Android, Linux, BlackBerry, Kindle Fire, Nook, routers, consoles (MediaStreamer), Amazon Fire TV Stick, Apple TV, Boxee, Chromebook, Windows Phone |
+| 同时连接数 | 5 |
+| 分割通道技术 | 是 |
+| 断开开关技术 | 是 |
+| 支援的协议 | Lightway, OpenVPN UDP, OpenVPN TCP, L2TP/IPSec, IKEv2 |
+| 註册国家 | 英属维京群岛 |
+| 支援 | 24/7即时聊天，电子邮件，知识库 |
+
+
 ### 3 <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark (具有无限多设备连接)</a>
 ### Surfshark VPN (冲浪鲨) 推荐
 
