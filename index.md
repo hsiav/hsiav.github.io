@@ -193,6 +193,22 @@ strongvpn设计了一个全球网络，其中包括 950 多台服务器，支持
 - 高稳定性
 - 每月只需3.50 美元（12 个月计划 – 每月 3.50 美元（总成本 43.99 美元）
 
+| 功能/规格 | StrongVPN |
+| :-------: | :------- |
+| 客户端平台 | Windows、Mac、Linux、Android、iOS、DDWRT、macOS、GLiNet 路由器、Android TV |
+| 支持的协议 | OpenVPN、L2TP/IPsec、SSTP 和 WireGuard |
+| 服务器数量 | 950+ |
+| 国家数量 | 35+ |
+| 注册国家 | 美国 |
+| 付款方式 | 信用卡、PayPal、支付宝 |
+| 需要实名吗？ | 无 |
+| 加密协议 | WireGuard、OpenVPN、IKEv2、L2TP、SSTP |
+| 数据使用 | 无限制带宽 |
+| 使用 | 无限制 |
+| 同时连接的设备数量 | 12 |
+| 客户支持 | 电子邮件、实时聊天、电话 |
+| 隐私政策 | 无日志记录 |
+
 ### 2 <a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>
 ### Expressvpn (买12个月送三个月)
 
