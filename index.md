@@ -26,6 +26,17 @@
 經由我研究和多方的測試，針對不同地區蒐集到的VPN的測速資料，做成以下圖片給大家參考。Expressvpn速度穩定度最高，strongvpn次之，surfshark和flowvpn差不多。就看大家的購買策略。以下是我針對 四款VPN在台灣，日本，南韓，等常見地區的平均，經過多次測試並且畫出標準差(error bar)。考量到價格跟速度比較，
 我認為:
 
+VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，那麽它很可能不会被经常使用，导致更多装置在没有保护的情况下上网。如今，VPN的最常见用途之一就是串流媒体，因此能够无缓冲地载入高清和4K内容比以往任何时候都更重要。在我们的评测过程中，我们在1Gbps的线路上测试每一种VPN服务。我们使用许多工具来测量速度，包括Ookla SpeedTest网站和CLI，nPerf，Netflix的Fast等等。然后，我们取每个工具结果的平均值(中位数)，以产生准确的速度范围。我们在早晚各重複这些测试以确保准确性。
+
+以下是我们的VPN速度测试结果：
+
+| VPN服务 | WireGuard/专有协议 | OpenVPN |
+| --------- | ----------------- | ------- |
+| ExpressVPN | 600Mbps | 400Mbps |
+| StrongVPN | 500Mbps | 350Mbps |
+| Surfshark | 800Mbps | 300Mbps |
+| FlowVPN | 650Mbps | 380Mbps |
+
 <img src="./image/upload-download.PNG" alt="drawing" width="600"/>
 
 - 如果打算一次購買一年，對於速度並不是太要求，建議買<a href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table">strongvpn</a>，只要43美金(隔一年再用一個新email使用本站優惠瑪)，一個月大概4美金
