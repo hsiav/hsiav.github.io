@@ -103,7 +103,8 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 
 #### 为什么要翻墙？
 
-原因很簡單:如果没有用VPN要翻墙，在中国远程工作會變得很困难，因为 Slack、Microsoft OneDrive 和 Dropbox 等公司常用的作業应用程序都被禁止。整个 Google 套件（包括 Gmail 和 Google Drive）也无法使用。其他被禁止的社交网络包括 Facebook、YouTube、Instagram、Vimeo、Spotify、Snapchat 和 Tumblr。这会使与你和你朋友家人保持联系变得非常困難。 
+原因很簡單:如果没有用VPN要 <a href="https://wallzhihu.com/best-vpn-china/">翻墙</a>
+，在中国远程工作會變得很困难，因为 Slack、Microsoft OneDrive 和 Dropbox 等公司常用的作業应用程序都被禁止。整个 Google 套件（包括 Gmail 和 Google Drive）也无法使用。其他被禁止的社交网络包括 Facebook、YouTube、Instagram、Vimeo、Spotify、Snapchat 和 Tumblr。这会使与你和你朋友家人保持联系变得非常困難。 
 
 大多数西方新闻网站也是禁止访问的。其中包括纽约时报、CNN、路透社和金融时报。在中国被禁止的网站和服务列表是不断变化的
 
