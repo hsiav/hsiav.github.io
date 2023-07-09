@@ -75,7 +75,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 > #### 2.5 [分析和对比市面上不同VPN提供商的隐私政策](#分析和对比市面上不同VPN提供商的隐私政策)
 > ### 3. [strongvpn手把手-支付保alipay-购买教学](#strongvpn手把手-支付保alipay-购买教学)
 > ### 4. [expressvpn线上优惠玛购买教学-如何购买ExpressVPN](#expressvpn线上优惠玛购买教学-如何购买ExpressVPN)
-> #### 4.1 [跨设备-PC, 手机, 平板-使用ExpressVPN的设置教程](#跨设备-PC, 手机, 平板-使用ExpressVPN的设置教程)
+> #### 4.1 [跨设备-PC-手机-平板-使用ExpressVPN的设置教程](#跨设备-PC-手机-平板-使用ExpressVPN的设置教程)
 > ### 5. [surfshark手把手购买教学](#surfshark手把手购买教学)
 > ### 6. [flowvpn免费试用两天-手把手购买教学](#flowvpn免费试用两天-手把手购买教学)
 > ### 7. [中国翻墙VPN黑名单-千万不要入坑-不要使用](#中国翻墙VPN黑名单-千万不要入坑-不要使用)
@@ -410,7 +410,7 @@ Expressvpn 支援: 国内银行卡购买ExpressVPN，包含visa或是master card
 
 
 ### 跨设备-PC, 手机, 平板-使用ExpressVPN的设置教程
-<a name="跨设备-PC, 手机, 平板-使用ExpressVPN的设置教程"></a>
+<a name="跨设备-PC-手机-平板-使用ExpressVPN的设置教程"></a>
 
 以下是关于如何在不同设备（PC，手机，平板）上设置ExpressVPN的简单步骤。
 
