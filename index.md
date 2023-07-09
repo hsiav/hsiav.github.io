@@ -71,6 +71,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 > #### 2.2 [Expressvpn-买12个月送三个月](#Expressvpn-买12个月送三个月)
 > #### 2.3 [SurfsharkVPN-冲浪鲨-推荐](#SurfsharkVPN-冲浪鲨-推荐)
 > #### 2.4 [FlowVPN-推荐-免费用两天](#FlowVPN-推荐-免费用两天)
+> #### 2.5 [分析和对比市面上不同VPN提供商的隐私政策](#分析和对比市面上不同VPN提供商的隐私政策)
 > ### 3. [strongvpn手把手-支付保alipay-购买教学](#strongvpn手把手-支付保alipay-购买教学)
 > ### 4. [expressvpn线上优惠玛购买教学-如何购买ExpressVPN](#expressvpn线上优惠玛购买教学-如何购买ExpressVPN)
 > ### 5. [surfshark手把手购买教学](#surfshark手把手购买教学)
@@ -331,6 +332,33 @@ Surfshark可以解除对 Netflix的封锁，而且还列出了近20 个国家/�
 
 
 
+### 分析和对比市面上不同VPN提供商的隐私政策
+<a name="分析和对比市面上不同VPN提供商的隐私政策"></a>
+当选择VPN服务提供商时，隐私政策是一个重要的考虑因素。不同的VPN服务提供商可能有不同的隐私政策，这可能影响到你的数据和隐私安全。以下是对ExpressVPN，StrongVPN和Surfshark的隐私政策的一个比较。
+
+#### ExpressVPN
+
+ExpressVPN是一家在隐私方面具有强烈承诺的VPN服务提供商。它位于英属维尔京群岛，这使得它不受严格的数据保留法的影响。ExpressVPN严格地执行无日志政策，这意味着它不会记录你的网络活动或你连接到VPN时的IP地址。
+
+#### StrongVPN
+
+StrongVPN是一家在美国的VPN服务提供商，它也承诺不记录用户的网络活动。然而，由于美国的数据保留法可能更加严格，这可能对StrongVPN的隐私保护造成一些影响。尽管如此，StrongVPN仍然承诺，除非法律要求，否则它不会与第三方分享用户的数据。
+
+#### Surfshark
+
+Surfshark是一家位于英属维尔京群岛的VPN服务提供商，和ExpressVPN一样，也承诺不记录用户的网络活动。Surfshark的隐私政策非常明确，它详细列出了它收集的信息以及这些信息的用途。Surfshark也承诺，除非法律要求，否则不会与第三方分享用户的数据。
+
+以下是对这三家公司的隐私政策的比较：
+
+|   | ExpressVPN | StrongVPN | Surfshark |
+|---|---|---|---|
+| 基本地位 | 英属维尔京群岛 | 美国 | 英属维尔京群岛 |
+| 记录网络活动 | 不记录 | 不记录 | 不记录 |
+| 分享数据与第三方 | 无，除非法律要求 | 无，除非法律要求 | 无，除非法律要求 |
+
+总的来说，当选择VPN服务时，你应该详细阅读每家公司的隐私政策，并考虑他们如何保护你的数据和隐私。
+
+
 
 ## strongvpn手把手-支付保alipay-购买教学
 strongvpn的特点就是有支付保(alipay)喜欢支付保的付款的朋友，建议使用strongvpn，或是flowvpn
@@ -413,6 +441,9 @@ Expressvpn 支援: 国内银行卡购买ExpressVPN，包含visa或是master card
 ### 第三步: 就可以下载flowvpn (支援: 国内银行卡包含visa或是master card(海外卡也可以)，还有alipay)
 
 <img src="./image/flowvpn/3-1.PNG" alt="drawing" width="600"/>
+
+
+
 
 
 ## 中国特殊时期的VPN连接问题-敏感时期
