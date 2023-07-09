@@ -67,6 +67,8 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 > ## 本文内容导航
 > ### 1. [科学上网基本知识](#科学上网基本知识)
 > ### 2. [国产VPN推荐功能总结2023年7月测试](#国产VPN推荐功能总结2023年7月测试)
+> #### 2.1 [StrongVPN推荐](#StrongVPN推荐)
+> #### 2.2 [Expressvpn-买12个月送三个月](#Expressvpn-买12个月送三个月)
 > ### 3. [strongvpn手把手-支付保alipay-购买教学](#strongvpn手把手-支付保alipay-购买教学)
 > ### 4. [expressvpn线上优惠玛购买教学-如何购买ExpressVPN](#expressvpn线上优惠玛购买教学-如何购买ExpressVPN)
 > ### 5. [surfshark手把手购买教学](#surfshark手把手购买教学)
@@ -158,10 +160,9 @@ IP 地址就像街道地址一样。它公开识别你的实际位置，并且�
 - 价格正常（公平合理），CP值正常
 
 
+<a name="StrongVPN推荐"></a>
 ### 1.<a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table" target="_blank">StrongVPN–性价比最高</a>
-
 ### StrongVPN推荐
-
 <img src="./image/1d83ca53.gif" alt="drawing" width="400"/>
 
 StrongVPN属于最近兴起的欧美VPN。与欧美最大的ExpressVPN相比，价格便宜很多，最低每月3.5美元（12个月计划-每月3.5美元（总费用43.99美元）。ExpressVPN费用接近6美元不仅如此， StrongVPN支持支付宝，ExpressVPN不支持。还有一个工程团队不断更新和修复节点。如果你只是想在线观看YouTube或Facebook，我推荐StrongVPN。StrongVPN网站声称它是“最好的多媒体VPN”，并且建议支持 Netflix、Hulu、ABC、HBO 和 Sky Go 等服务。
@@ -214,8 +215,10 @@ strongvpn设计了一个全球网络，其中包括 950 多台服务器，支持
 | 客户支持 | 电子邮件、实时聊天、电话 |
 | 隐私政策 | 无日志记录 |
 
+
+<a name="Expressvpn-买12个月送三个月"></a>
 ### 2 <a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>
-### Expressvpn (买12个月送三个月)
+### Expressvpn-买12个月送三个月
 
 <img src="./image/w_d.png" alt="drawing" width="600"/>
 
