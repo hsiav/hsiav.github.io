@@ -4,7 +4,7 @@
 # 喜欢本文的朋友，欢迎点右上方的star以及folk本文档案，让大家对翻墙有更深的认识，一起为自由而努力
 
 
-### 直接看 价格性价比结论 墙宇宙 VPN价格 測速比较图
+### 直接看 价格性价比结论 墙宇宙 VPN价格 测速比较图
 
 ### 我整理出的四个VPN的特色以及差异，包含最优惠的购买方式
 
@@ -15,12 +15,12 @@
 | <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark</a> | 一次买两年    |    $2.30 | 55 |  无限多设备 | 不支援 |
 |  <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(免费试用两天)</a> |  一次买一年    |    $4.17 | 50 | 免费试用两天 | 支援 |
 
-### 墙宇宙 VPN价格 比较图 怎样购买最便宜 (中國翻墻VPN購買的最佳策略)
+### 墙宇宙 VPN价格 比较图 怎样购买最便宜 (中国翻墙VPN购买的最佳策略)
 
-- 如果打算一次購買一年，對於速度並不是太要求，建議買<a href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table">strongvpn</a>，只要43美金(隔一年再用一個新email使用本站優惠瑪)
-- 如果打算一次購買兩年，對於速度並不是太要求，建議買<a href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">surfshark</a>，只要55美金(隔一年再用一個新email使用本站優惠瑪)
-- 如果打算一次買一年且對速度要求很高，當然建議買<a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>(隔一年再用一個新email使用本站優惠瑪)。一個月大概6美金
-- 如果只是想要念paper，速度上不那麼要求，可以考慮<a href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">flowvpn</a>
+- 如果打算一次购买一年，对于速度并不是太要求，建议买<a href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table">strongvpn</a>，只要43美金(隔一年再用一个新email使用本站优惠玛)
+- 如果打算一次购买两年，对于速度并不是太要求，建议买<a href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">surfshark</a>，只要55美金(隔一年再用一个新email使用本站优惠玛)
+- 如果打算一次买一年且对速度要求很高，当然建议买<a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>(隔一年再用一个新email使用本站优惠玛)。一个月大概6美金
+- 如果只是想要念paper，速度上不那麽要求，可以考虑<a href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">flowvpn</a>
 
 
 经由我研究和多方的测试，针对不同地区蒐集到的VPN的测速资料，做成以下图片给大家参考。Expressvpn速度稳定度最高，strongvpn次之，surfshark和flowvpn差不多。就看大家的购买策略。以下是我针对 四款VPN在台湾，日本，南韩，等常见地区的平均，经过多次测试并且画出标准差(error bar)。考量到价格跟速度比较，
