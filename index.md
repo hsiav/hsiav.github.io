@@ -74,6 +74,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 > #### 2.4 [FlowVPN-推荐-免费用两天](#FlowVPN-推荐-免费用两天)
 > #### 2.5 [分析和对比市面上不同VPN提供商的隐私政策](#分析和对比市面上不同VPN提供商的隐私政策)
 > ### 3. [strongvpn手把手-支付保alipay-购买教学](#strongvpn手把手-支付保alipay-购买教学)
+> #### 3.1 [移动设备-Android-iOS-上的StrongVPN设置教程](#移动设备-Android-iOS-上的StrongVPN设置教程)
 > ### 4. [expressvpn线上优惠玛购买教学-如何购买ExpressVPN](#expressvpn线上优惠玛购买教学-如何购买ExpressVPN)
 > #### 4.1 [跨设备-PC-手机-平板-使用ExpressVPN的设置教程](#跨设备-PC-手机-平板-使用ExpressVPN的设置教程)
 > ### 5. [surfshark手把手购买教学](#surfshark手把手购买教学)
@@ -382,6 +383,31 @@ strongvpn的特点就是有支付保(alipay)喜欢支付保的付款的朋友，
 第三步骤: 往下滑，选择alipay付款，或是国内银行卡，包含visa或是master card(海外卡也可以)，还有paypal可以用
 
 <img src="./image/strong/s4-1.PNG" alt="drawing" width="600"/>
+
+
+### 移动设备（Android / iOS)上的StrongVPN设置教程
+<a name="移动设备-Android-iOS-上的StrongVPN设置教程"></a>
+不论你是Android用户还是iOS用户，以下是如何在移动设备上设置StrongVPN的步骤：
+
+#### 1. 购买和注册StrongVPN
+
+首先，你需要访问<a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table" target="_blank">StrongVPN</a>，选择一个合适的套餐，并创建一个账户。
+
+#### 2. 在Android设备上安装和设置StrongVPN
+
+- 打开Google Play Store，搜索StrongVPN。
+- 点击"Install"下载和安装StrongVPN应用。
+- 安装完成后，打开StrongVPN应用，输入你的用户名和密码，然后点击"Login"。
+- 你可以点击"Best Available Location"自动连接到最佳服务器，或者点击"Choose Location"手动选择你想连接的服务器。
+
+#### 3. 在iOS设备上安装和设置StrongVPN
+
+- 打开App Store，搜索StrongVPN。
+- 点击"Get"下载和安装StrongVPN应用。
+- 安装完成后，打开StrongVPN应用，输入你的用户名和密码，然后点击"Sign In"。
+- 你可以点击"Best Available Location"自动连接到最佳服务器，或者点击"Choose Location"手动选择你想连接的服务器。
+
+现在，你已经在你的移动设备上设置了StrongVPN，你可以享受安全、私密和无阻碍的互联网体验了！
 
 
 
