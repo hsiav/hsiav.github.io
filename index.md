@@ -1238,8 +1238,18 @@ VPN服务通过创建一个加密的"隧道"，将你的网络连接从你的设
 
 AppleTV的VPN教学
 详细可以参考: <a rel="https://www.flowvpn.com/apple-tv/">Flow VPN for Apple TV</a>
-以及从这里登入:
-<a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(免费试用两天)</a>
+
+虽然 tvOS 17 正在公开测试阶段，但 FlowVPN 必须通过 Apple 的 TestFlight 应用程序安装。要下载适用于 Apple TV 的 FlowVPN，请按照以下说明将 Apple 的 TestFlight 应用程序安装到 iOS/macOS 设备和 Apple TV，然后下载 FlowVPN。需要 tvOS 17。
+
+如果你是 FlowVPN 新手，请创建一个账户：[FlowVPN(免费试用两天)](#https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github)
+
+将 TestFlight 下载到你的 iPhone、iPad 或 Mac：[下载 TestFlight](#https://apps.apple.com/app/testflight/id899247664)
+
+在此加入 FlowVPN Apple TV 测试版：[适用于 Apple TV 的 FlowVPN](#https://www.flowvpn.com/beta-tv)
+
+在 Apple TV 上下载 TestFlight：[从 Apple TV App Store 下载 TestFlight](#https://apps.apple.com/app/testflight/id899247664)
+
+打开 TestFlight 应用程序并安装 FlowVPN
 
 ****FlowVPN的Apple TV VPN**** —— 當別人還在努力跟上時代，他們已經開創了新的時代。
 
