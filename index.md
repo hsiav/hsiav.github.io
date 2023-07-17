@@ -1251,7 +1251,7 @@ AppleTV的VPN教学
 
 5打开 TestFlight 应用程序并安装 FlowVPN
 
-****FlowVPN的Apple TV VPN**** —— 當別人還在努力跟上時代，他們已經開創了新的時代。
+****FlowVPN的Apple TV VPN**** —— 当别人还在努力跟上时代，他们已经开创了新的时代。
 
 
 
