@@ -56,8 +56,8 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 <img src="./image/speed_test/vpn_speed_test-90.png" alt="drawing" width="600"/> -->
 
 
-- ** 如果打算一次购买一年，对于速度并不是太要求，建议买<a href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table">strongvpn</a>，只要43美金(隔一年再用一个新email使用本站优惠玛)，一个月大概4美金 ** 
-- ** 如果打算一次买一年且对速度要求很高，当然建议买<a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>(隔一年再用一个新email使用本站优惠玛)。一个月大概6美金 **
+- **如果打算一次购买一年，对于速度并不是太要求，建议买<a href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table">strongvpn</a>，只要43美金(隔一年再用一个新email使用本站优惠玛)，一个月大概4美金** 
+- **如果打算一次买一年且对速度要求很高，当然建议买<a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>(隔一年再用一个新email使用本站优惠玛)。一个月大概6美金**
 
 
 
