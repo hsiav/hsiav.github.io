@@ -37,6 +37,10 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 | Surfshark | 800Mbps | 300Mbps |
 | FlowVPN | 650Mbps | 380Mbps |
 
+#### 墙宇宙 VPN 速度测试图，包含上传跟下载速度。
+
+针对这样测速，我们不只每天更新，并起从今天起，过去七天，14天，一个月，三个月的测速，都经过平均，每天都坐至少10-20次的连线测试。关于我们设备的细节，可以参考本文末尾。
+
 <img src="./image/speed_test/vpn_speed_test.png" alt="drawing" width="600"/>
 
 - 如果打算一次购买一年，对于速度并不是太要求，建议买<a href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table">strongvpn</a>，只要43美金(隔一年再用一个新email使用本站优惠玛)，一个月大概4美金
