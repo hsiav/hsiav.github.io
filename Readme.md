@@ -1,5 +1,5 @@
 
-# 翻墙软体中国VPN推荐，推荐四款以下好用(最近更新：`20231204`更新) 含性价比比较，只剩四款能用 - 墙宇宙
+# 翻墙软体中国VPN推荐，推荐四款以下好用(每日最近更新测速：`20231204`更新) 含性价比比较，只剩四款能用 - 墙宇宙
 
 ## 喜欢本文的朋友，欢迎点右上方的star以及folk本文档案，让大家对翻墙有更深的认识，一起为自由而努力
 
@@ -41,10 +41,10 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 
 针对这样测速，我们不只每天更新，并起从今天起，过去**七天，14天，一个月，三个月**的测速，都经过平均，每天都坐至少10-20次的连线测试。关于我们设备的细节，可以参考本文末尾。
 
-過去 **七天** 的测速
-<img src="./image/speed_test/vpn_speed_test-7.png" alt="drawing" width="600"/>
+過去 **7天，14天，30天，90天(三個月)** 的测速
+<img src="./image/speed_test/vpn_speed_test_combined.png" alt="drawing" width="600"/>
 
-過去 **14天** 的测速
+<!-- 過去 **14天** 的测速
 <img src="./image/speed_test/vpn_speed_test-14.png" alt="drawing" width="600"/>
 
 
@@ -53,7 +53,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 
 
 過去 **90天(三個月)** 的测速
-<img src="./image/speed_test/vpn_speed_test-90.png" alt="drawing" width="600"/>
+<img src="./image/speed_test/vpn_speed_test-90.png" alt="drawing" width="600"/> -->
 
 
 - 如果打算一次购买一年，对于速度并不是太要求，建议买<a href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table">strongvpn</a>，只要43美金(隔一年再用一个新email使用本站优惠玛)，一个月大概4美金
