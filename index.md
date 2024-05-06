@@ -44,7 +44,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 过去 **7天，14天，30天，90天(三个月)** 的测速
 
 从2024年05月05号 回推7天, 14天, 30天, 90天的测速。
-<img src="./image/speed_test/vpn_speed_test_combined.png" alt="drawing" width="600"/>
+<img src="./image/speed_test/vpn_speed_test_combined.png" alt="drawing" width="1000"/>
 
 <!-- 過去 **14天** 的测速
 <img src="./image/speed_test/vpn_speed_test-14.png" alt="drawing" width="600"/>
