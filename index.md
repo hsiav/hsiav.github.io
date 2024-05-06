@@ -47,15 +47,15 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 <img src="./image/speed_test/vpn_speed_test_combined.png" alt="drawing" width="1000"/>
 
 <!-- 過去 **14天** 的测速
-<img src="./image/speed_test/vpn_speed_test-14.png" alt="drawing" width="600"/>
+<img src="./image/speed_test/vpn_speed_test-14.png" alt="drawing" width="1000"/>
 
 
 過去 **30天** 的测速
-<img src="./image/speed_test/vpn_speed_test-30.png" alt="drawing" width="600"/>
+<img src="./image/speed_test/vpn_speed_test-30.png" alt="drawing" width="1000"/>
 
 
 過去 **90天(三個月)** 的测速
-<img src="./image/speed_test/vpn_speed_test-90.png" alt="drawing" width="600"/> -->
+<img src="./image/speed_test/vpn_speed_test-90.png" alt="drawing" width="1000"/> -->
 
 
 - **如果打算一次购买一年，对于速度并不是太要求，建议买<a href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table">strongvpn</a>，只要43美金(隔一年再用一个新email使用本站优惠玛)，一个月大概4美金** 
@@ -263,7 +263,7 @@ strongvpn设计了一个全球网络，其中包括 950 多台服务器，支持
 ### 2 <a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>
 ### Expressvpn-买12个月送三个月
 
-<img src="./image/w_d.png" alt="drawing" width="600"/>
+<img src="./image/w_d.png" alt="drawing" width="1000"/>
 
 
 ### Expressvpn 的特色
@@ -314,7 +314,7 @@ ExpressVPN 的隐私保护使用工业级加密。Diffie-Helman 密钥交换可�
 ### 3 <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark (具有无限多设备连接)</a>
 ### Surfshark VPN 冲浪鲨 推荐
 <a name="SurfsharkVPN-冲浪鲨-推荐"></a>
-<img src="./image/surfshark/1-1.png" alt="drawing" width="600"/>
+<img src="./image/surfshark/1-1.png" alt="drawing" width="1000"/>
 
 
 Surfshark 是一款高度精致且功能强大的 VPN，可与最好的优质提供商竞争，同时提供极具吸引力的价格点。我们发现终止开关存在一些非常小的问题，而且 OpenVPN 的速度并不是最好的，但是以这个价格，你找不到更好的 VPN。Surfshark 在网络上受到广泛推荐，成立于 2018 年，是一项相对较新的服务，已经引起了轰动，现在它能与最大的VPN提供商一较高下，被认为是市场上最好的 VPN之一。
@@ -396,19 +396,19 @@ strongvpn的特点就是有支付保(alipay)喜欢支付保的付款的朋友，
 
 第一步骤: 前往本站的专属优惠 <a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table" target="_blank">StrongVPN</a>，点选start now (参照下图)
 
-<img src="./image/strong/s1-1.PNG" alt="drawing" width="600"/>
+<img src="./image/strong/s1-1.PNG" alt="drawing" width="1000"/>
 
 第二步骤: 如果你开启后发现你没办法购买，因为你正在使用其他VPN，这时候可以先透过註册flowvpn(註册方式可以参考下方的flowvpn安装教学)，flowvpn有两天免费试用，你可以先使用他来购买strongvpn。
 
-<img src="./image/strong/s2-1.PNG" alt="drawing" width="600"/>
+<img src="./image/strong/s2-1.PNG" alt="drawing" width="1000"/>
 
 註册完flowvpn以后，选择UK，你会发现你就可以购买囉。左边的一次买一年只要43美金，(注意: 这个方式只能使用12个月，如果要续约，建议重新办一个email,再回来使用这个优惠玛。)
 
-<img src="./image/strong/s3-1.PNG" alt="drawing" width="600"/>
+<img src="./image/strong/s3-1.PNG" alt="drawing" width="1000"/>
 
 第三步骤: 往下滑，选择alipay付款，或是国内银行卡，包含visa或是master card(海外卡也可以)，还有paypal可以用
 
-<img src="./image/strong/s4-1.PNG" alt="drawing" width="600"/>
+<img src="./image/strong/s4-1.PNG" alt="drawing" width="1000"/>
 
 
 ### 移动设备（Android / iOS)上的StrongVPN设置教程
@@ -444,7 +444,7 @@ Expressvpn 支援: 国内银行卡购买ExpressVPN，包含visa或是master card
 
 ### 第一步: 前往优惠连结<a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn 优惠</a>:点选: get expressvpn (底下的红框框)
 
-<img src="./image/exp/1-1.PNG" alt="drawing" width="600"/>
+<img src="./image/exp/1-1.PNG" alt="drawing" width="1000"/>
 
 | 订阅时长 | 总费用 | 每月费用 |
 | ---- | ---- | ---- |
@@ -454,11 +454,11 @@ Expressvpn 支援: 国内银行卡购买ExpressVPN，包含visa或是master card
 
 ### 第二步: 你可以看到 买一年送三个月得连结，所以你只要付12个月的钱，但可以使用15个月(注意: 这个方式只能使用15个月，如果要续约，建议重新办一个email,再回来使用这个优惠玛。)
 
-<img src="./image/exp/1-2.PNG" alt="drawing" width="600"/>
+<img src="./image/exp/1-2.PNG" alt="drawing" width="1000"/>
 
 ### 第三步: 输入的电子邮件和付款方式。(Expressvpn 支援: 国内银行卡购买ExpressVPN，包含visa或是master card(海外卡也可以)，还有比特币，还有paypal可以用)，千万不要打错。不然你就收不到验证码了。
 
-<img src="./image/exp/1-3.PNG" alt="drawing" width="600"/>
+<img src="./image/exp/1-3.PNG" alt="drawing" width="1000"/>
 
 
 ### 跨设备-PC, 手机, 平板-使用ExpressVPN的设置教程
@@ -496,16 +496,16 @@ Expressvpn 支援: 国内银行卡购买ExpressVPN，包含visa或是master card
 ## surfshark手把手购买教学
 ### 第一步: 前往surfshark优惠玛: <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark (具有无限多设备连接)</a> 点选: get (参考下方教学图片)
 
-<img src="./image/surfshark/1-1.png" alt="drawing" width="600"/>
+<img src="./image/surfshark/1-1.png" alt="drawing" width="1000"/>
 
 ### 第二步: 你可以看到 一次买两年的优惠连结，所以你只要付24个月的钱，一个月不到3美金 (注意: 这个方式只能使用24个月，如果要续约，建议重新办一个email,再回来使用这个优惠玛。)
 
-<img src="./image/surfshark/2-1.PNG" alt="drawing" width="600"/>
+<img src="./image/surfshark/2-1.PNG" alt="drawing" width="1000"/>
 
 
 ### 第三步: 输入的电子邮件和付款方式。(Surfshark 支援: 国内银行卡包含visa或是master card(海外卡也可以)，还有比特币，还有paypal可以用)，千万不要打错。不然你就收不到验证码了。
 
-<img src="./image/surfshark/3-1.PNG" alt="drawing" width="600"/>
+<img src="./image/surfshark/3-1.PNG" alt="drawing" width="1000"/>
 
 
 ## flowvpn免费试用两天-手把手购买教学
@@ -520,15 +520,15 @@ Expressvpn 支援: 国内银行卡购买ExpressVPN，包含visa或是master card
 
 ### 第一步: 到 <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(免费试用两天)</a> 输入电子邮件跟密码 (千万不要出错)
 
-<img src="./image/flowvpn/3-1.PNG" alt="drawing" width="600"/>
+<img src="./image/flowvpn/3-1.PNG" alt="drawing" width="1000"/>
 
 ### 第二步: 通过人机验证: 这裡选狗的照片
 
-<img src="./image/flowvpn/2-1.PNG" alt="drawing" width="600"/>
+<img src="./image/flowvpn/2-1.PNG" alt="drawing" width="1000"/>
 
 ### 第三步: 就可以下载flowvpn (支援: 国内银行卡包含visa或是master card(海外卡也可以)，还有alipay)
 
-<img src="./image/flowvpn/3-1.PNG" alt="drawing" width="600"/>
+<img src="./image/flowvpn/3-1.PNG" alt="drawing" width="1000"/>
 
 
 
@@ -915,21 +915,21 @@ Surfshack 提供了一种专用的智能上网模式，可自动将您连接到�
 ###  第一步  StrongVPN官方网站注册并完成购买以后，从<a href="https://dr-wall.com/go/strong?data1=strong&data2=article">StrongVPN</a> 登入用户端后台，选择”StrongVPN Client”，strongvpn会自动侦测你的系统。
 如果系统没有自动选择，你可自行选择作业系统进行软件下载。
 
-<img src="./image/strong/s6.PNG" alt="drawing" width="600"/>
+<img src="./image/strong/s6.PNG" alt="drawing" width="1000"/>
 
 ### 第二步: 下载完成后，根据指示即可安装完成。登入需要输入信箱与刚刚透过邮件设定好的密码。
 有时候，系统会询问您是否允许设置 StrongVPN 应用程序，单击弹出窗口上的“是”按钮。偶尔也会询问您是否允许启动 StrongVPN 应用程序。也点"是"。即可
 
-<img src="./image/strong/s7.PNG" alt="drawing" width="600"/>
+<img src="./image/strong/s7.PNG" alt="drawing" width="1000"/>
 
 ### 第三步: 输入帐号密码之后开启，输入帐号密码登入即可使用。参考下方图片
 
-<img src="./image/strong/s8.PNG" alt="drawing" width="600"/>
+<img src="./image/strong/s8.PNG" alt="drawing" width="1000"/>
 
 ### 第四步: 智能选择节点或是自己选择地点
 你可以透过Strongvpn内建的智慧节点选择或自行选择节点进行连线。我个人建议中国翻墙首选的话，目前测试起来香港台湾日本等三地效果最佳。更多细节我会在下面一一回答。
 
-<img src="./image/strong/3.PNG" alt="drawing" width="600"/>
+<img src="./image/strong/3.PNG" alt="drawing" width="1000"/>
 
 
 
@@ -947,17 +947,17 @@ Expressvpn 底下我用mac当作教学。 先到<a href="https://www.expressvpn.
 ### 获取激活码(activation code)
 要在的 Mac 电脑上使用 ExpressVPN，找到你的activation code。
 
-<img src="./image/exp/4.PNG" alt="drawing" width="600"/>
+<img src="./image/exp/4.PNG" alt="drawing" width="1000"/>
 
 ### 第二步 安装应用程序
 在电脑上找到下载的文件并打开它。弹出一个窗口。系统会问你 “是否允许运行一个程序来确定是否可以安装该软件。” 单击继续，然后继续单击继续，直到到达“安装类型”屏幕。选择安装local位置，点击安装。等待安装完成，然后单击关闭
 
-<img src="./image/exp/5.PNG" alt="drawing" width="600"/>
+<img src="./image/exp/5.PNG" alt="drawing" width="1000"/>
 
 ### 第三部: 登入expressvpn开始使用:
 首先sign in ExpressVPN，输入你的帐号密码(或是刚刚的activation code)，mac系统可能会询问你是否允许在VPN 配置中添加 ExpressVPN IKEv2，请单击允许继续。
 
-<img src="./image/exp/6.PNG" alt="drawing" width="600"/>
+<img src="./image/exp/6.PNG" alt="drawing" width="1000"/>
 
 ### 第四部: 使用方法
 要连接到 VPN 服务器位置，请单击中间的圈圈按钮。. 默认情况下，ExpressVPN 会建议为自动提供最佳体验的位置，称为智能位置。点选以后，红色的圈圈会变成绿色的 (显示connected)。表示连线上了，这时候可以测试看看可否翻牆成功。
@@ -966,7 +966,7 @@ Expressvpn 底下我用mac当作教学。 先到<a href="https://www.expressvpn.
 
 要关掉vpn，就在点击中间的按钮，系统会回到disconnected状态。点下方可以换国家。 自己选择位置，在中国的朋友建议选择香港，台湾，日本这几个地方。更多expressvpn操作细节，请参考我的其他文章。
 
-<img src="./image/exp/7.PNG" alt="drawing" width="600"/>
+<img src="./image/exp/7.PNG" alt="drawing" width="1000"/>
 
 
 ## Surfshark 的安装教学
@@ -975,33 +975,33 @@ Expressvpn 底下我用mac当作教学。 先到<a href="https://www.expressvpn.
 ### 到官方网站下载surfshark以后，进行安装
 可參考下方圖片，系統會詢問你是否安裝，都點是:
 
-<img src="./image/surfshark/5.PNG" alt="drawing" width="600"/>
+<img src="./image/surfshark/5.PNG" alt="drawing" width="1000"/>
 
 ### 输入帐号密码
 
 下載完成以後，打開系統，輸入帳號密碼即可登入。
 
-<img src="./image/surfshark/6.PNG" alt="drawing" width="600"/>
+<img src="./image/surfshark/6.PNG" alt="drawing" width="1000"/>
 
 ### 即可连线成功。
 
 點選中間的connected按鈕，即可連線，這時候會出現surfshark正在運行的畫面，左邊可以選擇連線國家，請參考下方是意圖。
 
-<img src="./image/surfshark/7.PNG" alt="drawing" width="600"/>
+<img src="./image/surfshark/7.PNG" alt="drawing" width="1000"/>
 
 
 ## flowvpn 的安装教学
 
 ### 现在来解释如何下载并使用FlowVPN。按照上述方法付完钱以後
 选择你的对应设备: 有iOS, linux, windows, mac, 或android，这裡用windows系统当作教学。关于其他设备，可以参考我的其他文章。
-<img src="./image/flowvpn/5.PNG" alt="drawing" width="600"/>
+<img src="./image/flowvpn/5.PNG" alt="drawing" width="1000"/>
 
 ### 下載完軟體以後，點擊安裝，安裝完畢即可
 
 ### 点选连线(connect)，下方选单可以选取连线国家。参考下方图片，连线上以后，windows电脑会出现flowvpn已经connected。
 可以選擇國家
 
-<img src="./image/flowvpn/6.PNG" alt="drawing" width="600"/>
+<img src="./image/flowvpn/6.PNG" alt="drawing" width="1000"/>
 
 
 ## 翻墙后可以做什么呢
@@ -1436,7 +1436,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 <a name="VPN服务在全球各大地区的速度测试"></a>
 下图展示了四种不同的VPN服务在全球各大地区的速度测试结果。蓝色柱状图代表下载速度，而红色柱状图代表上传速度。由此，我们可以直观地看出每个VPN服务在亚洲、欧洲、北美、南美、非洲和大洋洲地区的性能表现。
 值得注意的是，速度测试的结果可能会因为许多因素而有所不同，包括服务器的位置、网络条件、测试时间等等。因此，这些结果应被视为参考，而不是决定性的性能指标。
-<img src="./image/speed_test/vpn_speed_test_region.png" alt="drawing" width="600"/>
+<img src="./image/speed_test/vpn_speed_test_region.png" alt="drawing" width="1000"/>
 
 ### VPN服务在世界各大洲的连接成功率
 <a name="VPN服务在世界各大洲的连接成功率"></a>
@@ -1446,7 +1446,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 
 总的来说，选择哪一种VPN服务，用户需要考虑他们所处的地理位置和该VPN服务在该地区的连接成功率。
 
-<img src="./image/speed_test/vpn_connection_ratio.png" alt="drawing" width="600"/>
+<img src="./image/speed_test/vpn_connection_ratio.png" alt="drawing" width="1000"/>
 
 
 ### VPN服务在世界各大洲连接Netflix的成功率
@@ -1455,7 +1455,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 从图中我们可以看出，这四种VPN服务在亚洲，欧洲和澳洲连接Netflix的成功率都相当高，表现出色。而在非洲和南美洲的表现则相对较弱。这可能是由于这些地区的网络环境或者基础设施等因素影响。
 总的来说，选择哪一种VPN服务，用户需要考虑他们所处的地理位置和该VPN服务在该地区连接Netflix的成功率。这张图表提供了一个很好的视觉参考，帮助用户根据他们的需求和地理位置来选择最适合他们的VPN服务。
 
-<img src="./image/speed_test/vpn_connection_netflix.png" alt="drawing" width="600"/>
+<img src="./image/speed_test/vpn_connection_netflix.png" alt="drawing" width="1000"/>
 
 ### VPN服务在世界各大洲连接Disney+的成功率
 <a name="VPN服务在世界各大洲连接Disney+的成功率"></a>
@@ -1463,7 +1463,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 从图中我们可以看出，这四种VPN服务在亚洲，欧洲和澳洲连接Disney+的成功率都相当高，表现出色。而在非洲和南美洲的表现则相对较弱。这可能是由于这些地区的网络环境或者基础设施等因素影响。
 总的来说，选择哪一种VPN服务，用户需要考虑他们所处的地理位置和该VPN服务在该地区连接Disney+的成功率。这张图表提供了一个很好的视觉参考，帮助用户根据他们的需求和地理位置来选择最适合他们的VPN服务。
 
-<img src="./image/speed_test/vpn_connection_disney.png" alt="drawing" width="600"/>
+<img src="./image/speed_test/vpn_connection_disney.png" alt="drawing" width="1000"/>
 
 
 ## 如何用VPN观看流媒体指南
