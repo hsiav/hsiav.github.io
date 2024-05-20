@@ -1446,6 +1446,20 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 
 总的来说，选择哪一种VPN服务，用户需要考虑他们所处的地理位置和该VPN服务在该地区的连接成功率。
 
+
+
+#### StrongVPN Speeds in Different Network Environments
+
+| Location      |   StrongVPN 4G |   StrongVPN 5G |   StrongVPN WiFi |
+|:--------------|---------------:|---------------:|-----------------:|
+| North America |             60 |             63 |               60 |
+| Europe        |             78 |             78 |               77 |
+| Oceania       |             55 |             58 |               59 |
+| Asia          |             74 |             72 |               75 |
+| C-A           |             48 |             46 |               48 |
+| South America |             50 |             51 |               52 |
+| Africa        |             46 |             46 |               49 |
+
 <img src="./image/speed_test/vpn_connection_ratio.png" alt="drawing" width="1000"/>
 
 
