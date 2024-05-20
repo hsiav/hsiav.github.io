@@ -1448,7 +1448,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 
 
 
-#### StrongVPN Speeds in Different Network Environments
+#### StrongVPN Speeds in Different Network Environments 最近更新 `2024年05月20号`更新
 
 | Location      |   StrongVPN 4G |   StrongVPN 5G |   StrongVPN WiFi |
 |:--------------|---------------:|---------------:|-----------------:|
@@ -1460,7 +1460,49 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 | South America |             50 |             51 |               52 |
 | Africa        |             46 |             46 |               49 |
 
+
+#### ExpressVPN Speeds in Different Network Environments 最近更新 `2024年05月20号`更新
+
+| Location      |   ExpressVPN 4G |   ExpressVPN 5G |   ExpressVPN WiFi |
+|:--------------|----------------:|----------------:|------------------:|
+| North America |              64 |              62 |                60 |
+| Europe        |              75 |              79 |                76 |
+| Oceania       |              58 |              55 |                56 |
+| Asia          |              75 |              72 |                72 |
+| C-A           |              48 |              49 |                46 |
+| South America |              51 |              52 |                54 |
+| Africa        |              48 |              46 |                48 |
+
+#### Surfshark Speeds in Different Network Environments 最近更新 `2024年05月20号`更新
+
+| Location      |   Surfshark 4G |   Surfshark 5G |   Surfshark WiFi |
+|:--------------|---------------:|---------------:|-----------------:|
+| North America |             62 |             64 |               61 |
+| Europe        |             75 |             76 |               76 |
+| Oceania       |             55 |             57 |               58 |
+| Asia          |             76 |             74 |               75 |
+| C-A           |             45 |             45 |               47 |
+| South America |             54 |             51 |               53 |
+| Africa        |             46 |             46 |               45 |
+
+
+#### FlowVPN Speeds in Different Network Environments 最近更新 `2024年05月20号`更新
+
+| Location      |   FlowVPN 4G |   FlowVPN 5G |   FlowVPN WiFi |
+|:--------------|-------------:|-------------:|---------------:|
+| North America |           63 |           64 |             64 |
+| Europe        |           79 |           79 |             78 |
+| Oceania       |           56 |           58 |             57 |
+| Asia          |           74 |           76 |             72 |
+| C-A           |           49 |           49 |             46 |
+| South America |           53 |           54 |             51 |
+| Africa        |           49 |           45 |             48 |
+
 <img src="./image/speed_test/vpn_connection_ratio.png" alt="drawing" width="1000"/>
+
+
+
+
 
 
 ### VPN服务在世界各大洲连接Netflix的成功率
