@@ -1,5 +1,5 @@
 
-# 翻墙软体中国VPN推荐，推荐四款以下好用(每日最近更新测速：`2024年05月20号`更新) 含性价比比较，只剩四款能用 - 墙宇宙
+# 翻墙软体中国VPN推荐，推荐四款以下好用(每日最近更新测速：`2024年06月01号`更新) 含性价比比较，只剩四款能用 - 墙宇宙
 
 ## 喜欢本文的朋友，欢迎点右上方的star以及folk本文档案，让大家对翻墙有更深的认识，一起为自由而努力
 
@@ -43,7 +43,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 
 过去 **7天，14天，30天，90天(三个月)** 的测速
 
-从2024年05月20号 回推7天, 14天, 30天, 90天的测速。
+从2024年06月01号 回推7天, 14天, 30天, 90天的测速。
 <img src="./image/speed_test/vpn_speed_test_combined.png" alt="drawing" width="1000"/>
 
 <!-- 過去 **14天** 的测速
@@ -64,7 +64,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 
 
 
-最近更新：`2024年05月20号`
+最近更新：`2024年06月01号`
 
 >**在当前的环境下，能在国内长期稳定并有效使用的VPN服务已经变得相对稀缺。许多VPN评论网站往往互相抄袭，发布的内容很多都已经失去了时效性。有一部分推荐的VPN在国内的实际效果并不理想，令人遗憾的是，很多的评论者身处国外，他们并无法提供在国内使用VPN的真实体验。特别是在过去的两年中，由于"防火长城"的严密封锁，许多过去可用的VPN现在已经变得几乎无法使用。因此，在阅读本文的同时，我建议大家需要谨慎理解并避免进入"坑"。本文将根据实际的使用经验介绍各种VPN软件的最新使用情况，并将持续更新最新的使用情况，以供大家参考和避坑。本文是关于中国安全翻牆策略的详细版本，讨论了翻牆软件、科学上网以及网络安全等相关问题。如果你只希望快速选择一款科学上网软件来翻牆，那麽可以直接查看本文下方的目录导航。
 
@@ -1448,7 +1448,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 
 
 
-#### StrongVPN Speeds in Different Network Environments
+#### StrongVPN Speeds in Different Network Environments 最近更新 `2024年05月20号`更新
 
 | Location      |   StrongVPN 4G |   StrongVPN 5G |   StrongVPN WiFi |
 |:--------------|---------------:|---------------:|-----------------:|
@@ -1460,7 +1460,49 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 | South America |             50 |             51 |               52 |
 | Africa        |             46 |             46 |               49 |
 
+
+#### ExpressVPN Speeds in Different Network Environments 最近更新 `2024年05月20号`更新
+
+| Location      |   ExpressVPN 4G |   ExpressVPN 5G |   ExpressVPN WiFi |
+|:--------------|----------------:|----------------:|------------------:|
+| North America |              64 |              62 |                60 |
+| Europe        |              75 |              79 |                76 |
+| Oceania       |              58 |              55 |                56 |
+| Asia          |              75 |              72 |                72 |
+| C-A           |              48 |              49 |                46 |
+| South America |              51 |              52 |                54 |
+| Africa        |              48 |              46 |                48 |
+
+#### Surfshark Speeds in Different Network Environments 最近更新 `2024年05月20号`更新
+
+| Location      |   Surfshark 4G |   Surfshark 5G |   Surfshark WiFi |
+|:--------------|---------------:|---------------:|-----------------:|
+| North America |             62 |             64 |               61 |
+| Europe        |             75 |             76 |               76 |
+| Oceania       |             55 |             57 |               58 |
+| Asia          |             76 |             74 |               75 |
+| C-A           |             45 |             45 |               47 |
+| South America |             54 |             51 |               53 |
+| Africa        |             46 |             46 |               45 |
+
+
+#### FlowVPN Speeds in Different Network Environments 最近更新 `2024年05月20号`更新
+
+| Location      |   FlowVPN 4G |   FlowVPN 5G |   FlowVPN WiFi |
+|:--------------|-------------:|-------------:|---------------:|
+| North America |           63 |           64 |             64 |
+| Europe        |           79 |           79 |             78 |
+| Oceania       |           56 |           58 |             57 |
+| Asia          |           74 |           76 |             72 |
+| C-A           |           49 |           49 |             46 |
+| South America |           53 |           54 |             51 |
+| Africa        |           49 |           45 |             48 |
+
 <img src="./image/speed_test/vpn_connection_ratio.png" alt="drawing" width="1000"/>
+
+
+
+
 
 
 ### VPN服务在世界各大洲连接Netflix的成功率
