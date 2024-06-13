@@ -609,7 +609,7 @@ Proton VPN在2018年以前也是一个很火红的VPN，然而近年来由于防
 <img src="./image/black/aurora.png" alt="drawing" width="400"/>
 
 ### 光年VPN
-早在从2021年12月04号`开始，就有很多网友反映光年VPN就出现了各种跑路的迹象：光年VPN的服务器无法连接，光年VPN客服无法联繫上，光年甚至从谷歌商店和苹果商店被消失。直接不需要再使用了。
+早在从2024年06月14号`开始，就有很多网友反映光年VPN就出现了各种跑路的迹象：光年VPN的服务器无法连接，光年VPN客服无法联繫上，光年甚至从谷歌商店和苹果商店被消失。直接不需要再使用了。
 
 <img src="./image/black/lightyear.PNG" alt="drawing" width="400"/>
 
@@ -1448,7 +1448,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 
 
 
-#### StrongVPN Speeds in Different Network Environments 最近更新 `2024年05月20号`更新
+#### StrongVPN Speeds in Different Network Environments 最近更新 `2024年06月14号`更新
 
 | Location      |   StrongVPN 4G |   StrongVPN 5G |   StrongVPN WiFi |
 |:--------------|---------------:|---------------:|-----------------:|
@@ -1461,7 +1461,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 | Africa        |             46 |             46 |               49 |
 
 
-#### ExpressVPN Speeds in Different Network Environments 最近更新 `2024年05月20号`更新
+#### ExpressVPN Speeds in Different Network Environments 最近更新 `2024年06月14号`更新
 
 | Location      |   ExpressVPN 4G |   ExpressVPN 5G |   ExpressVPN WiFi |
 |:--------------|----------------:|----------------:|------------------:|
@@ -1473,7 +1473,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 | South America |              51 |              52 |                54 |
 | Africa        |              48 |              46 |                48 |
 
-#### Surfshark Speeds in Different Network Environments 最近更新 `2024年05月20号`更新
+#### Surfshark Speeds in Different Network Environments 最近更新 `2024年06月14号`更新
 
 | Location      |   Surfshark 4G |   Surfshark 5G |   Surfshark WiFi |
 |:--------------|---------------:|---------------:|-----------------:|
@@ -1486,7 +1486,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 | Africa        |             46 |             46 |               45 |
 
 
-#### FlowVPN Speeds in Different Network Environments 最近更新 `2024年05月20号`更新
+#### FlowVPN Speeds in Different Network Environments 最近更新 `2024年06月14号`更新
 
 | Location      |   FlowVPN 4G |   FlowVPN 5G |   FlowVPN WiFi |
 |:--------------|-------------:|-------------:|---------------:|
