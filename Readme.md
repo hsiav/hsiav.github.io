@@ -75,7 +75,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 多年中美工作经验告诉我，翻墙几乎是现代人必备的一个技能，由于言论审查，只要翻不了墙就不能Google学新的东西，不翻墙就不能看YouTube视频，用facebook，line和外国朋友联络，Coursera和Udemy等线上课程都不能好好观看。HBO、Netflix等影视娱乐也必须要翻墙才能观看，BBC,CNN等国际新闻也都必须要借由翻墙才观看。我本人由于跨国工作，经常要在不同地区使用科学上网，我本人自己也是网路程序员，博士是研究机器学习，也研究过网路相关问题，我将会在下面详细介绍VPN、SSR、WireGuard、V2Ray、Trojan等翻墙和信息安全技术和基本加密技术，我也将就自己的使用感受和对翻墙软件的了解，自己进行数值实验和速度测试，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具。
 
 ## 最新本月翻墙新闻更新
-微软在2024年4月发布的最新安全更新可能导致Windows用户的VPN连接出现问题。受影响的操作系统包括Windows 11、Windows 10以及Windows Server 2008及以上版本。部分用户在Reddit上反映更新后无法连接VPN，尽管有些用户通过重新安装VPN应用暂时解决了问题。微软已确认此问题，并表示将在未来的更新中修复。这一情况与微软CEO Satya Nadella强调的安全优先的立场形成了对比。
+微软在2024年6月发布的最新安全更新可能导致Windows用户的VPN连接出现问题。受影响的操作系统包括Windows 11、Windows 10以及Windows Server 2008及以上版本。部分用户在Reddit上反映更新后无法连接VPN，尽管有些用户通过重新安装VPN应用暂时解决了问题。微软已确认此问题，并表示将在未来的更新中修复。这一情况与微软CEO Satya Nadella强调的安全优先的立场形成了对比。
 <a rel="nofollow noopener" href="https://tw.news.yahoo.com/microsofts-latest-windows-security-updates-might-break-your-vpn-001216447.html" target="_blank">完整内容可以在原文链接查看</a>
 
 
