@@ -10,14 +10,14 @@
 
 | 推荐的VPN | 最优惠买法(时间) | 一个月价格(美金)  | 总价 | 特色 | 支付保(Alipay) |
 | ------------- | ------------- | ----- | ----- | ----- | ----- | 
-| <a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table" target="_blank">StrongVPN</a>    | 一次买一年 | 3.66 | 43.99 | cp值最高 | 支援 |
+| <a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN</a>    | 一次买一年 | 3.66 | 43.99 | cp值最高 | 支援 |
 |  <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(免费试用两天)</a> |  一次买一年    |    $4.17 | 50 | 免费试用两天 | 支援 |
 | <a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">Expressvpn (买12个月送三个月)</a>   | 一次买一年(可用15个月)     |  5.33 | 6.67 X 12 = 80 | 最高级 速度稳定度最高 | 不支援|
 | <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark</a> | 一次买两年    |    $2.30 | 55 |  无限多设备 | 不支援 |
 
 ### 墙宇宙 VPN价格 比较图 怎样购买最便宜 (中国翻墙VPN购买的最佳策略)
 
-- 如果打算一次购买一年，对于速度并不是太要求，建议买<a href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table">strongvpn</a>，只要43美金(隔一年再用一个新email使用本站优惠玛)
+- 如果打算一次购买一年，对于速度并不是太要求，建议买<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">strongvpn</a>，只要43美金(隔一年再用一个新email使用本站优惠玛)
 - 如果打算一次购买两年，对于速度并不是太要求，建议买<a href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">surfshark</a>，只要55美金(隔一年再用一个新email使用本站优惠玛)
 - 如果打算一次买一年且对速度要求很高，当然建议买<a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>(隔一年再用一个新email使用本站优惠玛)。一个月大概6美金
 - 如果只是想要念paper，速度上不那麽要求，可以考虑<a href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">flowvpn</a>
@@ -58,7 +58,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 <img src="./image/speed_test/vpn_speed_test-90.png" alt="drawing" width="1000"/> -->
 
 
-- **如果打算一次购买一年，对于速度并不是太要求，建议买<a href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table">strongvpn</a>，只要43美金(隔一年再用一个新email使用本站优惠玛)，一个月大概4美金** 
+- **如果打算一次购买一年，对于速度并不是太要求，建议买<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">strongvpn</a>，只要43美金(隔一年再用一个新email使用本站优惠玛)，一个月大概4美金** 
 - **如果打算一次买一年且对速度要求很高，当然建议买<a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>(隔一年再用一个新email使用本站优惠玛)。一个月大概6美金**
 
 
@@ -204,7 +204,7 @@ IP 地址就像街道地址一样。它公开识别你的实际位置，并且�
 
 
 <a name="StrongVPN推荐"></a>
-### 1.<a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table" target="_blank">StrongVPN–性价比最高</a>
+### 1.<a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN–性价比最高</a>
 ### StrongVPN推荐
 <img src="./image/1d83ca53.gif" alt="drawing" width="400"/>
 
@@ -417,7 +417,7 @@ strongvpn的特点就是有支付保(alipay)喜欢支付保的付款的朋友，
 
 #### 1. 购买和注册StrongVPN
 
-首先，你需要访问<a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table" target="_blank">StrongVPN</a>，选择一个合适的套餐，并创建一个账户。
+首先，你需要访问<a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN</a>，选择一个合适的套餐，并创建一个账户。
 
 #### 2. 在Android设备上安装和设置StrongVPN
 
@@ -1425,7 +1425,7 @@ OpenVPN 是一种免费的开源协议，可用于大多数类型的设备。
 总的来说，无论你是一个竞技游戏的玩家，还是一个喜欢探索新游戏的冒险者，VPN都能给你带来巨大的好处。ExpressVPN和StrongVPN都是我们强烈推荐的优质选择，它们将为你的游戏体验提供强大的保障。现在就点击下方的链接，开始你的全新游戏旅程吧！
 
 - [立即体验ExpressVPN](https://go.expressvpn.com/c/3828265/1462855/16063)
-- [立即体验StrongVPN](https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table)
+- [立即体验StrongVPN](https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title)
 
 _注意：在您购买时，我们可能会从中获得一定的佣金，但请放心，我们推荐的每一款产品都是我们亲自测试并深信其品质的。_
 
@@ -1547,7 +1547,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 
 安装和设置VPN其实是非常简单的，就像安装手机APP一样。在你选择好VPN之后，只需要按照以下步骤操作即可：
 
-1. 访问[StrongVPN官网](https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table) 或 [ExpressVPN官网](https://go.expressvpn.com/c/3828265/1462855/16063)，并注册一个账户。
+1. 访问[StrongVPN官网](https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title) 或 [ExpressVPN官网](https://go.expressvpn.com/c/3828265/1462855/16063)，并注册一个账户。
 2. 下载对应的VPN客户端。StrongVPN和ExpressVPN都支持各种设备，包括Windows，Mac，iOS，Android等。
 3. 打开VPN客户端，并使用你的账户信息进行登录。
 4. 在服务器列表中选择一个合适的服务器进行连接。记得选择的服务器所在的国家和你要观看的流媒体服务的所在国家一致。
