@@ -33,9 +33,9 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 | VPN服务 | WireGuard/专有协议 | OpenVPN |
 | --------- | ----------------- | ------- |
 | ExpressVPN | 600Mbps | 400Mbps |
+| FlowVPN | 650Mbps | 380Mbps |
 | StrongVPN | 500Mbps | 350Mbps |
 | Surfshark | 800Mbps | 300Mbps |
-| FlowVPN | 650Mbps | 380Mbps |
 
 #### 墙宇宙 VPN 速度测试图，包含上传跟下载速度。
 
