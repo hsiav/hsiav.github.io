@@ -206,7 +206,7 @@ IP 地址就像街道地址一样。它公开识别你的实际位置，并且�
 <a name="StrongVPN推荐"></a>
 ### 1.<a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN–性价比最高</a>
 ### StrongVPN推荐
-<img src="./image/1d83ca53.gif" alt="drawing" width="400"/>
+<img src="./image/speed_test/1d83ca53.gif" alt="drawing" width="400"/>
 
 StrongVPN属于最近兴起的欧美VPN。与欧美最大的ExpressVPN相比，价格便宜很多，最低每月3.5美元（12个月计划-每月3.5美元（总费用43.99美元）。ExpressVPN费用接近6美元不仅如此， StrongVPN支持支付宝，ExpressVPN不支持。还有一个工程团队不断更新和修复节点。如果你只是想在线观看YouTube或Facebook，我推荐StrongVPN。StrongVPN网站声称它是“最好的多媒体VPN”，并且建议支持 Netflix、Hulu、ABC、HBO 和 Sky Go 等服务。
 
@@ -263,7 +263,7 @@ strongvpn设计了一个全球网络，其中包括 950 多台服务器，支持
 ### 2 <a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (买12个月送三个月)</a>
 ### Expressvpn-买12个月送三个月
 
-<img src="./image/w_d.png" alt="drawing" width="1000"/>
+<img src="./image/speed_test/w_d.png" alt="drawing" width="1000"/>
 
 
 ### Expressvpn 的特色
@@ -344,7 +344,7 @@ Surfshark可以解除对 Netflix的封锁，而且还列出了近20 个国家/�
 ### 4 <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(免费试用两天)</a>
 ### FlowVPN-推荐-免费用两天
 <a name="FlowVPN-推荐-免费用两天"></a>
-![image](./image/download.jpg)
+![image](./image/speed_test/download.jpg)
 
 ### FlowVPN 的特色(两天免费试用)
 
