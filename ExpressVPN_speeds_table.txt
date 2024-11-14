@@ -1,0 +1,11 @@
+## ExpressVPN Speeds in Different Network Environments
+
+| Location      |   ExpressVPN 4G |   ExpressVPN 5G |   ExpressVPN WiFi |
+|:--------------|----------------:|----------------:|------------------:|
+| North America |              64 |              62 |                60 |
+| Europe        |              75 |              79 |                76 |
+| Oceania       |              58 |              55 |                56 |
+| Asia          |              75 |              72 |                72 |
+| C-A           |              48 |              49 |                46 |
+| South America |              51 |              52 |                54 |
+| Africa        |              48 |              46 |                48 |

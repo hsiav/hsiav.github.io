@@ -1,0 +1,11 @@
+## FlowVPN Speeds in Different Network Environments
+
+| Location      |   FlowVPN 4G |   FlowVPN 5G |   FlowVPN WiFi |
+|:--------------|-------------:|-------------:|---------------:|
+| North America |           63 |           64 |             64 |
+| Europe        |           79 |           79 |             78 |
+| Oceania       |           56 |           58 |             57 |
+| Asia          |           74 |           76 |             72 |
+| C-A           |           49 |           49 |             46 |
+| South America |           53 |           54 |             51 |
+| Africa        |           49 |           45 |             48 |
