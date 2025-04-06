@@ -2,7 +2,7 @@
 # 翻墙软体中国VPN推荐，推荐四款以下好用(每日最近更新测速：`2025年04月07号`更新) 含性价比比较，只剩四款能用 - 墙宇宙
 
 
-<img src="./image/vpn_intro_pic.jpg" alt="VPN Speed Test China" width="700"/>
+<!-- <img src="./image/vpn_intro_pic.jpg" alt="VPN Speed Test China" width="700"/> -->
 
 ## 喜欢本文的朋友，欢迎点右上方的star以及folk本文档案，让大家对翻墙有更深的认识，一起为自由而努力
 
