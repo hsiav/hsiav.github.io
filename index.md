@@ -69,65 +69,65 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 
 # 今日国际新闻摘要
 
-### 1. “有时候你必须服药”：特朗普捍卫了全面的关税
+### 1. 特朗普的关税激发了我们政府债务的抛售
 
-在特朗普发表评论仅几个小时后，周一早些时候股市就在亚洲跌落，香港的汉港损失了9.8％。
+美国政府借贷的成本增加了对经济的信心减弱
 
-[阅读原文](https://www.bbc.com/news/articles/c2093qgx14po)
+[阅读原文](https://www.bbc.com/news/articles/c5yrr0e7499o)
 
-### 2. 关税已经动摇了市场 - 我们应该多么担心？
+### 2. 中国对特朗普的“贸易暴政”进行报复，并以84％的关税
 
-工人对他们的养老金担心是正确的，但是更加担心的是现在和现在的经济。
+在104％的中国制造商品关税生效后，制造商和出口商正在争先恐后。
 
-[阅读原文](https://www.bbc.com/news/articles/c77njdlvj66o)
+[阅读原文](https://www.bbc.com/news/articles/c7vnn6y6g82o)
 
-### 3. 关税：为什么亚洲市场上有“血腥”？
+### 3. 当多米尼加共和国夜总会倒塌的死亡人数上升时，绝望
 
-从上海到东京和悉尼到香港的主要股票指数在周一开业时跌落。
+救援人员正在寻找该事件的幸存者，该事件至少杀死了113人。
 
-[阅读原文](https://www.bbc.com/news/articles/c934qzd094wo)
+[阅读原文](https://www.bbc.com/news/articles/cvgpp9z054go)
 
-### 4. Le Pen称挪用公司定罪为“女巫狩猎”
+### 4. 医务人员说
 
-法国极右翼政治家在被判犯有欧盟资金的罪名成立后在巴黎举行的集会。
+以色列军方说，它在加沙市的Shejaiya附近袭击了一名“高级哈马斯恐怖分子”。
 
-[阅读原文](https://www.bbc.com/news/articles/c8dg90l7ymlo)
+[阅读原文](https://www.bbc.com/news/articles/cy5rrnzw0kwo)
 
-### 5. N韩国在六年内举行第一场国际马拉松比赛
+### 5. 德国的梅尔兹印章政府协议将终结的僵局终结
 
-每年举行了平壤的比赛，以纪念金伊尔的生日，直到大流行袭击。
+弗里德里希·梅尔斯（Friedrich Merz）领导下的保守派与社会民主党达成了联盟协议，以管理欧洲最大的经济体。
 
-[阅读原文](https://www.bbc.com/news/articles/cpq7l09z5e5o)
+[阅读原文](https://www.bbc.com/news/articles/cm2xxd4v6dzo)
 
-### 6. 随着德克萨斯爆发恶化，第二个孩子的麻疹死亡
+### 6. 乌克兰捕获了两个为俄罗斯而战的中国国民
 
-据报道，卫生部长罗伯特·肯尼迪（Robert F Kennedy Jr）前往该州，该州记录了480起案件。
+泽伦斯基总统说，两名士兵在乌克兰的顿涅茨克地区战斗时被捕。
 
-[阅读原文](https://www.bbc.com/news/articles/ckg2xyyj9w5o)
+[阅读原文](https://www.bbc.com/news/articles/cx2vg1x7g32o)
 
-### 7. 澳大利亚总理候选人沟渠计划在家中结束工作
+### 7. 金在罗马议会演讲期间用意大利语讲话
 
-彼得·达顿（Peter Dutton）的自由国民联盟表示，此举将提高公共部门的效率。
+国王和王后将在国会访问意大利的第三天参加州晚宴。
 
-[阅读原文](https://www.bbc.com/news/articles/c70zkdr7758o)
+[阅读原文](https://www.bbc.com/news/articles/c1drr40xwgro)
 
-### 8. 动物园的乌龟成为初次父母...大约100岁
+### 8. 三名美国人因失败的刚果博士政变而被判入狱
 
-濒临灭绝的加拉帕戈斯乌龟阿布拉佐和妈妈是费城动物园的四个幼体的父母
+遣返的详细信息尚不清楚，但在谈论两国之间的矿产协议之后。
 
-[阅读原文](https://www.bbc.com/news/articles/czrvlk8lnymo)
+[阅读原文](https://www.bbc.com/news/articles/c5y55dxj2wro)
 
-### 9. 津巴布韦面临18％的特朗普征费，以取消对美国商品的关税
+### 9. 中国养老院大火杀死20人
 
-曼纳加瓦总统说，他希望改善关系，唐纳德·特朗普表示，美国将对津巴布韦征收18％的关税。
+当局在调查火灾原因时拘留了该设施的负责人。
 
-[阅读原文](https://www.bbc.com/news/articles/c62xqel9l18o)
+[阅读原文](https://www.bbc.com/news/articles/cg5qq258r76o)
 
-### 10. 尽管有不冷不热的评论，但《我的世界》电影风暴票房
+### 10. 皇家生物学学会哀悼谋杀的科学家
 
-这部电影拥有星光熠熠的演员，包括杰森·莫莫亚（Jason Momoa），杰克·布莱克（Jack Black）和詹妮弗·柯立芝（Jennifer Coolidge）。
+哥伦比亚的当地市长提供现金奖励，以帮助找到亚历山德罗·科阿特（Alessandro Coatti）的杀手。
 
-[阅读原文](https://www.bbc.com/news/articles/cwy018lm793o)
+[阅读原文](https://www.bbc.com/news/articles/c2ewr80n2e7o)
 
 最近更新：`2025年04月10号`
 
