@@ -1,5 +1,5 @@
 
-# 翻墙软体中国VPN推荐，推荐四款以下好用(每日最近更新测速：`2025年05月03号`更新) 含性价比比较，只剩四款能用 - 墙宇宙
+# 翻墙软体中国VPN推荐，推荐四款以下好用(每日最近更新测速：`2025年05月05号`更新) 含性价比比较，只剩四款能用 - 墙宇宙
 
 <!-- 
 <img src="./image/vpn_intro_pic.jpg" alt="VPN Speed Test China" width="700"/> -->
@@ -47,7 +47,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 
 过去 **7天，14天，30天，90天(三个月)** 的测速
 
-从2025年05月03号 回推7天, 14天, 30天, 90天的测速。
+从2025年05月05号 回推7天, 14天, 30天, 90天的测速。
 <img src="./image/speed_test/vpn_speed_test_combined.png" alt="drawing" width="1000"/>
 
 <!-- 過去 **14天** 的测速
@@ -67,69 +67,39 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 
 
 
-# 今日国际新闻摘要
+# CNN 國際新聞摘要
 
-### 1. 特朗普的关税激发了我们政府债务的抛售
+### 1. 在最近的動蕩之後，市場摘要銀行收益
 
-美国政府借贷的成本增加了对经济的信心减弱
+無摘要
 
-[阅读原文](https://www.bbc.com/news/articles/c5yrr0e7499o)
+[🔗 原文連結](https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html)
 
-### 2. 中国对特朗普的“贸易暴政”进行报复，并以84％的关税
+### 2. 還沒有提交稅款嗎？這是您需要知道的
 
-在104％的中国制造商品关税生效后，制造商和出口商正在争先恐后。
+到目前為止，本稅季節，美國國稅局（IRS）在2022年獲得了超過9000萬份所得稅申報表。
 
-[阅读原文](https://www.bbc.com/news/articles/c7vnn6y6g82o)
+[🔗 原文連結](https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html)
 
-### 3. 当多米尼加共和国夜总会倒塌的死亡人数上升时，绝望
+### 3. 當消費者退縮時，零售支出在三月份下降
 
-救援人员正在寻找该事件的幸存者，该事件至少杀死了113人。
+由於銀行危機加劇了經濟衰退的擔憂，消費者退縮了，因此在美國零售商的支出下降。
 
-[阅读原文](https://www.bbc.com/news/articles/cvgpp9z054go)
+[🔗 原文連結](https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html)
 
-### 4. 医务人员说
+### 4. 分析：Fox News即將進入真正的無旋轉區域
 
-以色列军方说，它在加沙市的Shejaiya附近袭击了一名“高级哈马斯恐怖分子”。
+就是這樣。
 
-[阅读原文](https://www.bbc.com/news/articles/cy5rrnzw0kwo)
+[🔗 原文連結](https://www.cnn.com/2023/04/14/media/fox-news-dominion-hnk-intl/index.html)
 
-### 5. 德国的梅尔兹印章政府协议将终结的僵局终结
+### 5. 矽谷銀行倒塌的呼籲，以解決影響顏色企業家的差異
 
-弗里德里希·梅尔斯（Friedrich Merz）领导下的保守派与社会民主党达成了联盟协议，以管理欧洲最大的经济体。
+當矽谷銀行的客戶上個月急於撤回數十億美元時，風險資本家阿蘭·漢密爾頓（Arlan Hamilton）介入，幫助一些為失去薪資資金訪問權限的有色創始人。
 
-[阅读原文](https://www.bbc.com/news/articles/cm2xxd4v6dzo)
+[🔗 原文連結](https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html)
 
-### 6. 乌克兰捕获了两个为俄罗斯而战的中国国民
-
-泽伦斯基总统说，两名士兵在乌克兰的顿涅茨克地区战斗时被捕。
-
-[阅读原文](https://www.bbc.com/news/articles/cx2vg1x7g32o)
-
-### 7. 金在罗马议会演讲期间用意大利语讲话
-
-国王和王后将在国会访问意大利的第三天参加州晚宴。
-
-[阅读原文](https://www.bbc.com/news/articles/c1drr40xwgro)
-
-### 8. 三名美国人因失败的刚果博士政变而被判入狱
-
-遣返的详细信息尚不清楚，但在谈论两国之间的矿产协议之后。
-
-[阅读原文](https://www.bbc.com/news/articles/c5y55dxj2wro)
-
-### 9. 中国养老院大火杀死20人
-
-当局在调查火灾原因时拘留了该设施的负责人。
-
-[阅读原文](https://www.bbc.com/news/articles/cg5qq258r76o)
-
-### 10. 皇家生物学学会哀悼谋杀的科学家
-
-哥伦比亚的当地市长提供现金奖励，以帮助找到亚历山德罗·科阿特（Alessandro Coatti）的杀手。
-
-[阅读原文](https://www.bbc.com/news/articles/c2ewr80n2e7o)
-
-最近更新：`2025年05月03号`
+最近更新：`2025年05月05号`
 
 >**在当前的环境下，能在国内长期稳定并有效使用的VPN服务已经变得相对稀缺。许多VPN评论网站往往互相抄袭，发布的内容很多都已经失去了时效性。有一部分推荐的VPN在国内的实际效果并不理想，令人遗憾的是，很多的评论者身处国外，他们并无法提供在国内使用VPN的真实体验。特别是在过去的两年中，由于"防火长城"的严密封锁，许多过去可用的VPN现在已经变得几乎无法使用。因此，在阅读本文的同时，我建议大家需要谨慎理解并避免进入"坑"。本文将根据实际的使用经验介绍各种VPN软件的最新使用情况，并将持续更新最新的使用情况，以供大家参考和避坑。本文是关于中国安全翻牆策略的详细版本，讨论了翻牆软件、科学上网以及网络安全等相关问题。如果你只希望快速选择一款科学上网软件来翻牆，那麽可以直接查看本文下方的目录导航。
 
@@ -156,7 +126,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 
 > ## 本文内容导航
 > ### 1. [科学上网基本知识](#科学上网基本知识)
-> ### 2. [国产VPN推荐功能总结2025年05月03号测试](#国产VPN推荐功能总结2025年05月03号测试)
+> ### 2. [国产VPN推荐功能总结2025年05月05号测试](#国产VPN推荐功能总结2025年05月05号测试)
 > #### 2.1 [StrongVPN推荐](#StrongVPN推荐)
 > #### 2.2 [Expressvpn-买12个月送三个月](#Expressvpn-买12个月送三个月)
 > #### 2.3 [SurfsharkVPN-冲浪鲨-推荐](#SurfsharkVPN-冲浪鲨-推荐)
@@ -250,8 +220,8 @@ IP 地址就像街道地址一样。它公开识别你的实际位置，并且�
 知道如何翻墙成功的同伴可能听说过 VPN 一词，以了解 VPN 与什么连接。 VPN目前是一种加密策略，可以保护客户的IP、区域和个人数据不被泄露。 VPN 可以被视为一种伪装（如果从学术上讲，加密更重要的话）。在屏蔽（加扰）客户端 IP、IP 和个人数据后，他们可以通过防火墙到达一些墙外世界。
 同时，多数人频繁使用 VPN 背后的动机并不是来通过防火墙（就像我在Covid期间同时看到许多远端工作者VPN 一样）。然而这类传统VPN的已经不足以应付中国政府利用强大的国家优势制造的超级防火墙，传统的VPN在中国已经没有机会了。
 
-## 国产VPN推荐功能总结2025年05月03号测试
-<a name="国产VPN推荐功能总结2025年05月03号测试"></a>
+## 国产VPN推荐功能总结2025年05月05号测试
+<a name="国产VPN推荐功能总结2025年05月05号测试"></a>
 以下是我从数百个VPN中实际测试过的一些中国最好的VPN。实际测速对比，可以参考下方测速报告段落。我在中国从事与美国的贸易工作多年。 我用过很多互联网推荐的翻墙软件。我认为一个好的软件应该包括以下功能：
 
 - 高安全性（非中国公司，尽量不要设在中国）
@@ -674,7 +644,7 @@ Proton VPN在2018年以前也是一个很火红的VPN，然而近年来由于防
 <img src="./image/black/aurora.png" alt="drawing" width="400"/>
 
 ### 光年VPN
-早在从2025年05月03号`开始，就有很多网友反映光年VPN就出现了各种跑路的迹象：光年VPN的服务器无法连接，光年VPN客服无法联繫上，光年甚至从谷歌商店和苹果商店被消失。直接不需要再使用了。
+早在从2025年05月05号`开始，就有很多网友反映光年VPN就出现了各种跑路的迹象：光年VPN的服务器无法连接，光年VPN客服无法联繫上，光年甚至从谷歌商店和苹果商店被消失。直接不需要再使用了。
 
 <img src="./image/black/lightyear.PNG" alt="drawing" width="400"/>
 
@@ -1513,7 +1483,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 
 
 
-#### StrongVPN Speeds in Different Network Environments 最近更新 `2025年05月03号`更新
+#### StrongVPN Speeds in Different Network Environments 最近更新 `2025年05月05号`更新
 
 | Location      |   StrongVPN 4G |   StrongVPN 5G |   StrongVPN WiFi |
 |:--------------|---------------:|---------------:|-----------------:|
@@ -1526,7 +1496,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 | Africa        |             46 |             46 |               49 |
 
 
-#### ExpressVPN Speeds in Different Network Environments 最近更新 `2025年05月03号`更新
+#### ExpressVPN Speeds in Different Network Environments 最近更新 `2025年05月05号`更新
 
 | Location      |   ExpressVPN 4G |   ExpressVPN 5G |   ExpressVPN WiFi |
 |:--------------|----------------:|----------------:|------------------:|
@@ -1538,7 +1508,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 | South America |              51 |              52 |                54 |
 | Africa        |              48 |              46 |                48 |
 
-#### Surfshark Speeds in Different Network Environments 最近更新 `2025年05月03号`更新
+#### Surfshark Speeds in Different Network Environments 最近更新 `2025年05月05号`更新
 
 | Location      |   Surfshark 4G |   Surfshark 5G |   Surfshark WiFi |
 |:--------------|---------------:|---------------:|-----------------:|
@@ -1551,7 +1521,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 | Africa        |             46 |             46 |               45 |
 
 
-#### FlowVPN Speeds in Different Network Environments 最近更新 `2025年05月03号`更新
+#### FlowVPN Speeds in Different Network Environments 最近更新 `2025年05月05号`更新
 
 | Location      |   FlowVPN 4G |   FlowVPN 5G |   FlowVPN WiFi |
 |:--------------|-------------:|-------------:|---------------:|
