@@ -69,33 +69,33 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 
 # CNN 國際新聞摘要
 
-### 1. 在最近的動蕩之後，市場摘要銀行收益
+### 1. 在最近的动荡之后，市场摘要银行收益
 
-無摘要
+无摘要
 
 [🔗 原文連結](https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html)
 
-### 2. 還沒有提交稅款嗎？這是您需要知道的
+### 2. 还没有提交税款吗？这是您需要知道的
 
-到目前為止，本稅季節，美國國稅局（IRS）在2022年獲得了超過9000萬份所得稅申報表。
+到目前为止，本税季节，美国国税局（IRS）在2022年获得了超过9000万份所得税申报表。
 
 [🔗 原文連結](https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html)
 
-### 3. 當消費者退縮時，零售支出在三月份下降
+### 3. 当消费者退缩时，零售支出在三月份下降
 
-由於銀行危機加劇了經濟衰退的擔憂，消費者退縮了，因此在美國零售商的支出下降。
+由于银行危机加剧了经济衰退的担忧，消费者退缩了，因此在美国零售商的支出下降。
 
 [🔗 原文連結](https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html)
 
-### 4. 分析：Fox News即將進入真正的無旋轉區域
+### 4. 分析：Fox News即将进入真正的无旋转区域
 
-就是這樣。
+就是这样。
 
 [🔗 原文連結](https://www.cnn.com/2023/04/14/media/fox-news-dominion-hnk-intl/index.html)
 
-### 5. 矽谷銀行倒塌的呼籲，以解決影響顏色企業家的差異
+### 5. 硅谷银行倒塌的呼吁，以解决影响颜色企业家的差异
 
-當矽谷銀行的客戶上個月急於撤回數十億美元時，風險資本家阿蘭·漢密爾頓（Arlan Hamilton）介入，幫助一些為失去薪資資金訪問權限的有色創始人。
+当硅谷银行的客户上个月急于撤回数十亿美元时，风险资本家阿兰·汉密尔顿（Arlan Hamilton）介入，帮助一些为失去薪资资金访问权限的有色创始人。
 
 [🔗 原文連結](https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html)
 
