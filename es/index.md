@@ -708,7 +708,8 @@ Abre el archivo descargado. El sistema preguntará si permite instalar; haz clic
 
 ### Paso 3: Inicia sesión y usa
 Inicia sesión en ExpressVPN con tu email, contraseña o código de activación. Mac puede pedir permiso para agregar ExpressVPN IKEv2; haz clic en "Permitir".  
-<img src="./image/exp/6.PNG" alt="Inicio de sesión ExpressVPN" width="1000"/>
+<img src="./image/exp/6-1.PNG" alt="Inicio de sesión ExpressVPN" width="1000"/>
+<img src="./image/exp/6-2.PNG" alt="Inicio de sesión ExpressVPN" width="1000"/>
 
 ### Paso 4: Conecta y usa
 Haz clic en el botón central para conectar. Por defecto, usa "Ubicación inteligente" para la mejor experiencia; el círculo rojo se volverá verde ("Conectado"). Prueba acceder a Netflix o YouTube.  
