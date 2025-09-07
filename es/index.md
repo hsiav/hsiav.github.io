@@ -142,7 +142,7 @@ Tras probar cientos de VPNs, te presento las mejores opciones basadas en mi expe
 <a name="Recomendación de StrongVPN"></a>
 ### 1. [StrongVPN – La mejor relación calidad-precio](https://strongvpn.com/es/?tr_aid=60d96b5810e50&chan=w_github_es&data1=fanqiang&data2=title)
 ### Recomendación de StrongVPN
-<img src="./image/speed_test/1d83ca53.gif" alt="Prueba de velocidad StrongVPN" width="400"/>
+<img src="./image/speed_test/strong_main.png" alt="Prueba de velocidad StrongVPN" width="400"/>
 
 **StrongVPN** es una VPN emergente de Europa y América con precios mucho más bajos que gigantes como ExpressVPN, desde 3.5 USD al mes (plan de 12 meses, total 43.99 USD). A diferencia de ExpressVPN, soporta pagos internacionales, y su equipo de ingenieros actualiza nodos regularmente. Ideal para ver YouTube, Facebook o disfrutar de Netflix, Hulu, ABC, HBO y Sky Go.  
 Ofrece apps para Windows, Mac, iOS, Android y Amazon Fire TV, además de guías para Chrome, routers, Fire TV y Kodi. Con más de 950 servidores P2P en 35 países y 46 ciudades, soporta protocolos como L2TP, SSTP, OpenVPN, IKEv2 y WireGuard. Incluye soporte 24/7 por chat y email, y una garantía de reembolso de 30 días. Sin lujos, pero suficiente para la mayoría.
