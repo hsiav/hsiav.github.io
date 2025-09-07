@@ -1221,8 +1221,8 @@ Hablamos de VPNs y destacamos a **StrongVPN** y **ExpressVPN**, líderes en la i
 - **[StrongVPN](https://strongvpn.com/es/?tr_aid=60d96b5810e50&chan=w_github_es&data1=fanqiang&data2=title)**: Amado por su rendimiento sólido y diseño simple, ofrece 950+ servidores en 70+ regiones, perfecto para cualquier ubicación.
 - **[ExpressVPN](https://go.expressvpn.com/c/3828265/1509296/16063)**: Conocido como el "rey de la velocidad", cuenta con 3000+ servidores en 94 países, ideal para desbloquear cualquier Netflix.
 
-![StrongVPN](./image/exp/1-1.PNG)  
-![ExpressVPN](./image/strong/s1-1.PNG)
+![StrongVPN](./image/speed_test/strong_main.png)  
+![ExpressVPN](./image/exp/1-1.PNG)
 
 ### Paso 2: Instala y configura tu VPN
 Instalar una VPN es tan fácil como una app. Sigue estos pasos:
