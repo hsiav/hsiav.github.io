@@ -309,7 +309,7 @@ Una característica destacada de **StrongVPN** es su soporte para pagos internac
 
 ### Paso 1: Accede a nuestra oferta exclusiva
 Visita nuestro enlace exclusivo [StrongVPN](https://strongvpn.com/es/?tr_aid=60d96b5810e50&chan=w_github_es&data1=fanqiang&data2=title) y haz clic en "Start Now" (ver imagen abajo).  
-<img src="./image/strong/s1-1.PNG" alt="Inicio StrongVPN" width="1000"/>
+<img src="./image/speed_test/strong_main.png" alt="Inicio StrongVPN" width="1000"/>
 
 ### Paso 2: Soluciona problemas de conexión
 Si al abrir no puedes comprar porque usas otra VPN, regístrate en [FlowVPN](https://www.flowvpx.com/sign-up/?locale=es&special=FREETRIAL&r=35-890485.w_github) (consulta el tutorial de instalación más abajo). FlowVPN ofrece una prueba gratuita de dos días, perfecta para comprar StrongVPN.  
@@ -474,7 +474,7 @@ También en las Islas Vírgenes Británicas, Surfshark promete no registrar acti
 | Comparte datos con terceros | No, salvo legalmente | No, salvo legalmente | No, salvo legalmente |
 
 En resumen, revisa las políticas de privacidad de cada proveedor para entender cómo protegen tus datos.
-
+<!-- 
 <a name="Lista negra de VPNs - Evita estos riesgos"></a>
 ## Lista negra de VPNs - Evita estos riesgos
 
@@ -537,7 +537,7 @@ En mayo de 2023, IVacy mostró baja tasa de conexión y velocidad. Sin embargo, 
 
 #### PureVPN
 PureVPN, fundado en 2006 en las Islas Vírgenes Británicas, tiene 6,500+ servidores en 106 regiones, pero su estabilidad en ciertas áreas es mediocre (80% de inactividad anual). Soporta WireGuard y tiene soporte en chino, pero sus servidores locales han sido eliminados.  
-<img src="./image/black/purevpn.PNG" alt="PureVPN" width="400"/>
+<img src="./image/black/purevpn.PNG" alt="PureVPN" width="400"/> -->
 
 ### Lista de VPNs no recomendadas
 Esta tabla incluye VPNs con uso incierto, precios altos o ya inactivas para ayudarte a evitarlas.
