@@ -733,7 +733,7 @@ Abre la app tras instalar, ingresa tu email y contraseña para iniciar sesión.
 
 ### Conecta con éxito
 Haz clic en el botón "Conectado" para iniciar. Verás una pantalla de Surfshark en uso; elige un país en el menú lateral.  
-<img src="./image/surfshark/7.PNG" alt="Conexión Surfshark" width="1000"/>
+<img src="./image/surfshark/7.png" alt="Conexión Surfshark" width="1000"/>
 
 <a name="Tutorial de instalación de FlowVPN"></a>
 ## Tutorial de instalación de FlowVPN
