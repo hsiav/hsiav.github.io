@@ -723,7 +723,9 @@ Aprende cómo descargar e instalar Surfshark. Tras pagar con el método anterior
 
 ### Descarga e instalación desde el sitio oficial
 Tras descargar desde el sitio oficial, sigue las instrucciones. El sistema preguntará si instalas; selecciona "Sí" en cada paso:  
-<img src="./image/surfshark/5.PNG" alt="Descarga Surfshark" width="1000"/>
+<img src="./image/surfshark/5-1.png" alt="Descarga Surfshark" width="1000"/>
+
+<img src="./image/surfshark/5-2.png" alt="Descarga Surfshark" width="1000"/>
 
 ### Ingresa tu cuenta y contraseña
 Abre la app tras instalar, ingresa tu email y contraseña para iniciar sesión.  
