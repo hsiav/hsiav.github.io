@@ -186,7 +186,7 @@ Tras probar cientos de VPNs, te presento las mejores opciones basadas en mi expe
 - Variedad de métodos de pago.
 - Precio justo y buena relación calidad-precio.
 
-<a name="Recomendación de StrongVPN"></a>
+<a name="recomendacion-de-strongvpn"></a>
 ### 1. [StrongVPN – La mejor relación calidad-precio](https://strongvpn.com/es/?tr_aid=60d96b5810e50&chan=w_github_es&data1=fanqiang&data2=title)
 ### Recomendación de StrongVPN
 <img src="./image/speed_test/strong_main.png" alt="Prueba de velocidad StrongVPN" width="400"/>
