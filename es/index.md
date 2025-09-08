@@ -731,7 +731,7 @@ Tras descargar desde el sitio oficial, sigue las instrucciones. El sistema pregu
 Abre la app tras instalar, ingresa tu email y contraseña para iniciar sesión.  
 <img src="./image/surfshark/6.PNG" alt="Inicio de sesión Surfshark" width="1000"/>
 
-### Conecta con éxito
+### Conecta con éxitos
 Haz clic en el botón "Conectado" para iniciar. Verás una pantalla de Surfshark en uso; elige un país en el menú lateral.  
 <img src="./image/surfshark/7.png" alt="Conexión Surfshark" width="1000"/>
 
