@@ -125,8 +125,10 @@ Este sitio incluye guías, pruebas de velocidad y soluciones a problemas comunes
 
 
 
+<a name="conocimientos-básicos-de-navegación-libre"></a>
 ## Conocimientos básicos de navegación libre
 
+<a name="que-es-la-navegacion-libre"></a>
 ### ¿Qué es la navegación libre?
 
 Primero, exploremos los fundamentos de las restricciones de red.
