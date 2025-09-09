@@ -392,7 +392,6 @@ Visita [StrongVPN](https://strongvpn.com/es/?tr_aid=60d96b5810e50&chan=w_github_
 
 <a name="tutorial-de-configuracion-de-strongvpn-en-androidios"></a>
 ## Tutorial de compra con oferta de ExpressVPN
-<a name="Tutorial de compra de ExpressVPN - Cómo comprar ExpressVPN"></a>
 Nota: **ExpressVPN** no soporta pagos internacionales directamente, pero te recomendamos **StrongVPN** o **FlowVPN** si prefieres esa opción. ExpressVPN acepta tarjetas de banco (Visa, MasterCard, incluidas extranjeras), Bitcoin y PayPal. Como es un sitio internacional, podrías necesitar una conexión estable.
 
 ### Paso 1: Accede al enlace de oferta
@@ -414,7 +413,7 @@ Introduce un email correcto y selecciona tu método de pago (tarjetas de banco, 
 <img src="./image/exp/1-3.PNG" alt="Pago ExpressVPN" width="1000"/>
 
 ### Tutorial de configuración de ExpressVPN en PC, móvil y tablet
-<a name="Tutorial de configuración de ExpressVPN en PC, móvil y tablet"></a>
+<a name="tutorial-de-configuracion-de-expressvpn-en-pc-movil-y-tablet"></a>
 Sigue estos pasos simples para configurar ExpressVPN en diferentes dispositivos.
 
 #### 1. Compra y registra ExpressVPN
@@ -442,7 +441,7 @@ Visita [ExpressVPN](https://go.expressvpn.com/c/3828265/1509296/16063), elige un
 
 ## Tutorial paso a paso para comprar Surfshark y FlowVPN
 
-<a name="Tutorial de compra de Surfshark"></a>
+<a name="tutorial-de-compra-de-surfshark"></a>
 ## Surfshark - Tutorial paso a paso para comprar
 ### Paso 1: Accede a la oferta de Surfshark
 Visita nuestro enlace exclusivo [Surfshark - Conexiones ilimitadas](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=streaming) y haz clic en "Get" (ver imagen de enseñanza abajo).  
@@ -456,7 +455,7 @@ Verás un enlace para "compra dos años", pagando por 24 meses a menos de 3 USD 
 Introduce un email correcto y selecciona tu método de pago (tarjetas de banco como Visa o MasterCard, incluidas extranjeras, Bitcoin, PayPal). ¡Asegúrate de no equivocarte o no recibirás el código de verificación!  
 <img src="./image/surfshark/3-1.PNG" alt="Pago Surfshark" width="1000"/>
 
-<a name="Tutorial de compra y prueba gratuita de FlowVPN"></a>
+<a name="tutorial-de-compra-y-prueba-gratuita-de-flowvpn"></a>
 ## FlowVPN - Tutorial paso a paso para la prueba gratuita de dos días
 
 ### Paso 1: Completa la compra y descarga
@@ -575,7 +574,7 @@ Esta tabla incluye VPNs con uso incierto, precios altos o ya inactivas para ayud
 | Summer VPN    | VPN pequeña |
 
 
-<a name="Estándares de recomendación de VPNs y características esenciales"></a>
+<a name="estandares-de-recomendacion-de-vpns-y-caracteristicas-esenciales"></a>
 ## Estándares de recomendación de VPNs y características esenciales
 
 ### Criterios para elegir una VPN
