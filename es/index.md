@@ -856,7 +856,7 @@ Construir tu propia VPN para superar restricciones puede parecer tentador, pero 
 
 En resumen, construir tu propia VPN no es práctico para la mayoría, especialmente sin recursos o experiencia. Opta por servicios comerciales confiables y legales.
 
-<a name="Conocimientos esenciales sobre VPN que debes saber"></a>
+<a name="conocimientos-esenciales-sobre-vpn-que-debes-saber"></a>
 ## Conocimientos esenciales sobre VPN que debes saber
 
 #### ¿Cuál es el principio básico de una VPN?
@@ -906,7 +906,7 @@ Si tu VPN pagada falla, prueba esto:
 ## Ventajas y usos avanzados de VPN
 
 ### Uso y ventajas de VPNs dobles o múltiples
-<a name="Uso y ventajas de VPNs dobles o múltiples"></a>
+<a name="uso-y-ventajas-de-vpns-dobles-o-multiples"></a>
 Una VPN doble o múltiple enruta tu conexión a través de dos o más servidores, no solo uno. Esto aumenta seguridad y privacidad, aunque puede afectar la velocidad. Aquí tienes sus beneficios:
 
 #### 1. Mayor protección de privacidad
