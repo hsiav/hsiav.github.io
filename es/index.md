@@ -826,7 +826,7 @@ Aunque algunas regulaciones internacionales prohíben conexiones no autorizadas,
 **Nota**: Evita discutir información sensible para minimizar riesgos.
 
 ## Riesgos de las VPNs gratuitas - ¿Por qué no recomendarlas?
-<a name="Riesgos de las VPNs gratuitas - ¿Por qué no recomendarlas?"></a>
+<a name="riesgos-de-las-vpns-gratuitas-por-que-no-recomendarlas"></a>
 Las VPNs gratuitas son una herramienta clave para acceder a contenido restringido, creando un túnel encriptado. Sin embargo, conllevan riesgos significativos.
 
 - **Seguridad y privacidad insuficientes**: Muchos venden tus datos a terceros, exponiendo historial, ubicación o información sensible.
@@ -845,7 +845,7 @@ Las VPNs gratuitas son una herramienta clave para acceder a contenido restringid
 **Conclusión**: Evita VPNs gratuitas. Una multa por uso indebido puede costar más que una suscripción anual a ExpressVPN.
 
 ## ¿Por qué no recomendar construir tu propia VPN?
-<a name="¿Por qué no recomendar construir tu propia VPN?"></a>
+<a name="por-que-no-recomendar-construir-tu-propia-vpn"></a>
 Construir tu propia VPN para superar restricciones puede parecer tentador, pero no es recomendable. Aquí te explico por qué:
 
 - **Conocimiento técnico**: Requiere expertise en instalación, mantenimiento, encriptación y protocolos, algo complejo para la mayoría.
@@ -1082,7 +1082,7 @@ Una VPN (Red Privada Virtual) es un servicio en línea que te conecta a internet
 - **IKEv2/IPsec**: Reciente, popular por su velocidad y seguridad.
 - **OpenVPN**: Gratuito y de código abierto, compatible con casi todos los dispositivos.
 
-<a name="Características de VPN para juegos"></a>
+<a name="caracteristicas-de-vpn-para-juegos"></a>
 ## Características de VPN para juegos
 
 En este mundo de juegos cada vez más globalizado, enfrentamos desafíos como restricciones de servidores, latencia, filtros de red y bloqueos geográficos. ¡La solución está en una VPN! Te recomendamos especialmente **ExpressVPN** y **StrongVPN** para elevar tu experiencia de juego.
@@ -1190,7 +1190,7 @@ Este gráfico muestra la tasa de éxito de cuatro VPNs (ExpressVPN, FlowVPN, Sur
 Alta estabilidad en Asia, Europa y Oceanía, perfecta para streaming. África y Sudamérica tienen menor rendimiento, influido por condiciones de red. Selecciona tu VPN según tu ubicación y necesidades.  
 <img src="./image/speed_test/vpn_connection_disney.png" alt="Tasa de conexión a Disney+" width="1000"/>
 
-<a name="Guía para ver contenido de streaming con VPN"></a>
+<a name="guia-para-ver-contenido-de-streaming-con-vpn"></a>
 ## Guía para ver contenido de streaming con VPN
 
 > "Vivimos en un mundo sin fronteras, ¿por qué debería tenerlas nuestro entretenimiento?" - Un filósofo de internet.
@@ -1242,7 +1242,7 @@ Si una VPN no está bien configurada, puede haber fugas DNS, exponiendo tu IP re
 
 **Nota**: VPNs avanzadas como ExpressVPN o StrongVPN pueden sortear estos bloqueos, dándote acceso global.
 
-<a name="Tutorial de instalación de VPN en Linux"></a>
+<a name="tutorial-de-instalacion-de-vpn-en-linux"></a>
 ## Tutorial de instalación de VPN en Linux
 
 ### Diferencias entre VPN en Linux y Windows
