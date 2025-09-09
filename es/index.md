@@ -1185,7 +1185,7 @@ Destacan altas tasas en Asia, Europa y Oceanía, ideales para streaming. África
 <img src="./image/speed_test/vpn_connection_netflix.png" alt="Tasa de conexión a Netflix" width="1000"/>
 
 ### Tasa de éxito de VPN para conectar Disney+ en continentes
-<a name="Tasa de éxito de VPN para conectar Disney+ en continentes"></a>
+<a name="tasa-de-exito-de-vpn-para-conectar-disney-en-continentes"></a>
 Este gráfico muestra la tasa de éxito de cuatro VPNs (ExpressVPN, FlowVPN, Surfshark, StrongVPN) para conectar a Disney+ en los continentes. Cada subgráfico representa un servicio, con los continentes en el eje horizontal y la tasa de éxito en el vertical.  
 Alta estabilidad en Asia, Europa y Oceanía, perfecta para streaming. África y Sudamérica tienen menor rendimiento, influido por condiciones de red. Selecciona tu VPN según tu ubicación y necesidades.  
 <img src="./image/speed_test/vpn_connection_disney.png" alt="Tasa de conexión a Disney+" width="1000"/>
