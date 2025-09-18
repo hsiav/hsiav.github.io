@@ -1,0 +1,11 @@
+## Surfshark 不同網路環境速度
+
+| Location      |   Surfshark 4G |   Surfshark 5G |   Surfshark WiFi |
+|:--------------|---------------:|---------------:|-----------------:|
+| North America |             62 |             64 |               61 |
+| Europe        |             75 |             76 |               76 |
+| Oceania       |             55 |             57 |               58 |
+| Asia          |             76 |             74 |               75 |
+| C-A           |             45 |             45 |               47 |
+| South America |             54 |             51 |               53 |
+| Africa        |             46 |             46 |               45 |
