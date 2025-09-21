@@ -1,5 +1,5 @@
 
-# 翻墻軟體中國VPN推薦，推薦四款以下好用(每日最近更新測速：`2025年09月03號`更新) 含性價比比較，只剩四款能用 - 墻宇宙
+# 翻墻軟體中國VPN推薦，推薦四款以下好用(每日最近更新測速：`2025年09月22号`更新) 含性價比比較，只剩四款能用 - 墻宇宙
 
 <!-- 
 <img src="./image/vpn_intro_pic.jpg" alt="VPN Speed Test China" width="700"/> -->
@@ -47,7 +47,7 @@ VPN使用者極度重視連接速度 - 如果VPN讓你的網速變得龜速，�
 
 過去 **7天，14天，30天，90天(三個月)** 的測速
 
-從2025年09月03號 回推7天, 14天, 30天, 90天的測速。
+從2025年09月22号 回推7天, 14天, 30天, 90天的測速。
 <img src="./image/speed_test/vpn_speed_test_combined.png" alt="drawing" width="1000"/>
 
 
@@ -118,8 +118,8 @@ IP 地址就像街道地址一樣。它公開識別你的實際位置，並且�
 
 
 
-## 國產VPN推薦功能總結2025年09月03號測試
-<a name="國產VPN推薦功能總結2025年09月03號測試"></a>
+## 國產VPN推薦功能總結2025年09月22号測試
+<a name="國產VPN推薦功能總結2025年09月22号測試"></a>
 以下是我從數百個VPN中實際測試過的一些中國最好的VPN。實際測速對比，可以參考下方測速報告段落。我在中國從事與美國的貿易工作多年。 我用過很多互聯網推薦的翻墻軟件。我認為一個好的軟件應該包括以下功能：
 
 - 高安全性（非中國公司，盡量不要設在中國）
@@ -545,7 +545,7 @@ Proton VPN在2018年以前也是一個很火紅的VPN，然而近年來由於防
 <img src="./image/black/aurora.png" alt="drawing" width="400"/>
 
 ### 光年VPN
-早在從2025年09月03號`開始，就有很多網友反映光年VPN就出現了各種跑路的跡象：光年VPN的服務器無法連接，光年VPN客服無法聯繫上，光年甚至從谷歌商店和蘋果商店被消失。直接不需要再使用了。
+早在從2025年09月22号`開始，就有很多網友反映光年VPN就出現了各種跑路的跡象：光年VPN的服務器無法連接，光年VPN客服無法聯繫上，光年甚至從谷歌商店和蘋果商店被消失。直接不需要再使用了。
 
 <img src="./image/black/lightyear.PNG" alt="drawing" width="400"/>
 
@@ -1386,7 +1386,7 @@ _注意：在您購買時，我們可能會從中獲得一定的傭金，但請�
 
 
 
-#### StrongVPN Speeds in Different Network Environments 最近更新 `2025年09月03號`更新
+#### StrongVPN Speeds in Different Network Environments 最近更新 `2025年09月22号`更新
 
 | Location      |   StrongVPN 4G |   StrongVPN 5G |   StrongVPN WiFi |
 |:--------------|---------------:|---------------:|-----------------:|
@@ -1399,7 +1399,7 @@ _注意：在您購買時，我們可能會從中獲得一定的傭金，但請�
 | Africa        |             46 |             46 |               49 |
 
 
-#### ExpressVPN Speeds in Different Network Environments 最近更新 `2025年09月03號`更新
+#### ExpressVPN Speeds in Different Network Environments 最近更新 `2025年09月22号`更新
 
 | Location      |   ExpressVPN 4G |   ExpressVPN 5G |   ExpressVPN WiFi |
 |:--------------|----------------:|----------------:|------------------:|
@@ -1411,7 +1411,7 @@ _注意：在您購買時，我們可能會從中獲得一定的傭金，但請�
 | South America |              51 |              52 |                54 |
 | Africa        |              48 |              46 |                48 |
 
-#### Surfshark Speeds in Different Network Environments 最近更新 `2025年09月03號`更新
+#### Surfshark Speeds in Different Network Environments 最近更新 `2025年09月22号`更新
 
 | Location      |   Surfshark 4G |   Surfshark 5G |   Surfshark WiFi |
 |:--------------|---------------:|---------------:|-----------------:|
@@ -1424,7 +1424,7 @@ _注意：在您購買時，我們可能會從中獲得一定的傭金，但請�
 | Africa        |             46 |             46 |               45 |
 
 
-#### FlowVPN Speeds in Different Network Environments 最近更新 `2025年09月03號`更新
+#### FlowVPN Speeds in Different Network Environments 最近更新 `2025年09月22号`更新
 
 | Location      |   FlowVPN 4G |   FlowVPN 5G |   FlowVPN WiFi |
 |:--------------|-------------:|-------------:|---------------:|
