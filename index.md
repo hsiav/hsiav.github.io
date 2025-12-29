@@ -1,4 +1,10 @@
 
+{% raw %}
+<link rel="alternate" hreflang="zh" href="https://hsiav.github.io/" />
+<link rel="alternate" hreflang="es" href="https://hsiav.github.io/es/" />
+<link rel="alternate" hreflang="x-default" href="https://hsiav.github.io/" />
+{% endraw %}
+
 # 翻墙软体中国VPN推荐，推荐四款以下好用(每日最近更新测速：`2025年12月30号`更新) 含性价比比较，只剩四款能用 - 墙宇宙
 
 <!-- 
@@ -41,6 +47,9 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 | FlowVPN | 650Mbps | 380Mbps |
 | StrongVPN | 500Mbps | 350Mbps |
 | Surfshark | 800Mbps | 300Mbps |
+
+### different language
+<a href="/es/">Español</a> 或 <a href="/es/index.html">Versión en Español</a>
 
 #### 墙宇宙 VPN 速度测试图，包含上传跟下载速度。
 
