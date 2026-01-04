@@ -1,9 +1,4 @@
 
-{% raw %}
-<link rel="alternate" hreflang="zh" href="https://hsiav.github.io/" />
-<link rel="alternate" hreflang="es" href="https://hsiav.github.io/es/" />
-<link rel="alternate" hreflang="x-default" href="https://hsiav.github.io/" />
-{% endraw %}
 
 # 翻墙软体中国VPN推荐，推荐四款以下好用(每日最近更新测速：`2026年01月02号`更新) 含性价比比较，只剩四款能用 - 墙宇宙
 
