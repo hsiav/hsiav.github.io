@@ -43,8 +43,8 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 | StrongVPN | 500Mbps | 350Mbps |
 | Surfshark | 800Mbps | 300Mbps |
 
-### different language
-<a href="/es/">Español</a> 或 <a href="/es/index.html">Versión en Español</a>
+<!-- ### different language
+<a href="/es/">Español</a> 或 <a href="/es/index.html">Versión en Español</a> -->
 
 #### 墙宇宙 VPN 速度测试图，包含上传跟下载速度。
 
