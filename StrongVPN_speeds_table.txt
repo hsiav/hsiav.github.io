@@ -1,0 +1,11 @@
+## StrongVPN Speeds in Different Network Environments
+
+| Location      |   StrongVPN 4G |   StrongVPN 5G |   StrongVPN WiFi |
+|:--------------|---------------:|---------------:|-----------------:|
+| North America |             60 |             63 |               60 |
+| Europe        |             78 |             78 |               77 |
+| Oceania       |             55 |             58 |               59 |
+| Asia          |             74 |             72 |               75 |
+| C-A           |             48 |             46 |               48 |
+| South America |             50 |             51 |               52 |
+| Africa        |             46 |             46 |               49 |

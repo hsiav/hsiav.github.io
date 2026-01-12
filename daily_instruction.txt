@@ -1,0 +1,4 @@
+github_pic.ipynb: 做測速圖片更新
+replace.py: 把index換掉成readme
+speed_test.py: 每天製作測速圖
+date.py: 每天更改日期
