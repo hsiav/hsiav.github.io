@@ -210,8 +210,7 @@ ax.patch.set_alpha(0)
 fig.patch.set_alpha(0)
 
 plt.tight_layout()
-plt.savefig(os.path.join(r"C:/Users/eric/Desktop/aff_folder/VPNuniverse.github.io/image/speed_test", 
-                         "vpn_combined_success.png"),
+plt.savefig(os.path.join(r"C:/Users/eric/Desktop/aff_folder/VPNuniverse.github.io/image/speed_test/vpn_connection_ratio.png"),
             dpi=300, transparent=True, bbox_inches='tight')
 plt.close()
 

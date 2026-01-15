@@ -1,32 +1,32 @@
 # DW 國際新聞摘要
 
-### 1. 从危地马拉到巴拿马：美国在拉丁美洲的事务
+### 1. 美国赞扬委内瑞拉释放美国囚犯
 
-美国对委内瑞拉的袭击是美国在拉丁美洲长期军事干预和政治影响的一部分。以下是二战以来的五个这样的例子。
+美国国务院赞扬委内瑞拉临时政府释放美国囚犯，称这是“朝着正确方向迈出的一步”。
 
-[🔗 原文連結](https://www.dw.com/en/from-guatemala-to-panama-us-affairs-in-latin-america/a-75421929?maca=en-rss-en-all-1573-rdf)
+[🔗 原文連結](https://www.dw.com/en/us-lauds-freeing-of-american-prisoners-in-venezuela/a-75497232?maca=en-rss-en-all-1573-rdf)
 
-### 2. 杰克·伦敦感受《野性的呼唤》，过着冒险的生活
+### 2. 欧盟能否通过制裁对伊朗施加更大压力？
 
-克朗代克淘金热、阿拉斯加雪地里的狼群、公海上的冒险：《野性的呼唤》和《海狼》的作者杰克·伦敦出生于 150 年前。德国之声审视他的生活。
+欧盟正在考虑对伊朗实施更多制裁，因为伊朗对反政府抗议活动进行了致命镇压，造成数千人死亡。但欧盟能否对伊斯兰共和国政权施加更大压力？
 
-[🔗 原文連結](https://www.dw.com/en/jack-london-felt-call-of-the-wild-lived-life-of-adventure/a-75434544?maca=en-rss-en-all-1573-rdf)
+[🔗 原文連結](https://www.dw.com/en/can-eu-exert-more-pressure-on-iran-with-sanctions/a-75484027?maca=en-rss-en-all-1573-rdf)
 
-### 3. 巴基斯坦：伊斯兰堡爆炸造成 8 人死亡，其中包括新婚夫妇
+### 3. 欧盟领导人是否应该加入特朗普的加沙“和平委员会”？
 
-警方表示，伊斯兰堡举行婚礼后，一处住宅发生瓦斯爆炸，造成至少八人死亡，其中包括新娘和新郎。
+美国发起的加沙和平计划的下一阶段涉及设立“和平委员会”。特朗普希望担任该委员会的主席，尽管受到严厉批评，但欧洲人也希望获得一个席位。
 
-[🔗 原文連結](https://www.dw.com/en/pakistan-newlyweds-among-8-killed-in-islamabad-explosion/a-75464404?maca=en-rss-en-all-1573-rdf)
+[🔗 原文連結](https://www.dw.com/en/should-eu-leaders-sit-on-trump-s-board-of-peace-for-gaza/a-75495127?maca=en-rss-en-all-1573-rdf)
 
-### 4. 人工智能如何通过您的睡眠方式检测健康风险
+### 4. 克林顿夫妇拒绝爱泼斯坦作证后威胁藐视法庭
 
-美国的一种新人工智能模型 SleepFM 发现，人类睡眠模式可用于预测一个人患约 130 种疾病的风险，包括痴呆症和某些癌症。
+比尔和希拉里·克林顿拒绝遵守国会传票，在杰弗里·爱泼斯坦的调查中作证，并可能面临藐视法庭的指控。
 
-[🔗 原文連結](https://www.dw.com/en/how-ai-can-detect-health-risks-just-from-the-way-you-sleep/a-75461969?maca=en-rss-en-all-1573-rdf)
+[🔗 原文連結](https://www.dw.com/en/contempt-threat-after-clintons-refuse-epstein-testimony/a-75496671?maca=en-rss-en-all-1573-rdf)
 
-### 5. 伊朗：伊朗政权警告美国和以色列发动袭击，抗议活动持续存在
+### 5. 乌干达：镇压、投票前停电
 
-无视伊朗教权统治者的镇压，挑战政权的抗议活动仍在继续。政府警告称，如果美国发动袭击，将袭击附近的美国基地和以色列。 DW有最新的。
+乌干达当局关闭了人权团体，逮捕了反对者及其支持者，现在他们还关闭了互联网。执政40年后，穆塞韦尼总统目前无意下台。
 
-[🔗 原文連結](https://www.dw.com/en/iran-protests-persist-as-regime-warns-us-israel-of-strike/live-75463923?maca=en-rss-en-all-1573-rdf)
+[🔗 原文連結](https://www.dw.com/en/uganda-crackdown-internet-blackout-ahead-of-vote/a-75495205?maca=en-rss-en-all-1573-rdf)
 

@@ -42,10 +42,34 @@ else
 fi
 
 ################################
-# 英文站
+# 西班牙
 ################################
 echo ">>> Update ES site"
 cd /c/Users/eric/Desktop/aff_folder/vpn-mundo.github.io
+
+# python daily_speedtest.py
+
+git add .
+
+if git diff --cached --quiet; then
+  echo "EN site: no changes, skip commit"
+else
+  git commit -m "EN auto update ($(date +'%Y-%m-%d'))"
+  git push origin master
+fi
+
+echo "===== AUTO UPDATE DONE ====="
+
+
+
+
+
+
+################################
+# EN
+################################
+echo ">>> Update EN site"
+cd /c/Users/eric/Desktop/aff_folder/VPNuniverse.github.io
 
 # python daily_speedtest.py
 
