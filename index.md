@@ -7,22 +7,21 @@
 ## 喜欢本文的朋友，欢迎点右上方的star以及folk本文档案，让大家对翻墙有更深的认识，一起为自由而努力
 
 
-<div style="background-color: #fdf2f2; border: 2px solid #ef4444; padding: 20px; border-radius: 12px; margin: 20px 0;">
-    <h3 style="color: #b91c1c; margin-top: 0;">🚨 快连 VPN (LetsVPN) 正式停运，转场攻略如下：</h3>
-    <p><b>最新消息：</b> 快连 VPN 已于 2026 年 4 月底正式发布公告，确认终止中国大陆地区业务，目前大量用户已无法连线。请受影响用户尽快处理退款。
-    <a href="https://www.reddit.com/r/travelchina/comments/1sxfaiq/letsvpn_permanently_shut_down_chinese_mainland/" target="_blank">👉 点此查看 Reddit 热门停运讨论与应对方式</a></p>
-    
-    <hr style="border: 0; border-top: 1px solid #f87171; margin: 15px 0;">
-    
-    <p><b>墙宇宙强力推荐 (每日实测，连线稳定)：</b></p>
-    <ul style="font-size: 16px; font-weight: bold; color: #1e40af;">
-        <li><a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN (首选推荐，中国抗封锁能力最强)</a></li>
-        <li><a href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN (大厂出品，速度稳定度最稳)</a></li>
-        <li><a href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark (性价比极高，帐号无装置上限)</a></li>
-        <li><a href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN (新手友好，现提供免费试用)</a></li>
-    </ul>
-</div>
+<div align="center" style="background: #fff0f0; border: 2px solid #ff4d4f; padding: 20px; border-radius: 12px; margin-bottom: 30px;">
+    <h2 style="color: #cf1322; margin-top: 0;">🚨 快连 VPN (LetsVPN) 已全面退出中国市场</h2>
+    <p style="font-size: 15px; color: #434343;">
+        2026 年 4 月底，曾以「永远能连上」著称的快连 VPN 正式宣布因应网路封锁升级，终止中国大陆业务。多家媒体与用户证实该服务已无法连线。 <br>
+        <a href="https://www.reddit.com/r/travelchina/comments/1sxfaiq/letsvpn_permanently_shut_down_chinese_mainland/" target="_blank" style="color: #1890ff; font-weight: bold;">[点此查看 Reddit 网友真实受灾讨论与避坑指南]</a>
+    </p>
 
+    <h3 style="color: #262626; margin-top: 20px;">🛡️ 墙宇宙 2026 避险推荐：每日实测，依然稳如泰山</h3>
+    <p style="font-size: 14px; color: #555;">面对史上最严封锁，以下方案经本站每日实测，连线状况正常，请尽速替换以确保网路畅通：</p>
+    
+    <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
+        <a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" style="padding: 10px 20px; background: #52c41a; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">StrongVPN (推荐)</a>
+        <a href="https://go.expressvpn.com/c/3828265/1462855/16063" style="padding: 10px 20px; background: #faad14; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">ExpressVPN (大厂)</a>
+    </div>
+</div>
 
 ### 直接看 价格性价比结论 墙宇宙 VPN价格 测速比较图
 
