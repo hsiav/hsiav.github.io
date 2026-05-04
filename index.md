@@ -6,19 +6,20 @@
 
 ## 喜欢本文的朋友，欢迎点右上方的star以及folk本文档案，让大家对翻墙有更深的认识，一起为自由而努力
 
+
 <div style="background-color: #fdf2f2; border: 2px solid #ef4444; padding: 20px; border-radius: 12px; margin: 20px 0;">
-    <h3 style="color: #b91c1c; margin-top: 0;">🚨 快連 VPN (LetsVPN) 正式停運，轉場攻略如下：</h3>
+    <h3 style="color: #b91c1c; margin-top: 0;">🚨 快连 VPN (LetsVPN) 正式停运，转场攻略如下：</h3>
     <p><b>最新消息：</b> 快连 VPN 已于 2026 年 4 月底正式发布公告，确认终止中国大陆地区业务，目前大量用户已无法连线。请受影响用户尽快处理退款。
-    <a href="https://www.reddit.com/r/travelchina/comments/1sxfaiq/letsvpn_permanently_shut_down_chinese_mainland/" target="_blank">👉 點此查看 Reddit 熱門停運討論與應對方式</a></p>
+    <a href="https://www.reddit.com/r/travelchina/comments/1sxfaiq/letsvpn_permanently_shut_down_chinese_mainland/" target="_blank">👉 点此查看 Reddit 热门停运讨论与应对方式</a></p>
     
     <hr style="border: 0; border-top: 1px solid #f87171; margin: 15px 0;">
     
-    <p><b>牆宇宙強力推薦 (每日實測，連線穩定)：</b></p>
+    <p><b>墙宇宙强力推荐 (每日实测，连线稳定)：</b></p>
     <ul style="font-size: 16px; font-weight: bold; color: #1e40af;">
-        <li><a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN (首選推薦，中國抗封鎖能力最強)</a></li>
-        <li><a href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN (大廠出品，速度穩定度最穩)</a></li>
-        <li><a href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark (性價比極高，帳號無裝置上限)</a></li>
-        <li><a href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN (新手友好，現提供免費試用)</a></li>
+        <li><a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN (首选推荐，中国抗封锁能力最强)</a></li>
+        <li><a href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN (大厂出品，速度稳定度最稳)</a></li>
+        <li><a href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark (性价比极高，帐号无装置上限)</a></li>
+        <li><a href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN (新手友好，现提供免费试用)</a></li>
     </ul>
 </div>
 
