@@ -1,4 +1,4 @@
-
+﻿
 # 翻墻軟體中國VPN推薦，推薦四款以下好用(每日最近更新測速：`2025年09月22号`更新) 含性價比比較，只剩四款能用 - 墻宇宙
 
 <!-- 
@@ -329,7 +329,7 @@ Surfshark是一家位於英屬維爾京群島的VPN服務提供商，和ExpressV
 ## strongvpn手把手-支付保alipay-購買教學
 strongvpn的特點就是有支付保(alipay)喜歡支付保的付款的朋友，建議使用strongvpn，或是flowvpn
 
-第一步驟: 前往本站的專屬優惠 <a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table" target="_blank">StrongVPN</a>，點選start now (參照下圖)
+第一步驟: 前往本站的專屬優惠 <a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN</a>，點選start now (參照下圖)
 
 <img src="./image/strong/s1-1.PNG" alt="drawing" width="1000"/>
 
