@@ -38,7 +38,7 @@
 
 ### 墙宇宙 VPN价格 比较图 怎样购买最便宜 (中国翻墙VPN购买的最佳策略)
 
-上表价格为 2026-06-22 依各官方/联盟落地页查到的公开价格，VPN 活动常变，最后金额仍以结账页为准。本站中文站第一推荐仍然是 <a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>：原因不是只看单价，而是年费 $53.99 清楚、约省66%、支持支付宝，整体比 ExpressVPN 便宜很多，也比 FlowVPN 更适合长期当主力使用。
+上表价格为 2026-06-22 依各官方/联盟落地页查到的公开价格，VPN 活动常变，最后金额仍以结账页为准。本站中文站第一推荐仍然是 <a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>：原因不是只看单价，而是年费 $53.99 清楚、约省66%、支持支付宝，整体比 ExpressVPN 便宜很多。FlowVPN 年费更低但更适合短期测试/备用；长期主力仍优先 StrongVPN。
 
 - 如果打算一次购买一年，对于速度并不是太要求，优先建议买<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">strongvpn</a>，一年约53.99美金、约省66%(隔一年再用一个新email使用本站优惠玛)
 - 如果预算较高、想买高稳定度大厂方案，再考虑<a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 官方特价</a>。ExpressVPN 属于最贵的大厂路线，长约约$97.72起、1年约$74.85起，续费通常更高
