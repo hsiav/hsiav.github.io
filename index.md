@@ -567,6 +567,8 @@ ExpressVPN 支援: 国内银行卡购买ExpressVPN，包含visa或是master card
 ### 第一步骤: 按照上面的方式购买完成以后，到<a href="https://www.flowvpx.com/download/">flowvpn官方网站</a> 下载自己的使用设备
 有windows, mac, android, iOS 可供选择。
 
+**2026年7月 Windows 新版 App 提醒：** FlowVPN 通知他们的新 Windows App 加入 Split Tunnelling / VPN Bypass、HTTPS 或 SMTP 隧道协议，以及新的操作介面。这个更新比较适合 Windows 用户拿来短期测试、临时备用，或在购买长期方案前先确认自己所在网络能不能连。本站中文站的购买逻辑不变：长期主力仍先看 StrongVPN 的实测连线、价格和支付宝付款；FlowVPN 适合用短期试用做备用测试。官方说明可看：<a rel="nofollow noopener" href="https://www.flowvpn.com/windows-application/">FlowVPN Windows Application</a>。
+
 ### 第二步骤: 打开安装档案，输入帐号密码，即可开始使用。
 
 
