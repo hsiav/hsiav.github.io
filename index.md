@@ -25,6 +25,8 @@
 
 ### 直接看 价格性价比结论 墙宇宙 VPN价格 测速比较图
 
+**先看购买结论：** 如果你人在国内，只想买一年、需要支付宝付款、又希望年费明显低于 ExpressVPN，先看 <a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>。本站每天更新测速图，重点不是谁理论速度最高，而是谁能连、能稳定连、价格和付款方式是否清楚；若你的网络能打开官网并完成付款，StrongVPN 是目前一年方案里最清楚的选择。ExpressVPN 适合预算高、想要大厂品牌的人；Surfshark 适合多设备长约；FlowVPN 适合先短期试用或临时备用。
+
 
 
 #### 墙宇宙 VPN 速度测试图，包含上传跟下载速度。
@@ -48,14 +50,14 @@
 
 | 推荐的VPN | 最优惠买法(时间) | 一个月价格(美元/人民币)  | 总价(美元/人民币) | 特色 | 支付宝(Alipay) |
 | ------------- | ------------- | ----- | ----- | ----- | ----- | 
-| <a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN</a> | 一次买一年 | $4.5 / 约￥32人民币 | $54 / 约￥388人民币 首年 | 本站持续测试可用；重点是中国能不能连、能不能稳定连；支持支付宝；一年内比 ExpressVPN 便宜很多 | 支援 |
+| <a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN</a> | 一次买一年 | $4.5 / 约￥32人民币 | $54 / 约￥388人民币 首年 | 一年方案最清楚；重点是中国能不能连、能不能稳定连；支持支付宝；一年内比 ExpressVPN 便宜很多 | 支援 |
 | <a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 官方特价</a> | 2年/1年长约 | $3.49-$4.99 / 约￥25-36；单月$12.99 / 约￥93 | 长约约$97.72 / 约￥702；1年约$74.85 / 约￥537；续费约$99.95 / 约￥718/年 | 高价大厂方案；适合预算高、愿意为品牌和稳定性多付年费的用户 | 不支援 |
 | <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark</a> | 2年/长约 | $1.99 / 约￥14起 | Starter约$53.73 / 约￥386(+税)；续费约$79 / 约￥567/年 | 要买两年/长约才便宜；只适合需要无限多设备；不是一年内最便宜选择 | 不支援 |
 | <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(短期免费试用)</a> | 先试用再决定 | 单月$6.99 / 约￥50；年约$3.33 / 约￥24 | 3天试用；1年特价约$39.99 / 约￥287(原$49.99 / 约￥359) | 适合学生、短期测试/备用；长期使用建议先确认 StrongVPN 的连线表现 | 支援 |
 
 ### 墙宇宙 VPN价格 比较图 怎样购买最便宜 (中国翻墙VPN购买的最佳策略)
 
-上表价格为 2026-06-22 依各官方/联盟落地页查到的公开价格，人民币用 1 USD ≈ 7.18 CNY 粗算。人在国内选 VPN，第一件事不是最高速度，而是能不能连上、能不能稳定用一段时间、付款是否方便。本站排序重点是每日测速与连线观察，不是只看理论低价；中国网络环境会变化，购买前仍以你所在网络能否打开官网、完成付款为准。本站目前实测后放在前面的方案是 <a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>：它的年费约 $54(约￥388人民币) 清楚、平均每月约 $4.5(约￥32人民币)、约省66%、支持支付宝，一年内购买时比 ExpressVPN 便宜很多；如果只想买一年，StrongVPN 是本站目前比较稳妥的选择。Surfshark 要一次买两年/长约才有低价，主要适合需要无限多设备的人；FlowVPN 适合学生、短期测试或备用。
+上表价格为 2026-06-22 依各官方/联盟落地页查到的公开价格，人民币用 1 USD ≈ 7.18 CNY 粗算。人在国内选 VPN，第一件事不是最高速度，而是能不能连上、能不能稳定用一段时间、付款是否方便。本站排序重点是每日测速与连线观察，不是只看理论低价；中国网络环境会变化，购买前仍以你所在网络能否打开官网、完成付款为准。本站目前实测后放在前面的方案是 <a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>：它的年费约 $54(约￥388人民币) 清楚、平均每月约 $4.5(约￥32人民币)、约省66%、支持支付宝，一年内购买时比 ExpressVPN 便宜很多；如果只想买一年，StrongVPN 是目前最清楚的选择。Surfshark 要一次买两年/长约才有低价，主要适合需要无限多设备的人；FlowVPN 适合学生、短期测试或备用。
 
 - 如果打算一次购买一年，对于速度并不是太要求，可以先看<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN</a>，一年约54美元(约￥388人民币)，平均每月约4.5美元(约￥32人民币)、约省66%(隔一年再用一个新email使用本站优惠码)
 - 如果预算较高、想买高稳定度大厂方案，再考虑<a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 官方特价</a>。ExpressVPN 属于最贵的大厂路线，1年价格肯定比 StrongVPN 贵；长约约$97.72起、1年约$74.85(约￥537)起，续费通常更高
