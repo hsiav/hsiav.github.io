@@ -27,6 +27,11 @@
 
 **先看购买结论：** 如果你人在国内，只想买一年、需要支付宝付款、又希望年费明显低于 ExpressVPN，先看 <a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>。本站每天更新测速图，重点不是谁理论速度最高，而是谁能连、能稳定连、价格和付款方式是否清楚；若你的网络能打开官网并完成付款，StrongVPN 是目前一年方案里最清楚的选择。ExpressVPN 适合预算高、想要大厂品牌的人；Surfshark 适合多设备长约；FlowVPN 适合先短期试用或临时备用。
 
+**StrongVPN 购买前先看这三点：**
+- **中国连线：** 本站持续观察和测速，重点看人在国内能不能连、能不能稳定连；购买前请用你自己的网络确认官网可打开。
+- **支付宝付款：** StrongVPN 支持支付宝；ExpressVPN 不支持支付宝，预算高、想买大厂品牌时再考虑。
+- **一年价格：** StrongVPN 首年约 **54美元 / 约388人民币**，平均每月约 **4.5美元 / 约32人民币**，一年内明显低于 ExpressVPN。
+
 
 
 #### 墙宇宙 VPN 速度测试图，包含上传跟下载速度。
