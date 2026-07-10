@@ -10,8 +10,8 @@
 
 body {
   background:
-    radial-gradient(circle at top left, rgba(37, 99, 235, 0.13), transparent 32%),
-    linear-gradient(180deg, #eef4ff 0%, #f6f8fc 360px) !important;
+    radial-gradient(circle at top left, rgba(96, 165, 250, 0.08), transparent 34%),
+    linear-gradient(180deg, #f7fbff 0%, #ffffff 380px) !important;
   color: #1f2937 !important;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC",
     "Microsoft JhengHei", Arial, sans-serif !important;
@@ -19,7 +19,7 @@ body {
 }
 
 .page-header {
-  background-image: linear-gradient(135deg, #0f172a, #1d4ed8) !important;
+  background-image: linear-gradient(135deg, #38bdf8, #2563eb) !important;
   padding: 4.5rem 1rem 4rem !important;
 }
 
@@ -42,9 +42,9 @@ body {
   margin: 32px 0 22px !important;
   padding: 30px 28px !important;
   border-radius: 28px !important;
-  background: linear-gradient(135deg, #ffffff 0%, #eff6ff 100%) !important;
-  border: 1px solid #dbeafe !important;
-  box-shadow: 0 14px 38px rgba(15, 23, 42, 0.08) !important;
+  background: linear-gradient(135deg, #ffffff 0%, #f4f9ff 100%) !important;
+  border: 1px solid #e0f2fe !important;
+  box-shadow: 0 12px 30px rgba(37, 99, 235, 0.06) !important;
   color: #0f172a !important;
   font-size: clamp(2rem, 4vw, 3.15rem) !important;
   line-height: 1.18 !important;
@@ -54,17 +54,17 @@ body {
 .main-content h2 {
   margin-top: 52px !important;
   padding: 16px 18px !important;
-  border-left: 7px solid #2563eb !important;
+  border-left: 7px solid #3b82f6 !important;
   border-bottom: 1px solid #e5e7eb !important;
   border-radius: 16px !important;
-  background: linear-gradient(90deg, #eff6ff, rgba(255,255,255,0)) !important;
+  background: linear-gradient(90deg, #f0f8ff, rgba(255,255,255,0)) !important;
   color: #111827 !important;
   font-size: 1.62rem !important;
 }
 
 .main-content h3 {
   margin-top: 34px !important;
-  color: #1e40af !important;
+  color: #2563eb !important;
   font-size: 1.28rem !important;
 }
 
@@ -90,7 +90,7 @@ body {
   display: block !important;
   margin: 26px auto !important;
   border-radius: 18px !important;
-  box-shadow: 0 14px 38px rgba(15, 23, 42, 0.08) !important;
+  box-shadow: 0 12px 30px rgba(37, 99, 235, 0.06) !important;
   border: 1px solid rgba(226, 232, 240, 0.9) !important;
   background: #fff !important;
 }
@@ -105,7 +105,7 @@ body {
   background: #ffffff !important;
   border: 1px solid #e5e7eb !important;
   border-radius: 18px !important;
-  box-shadow: 0 14px 38px rgba(15, 23, 42, 0.08) !important;
+  box-shadow: 0 12px 30px rgba(37, 99, 235, 0.06) !important;
 }
 
 .main-content th {
@@ -145,13 +145,13 @@ body {
   background: #ffffff !important;
   border-left: 6px solid #2563eb !important;
   border-radius: 18px !important;
-  box-shadow: 0 14px 38px rgba(15, 23, 42, 0.08) !important;
+  box-shadow: 0 12px 30px rgba(37, 99, 235, 0.06) !important;
   color: #374151 !important;
 }
 
 .main-content div[align="center"] {
   border-radius: 24px !important;
-  box-shadow: 0 14px 38px rgba(15, 23, 42, 0.08) !important;
+  box-shadow: 0 12px 30px rgba(37, 99, 235, 0.06) !important;
   border-width: 1px !important;
 }
 
