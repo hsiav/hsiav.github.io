@@ -1,6 +1,6 @@
 ﻿
 
-# 翻墙软体中国VPN推荐，推荐四款以下好用(每日最近更新测速：`2026年8月15号`更新) 含性价比比较，只剩四款能用 - 墙宇宙
+# 翻墙软体中国VPN推荐，推荐四款以下好用(每日最近更新测速：`2026年8月20号`更新) 含性价比比较，只剩四款能用 - 墙宇宙
 
 
 
@@ -40,7 +40,7 @@
 
 过去 **7天，14天，30天，90天(三个月)** 的测速
 
-从2026年8月15号 回推7天, 14天, 30天, 90天的测速。
+从2026年8月20号 回推7天, 14天, 30天, 90天的测速。
 <img src="./image/speed_test/vpn_speed_test_combined.png?v=20260710-speed" alt="drawing" width="1000"/>
 
 **怎样把测速图变成购买建议：** 人在国内，第一件事不是谁测速最高，而是谁能不能连、能不能稳定连。StrongVPN 在本站的定位是：一年内价格明显低于 ExpressVPN、支持支付宝、速度不是最高但足够日常翻墙、网页、视频和公共 Wi-Fi 使用。  
@@ -87,16 +87,6 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 <!-- ### different language
 <a href="/es/">Español</a> 或 <a href="/es/index.html">Versión en Español</a> -->
 
-### 世界杯赛后：旅行 Wi-Fi、看球回放与 VPN 安全提醒
-
-![2026 世界杯 VPN 旅行安全示意图](./image/worldcup/world-cup-2026-stadium.png)
-
-*Illustration created for this site.*
-
-世界杯结束后，真正留下来的需求不是门票抽奖，而是旅行、酒店 Wi-Fi、机场 Wi-Fi、体育回放、海外影音帐号、邮箱、支付和公共网络安全。很多人是在出国、回国、换网络或临时看体育内容时，才发现需要一个能稳定连接、价格清楚、付款方便的 VPN。
-
-如果你主要需求仍然是日常翻墙、价格性价比和公共 Wi-Fi 保护，<a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=worldcup_block" target="_blank">StrongVPN 中文优惠</a>依然是比较实用的选择。这里重点不是世界杯热度，而是平时能不能稳定连接、速度是否够用、支付宝和年费是否清楚。
-
 # 最近新闻-小红书事件
 近期台湾内政部宣布自 12 月 4 日起，对在台拥有超过 300 万用户的中国社群平台「小红书」实施为期一年的「停止解析、限制接取」，原因包括国安局 15 项资安检测全数不合格、涉入逾 1700 件诈骗并造成 2.4 亿元损失、且平台未受中华民国法律管辖并长期未回应政府改善要求，因此被认定具有高度资安风险并呼吁民众停止使用。同时，针对近期流传的 VPN 谣言也需澄清：StrongVPN、ExpressVPN、Surfshark 与 FLOWVPN 均正常营运，并无任何服务异常情况，使用上完全可以放心。「墙宇宙」至今已实测超过 400 款 VPN，本网站无任何跳出式广告，所有推荐皆以「能否真正翻牆、能否稳定使用」为唯一标准；我们使用国际公认的 Speedtest 每週更新最新的测速图。依目前实测数据与购买策略，本站目前把 StrongVPN 中文优惠放在比较前面，原因是连线观察、价格和支付宝付款都比较清楚；ExpressVPN、Surfshark 可作为预算或多设备需求的替代方案；FLOWVPN 只建议短期测试或临时备用。
 
@@ -104,7 +94,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 - **[快连 VPN (LetsVPN) 正式停止中国地区营运](https://www.reddit.com/r/travelchina/comments/1sxfaiq/letsvpn_permanently_shut_down_chinese_mainland/)**
 
 <!-- NEWS_START -->
-#### 2026年8月15号 VPN、隐私与网络安全新闻
+#### 2026年8月20号 VPN、隐私与网络安全新闻
 - **NCSC 警告零点击邮件攻击**：英国国家网络安全中心指出，攻击者可利用未修补的 Zimbra 邮件系统，在用户仅查看恶意邮件时窃取资料；组织应立即更新系统并加强网络监控。[官方公告](https://www.ncsc.gov.uk/news/uk-and-partners-expose-russian-state-supported-actors-for-new-zero-click-phishing-campaign)
 - **Fortinet 防火墙与 VPN 网关持续成为攻击目标**：NCSC 建议检查异常帐号与日志、更新设备、停用重复密码，并为 VPN 与管理登入启用多因素验证。[官方公告](https://www.ncsc.gov.uk/news/advice-following-global-targeting-of-fortinet-firewalls-and-vpn-gateways)
 - **Mozilla 修补 Firefox 与 ESR 高风险漏洞**：Mozilla 的 7 月安全公告包含网站隔离、同源策略、沙箱逃逸与记忆体安全问题；使用者应确认浏览器已经更新。[官方公告](https://www.mozilla.org/en-US/security/advisories/mfsa2026-69/)
@@ -112,7 +102,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 - **Android 17 加强诈骗、失窃与权限保护**：Google 公布临时精确位置授权、联络人选择器、诈骗检测和更严格的装置保护；VPN 仍应搭配系统更新、MFA 与安全浏览习惯。[官方公告](https://blog.google/security/whats-new-in-android-security-privacy-2026/)
 <!-- NEWS_END -->
 
-最近更新：`2026年8月15号`
+最近更新：`2026年8月20号`
 
 >**在当前的环境下，能在国内长期稳定并有效使用的VPN服务已经变得相对稀缺。许多VPN评论网站往往互相抄袭，发布的内容很多都已经失去了时效性。有一部分推荐的VPN在国内的实际效果并不理想，令人遗憾的是，很多的评论者身处国外，他们并无法提供在国内使用VPN的真实体验。特别是在过去的两年中，由于"防火长城"的严密封锁，许多过去可用的VPN现在已经变得几乎无法使用。因此，在阅读本文的同时，我建议大家需要谨慎理解并避免进入"坑"。本文将根据实际的使用经验介绍各种VPN软件的最新使用情况，并将持续更新最新的使用情况，以供大家参考和避坑。本文是关于中国安全翻牆策略的详细版本，讨论了翻牆软件、科学上网以及网络安全等相关问题。如果你只希望快速选择一款科学上网软件来翻牆，那麽可以直接查看本文下方的目录导航。
 
@@ -139,7 +129,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 
 > ## 本文内容导航
 > ### 1. [科学上网基本知识](#科学上网基本知识)
-> ### 2. [国产VPN推荐功能总结2026年8月15号测试](#国产VPN推荐功能总结2026年8月15号测试)
+> ### 2. [国产VPN推荐功能总结2026年8月20号测试](#国产VPN推荐功能总结2026年8月20号测试)
 > #### 2.1 [StrongVPN推荐](#StrongVPN推荐)
 > #### 2.2 [ExpressVPN-官方特价](#ExpressVPN-官方特价)
 > #### 2.3 [SurfsharkVPN-冲浪鲨-推荐](#SurfsharkVPN-冲浪鲨-推荐)
@@ -233,8 +223,8 @@ IP 地址就像街道地址一样。它公开识别你的实际位置，并且�
 知道如何翻墙成功的同伴可能听说过 VPN 一词，以了解 VPN 与什么连接。 VPN目前是一种加密策略，可以保护客户的IP、区域和个人数据不被泄露。 VPN 可以被视为一种伪装（如果从学术上讲，加密更重要的话）。在屏蔽（加扰）客户端 IP、IP 和个人数据后，他们可以通过防火墙到达一些墙外世界。
 同时，多数人频繁使用 VPN 背后的动机并不是来通过防火墙（就像我在Covid期间同时看到许多远端工作者VPN 一样）。然而这类传统VPN的已经不足以应付中国政府利用强大的国家优势制造的超级防火墙，传统的VPN在中国已经没有机会了。
 
-## 国产VPN推荐功能总结2026年8月15号测试
-<a name="国产VPN推荐功能总结2026年8月15号测试"></a>
+## 国产VPN推荐功能总结2026年8月20号测试
+<a name="国产VPN推荐功能总结2026年8月20号测试"></a>
 以下是我从数百个VPN中实际测试过的一些中国最好的VPN。实际测速对比，可以参考下方测速报告段落。我在中国从事与美国的贸易工作多年。 我用过很多互联网推荐的翻墙软件。我认为一个好的软件应该包括以下功能：
 
 - 高安全性（非中国公司，尽量不要设在中国）
@@ -1512,7 +1502,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 
 
 
-#### StrongVPN Speeds in Different Network Environments 最近更新 `2026年8月15号`更新
+#### StrongVPN Speeds in Different Network Environments 最近更新 `2026年8月20号`更新
 
 | Location      |   StrongVPN 4G |   StrongVPN 5G |   StrongVPN WiFi |
 |:--------------|---------------:|---------------:|-----------------:|
@@ -1525,7 +1515,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 | Africa        |             46 |             46 |               49 |
 
 
-#### ExpressVPN Speeds in Different Network Environments 最近更新 `2026年8月15号`更新
+#### ExpressVPN Speeds in Different Network Environments 最近更新 `2026年8月20号`更新
 
 | Location      |   ExpressVPN 4G |   ExpressVPN 5G |   ExpressVPN WiFi |
 |:--------------|----------------:|----------------:|------------------:|
@@ -1537,7 +1527,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 | South America |              51 |              52 |                54 |
 | Africa        |              48 |              46 |                48 |
 
-#### Surfshark Speeds in Different Network Environments 最近更新 `2026年8月15号`更新
+#### Surfshark Speeds in Different Network Environments 最近更新 `2026年8月20号`更新
 
 | Location      |   Surfshark 4G |   Surfshark 5G |   Surfshark WiFi |
 |:--------------|---------------:|---------------:|-----------------:|
@@ -1550,7 +1540,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 | Africa        |             46 |             46 |               45 |
 
 
-#### FlowVPN Speeds in Different Network Environments 最近更新 `2026年8月15号`更新
+#### FlowVPN Speeds in Different Network Environments 最近更新 `2026年8月20号`更新
 
 | Location      |   FlowVPN 4G |   FlowVPN 5G |   FlowVPN WiFi |
 |:--------------|-------------:|-------------:|---------------:|
