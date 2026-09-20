@@ -1,6 +1,6 @@
 ﻿
 
-# 翻墙软体中国VPN推荐，推荐四款以下好用(每日最近更新测速：`2026年9月14号`更新) 含性价比比较，只剩四款能用 - 墙宇宙
+# 翻墙软体中国VPN推荐，推荐四款以下好用(每日最近更新测速：`2026年9月20号`更新) 含性价比比较，只剩四款能用 - 墙宇宙
 
 
 
@@ -40,7 +40,7 @@
 
 过去 **7天，14天，30天，90天(三个月)** 的测速
 
-从2026年9月14号 回推7天, 14天, 30天, 90天的测速。
+从2026年9月20号 回推7天, 14天, 30天, 90天的测速。
 <img src="./image/speed_test/vpn_speed_test_combined.png?v=20260710-speed" alt="drawing" width="1000"/>
 
 **怎样把测速图变成购买建议：** 人在国内，第一件事不是谁测速最高，而是谁能不能连、能不能稳定连。StrongVPN 在本站的定位是：一年内价格明显低于 ExpressVPN、支持支付宝、速度不是最高但足够日常翻墙、网页、视频和公共 Wi-Fi 使用。  
@@ -94,7 +94,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 - **[快连 VPN (LetsVPN) 正式停止中国地区营运](https://www.reddit.com/r/travelchina/comments/1sxfaiq/letsvpn_permanently_shut_down_chinese_mainland/)**
 
 <!-- NEWS_START -->
-#### 2026年9月14号 VPN、隐私与网络安全新闻
+#### 2026年9月20号 VPN、隐私与网络安全新闻
 - **ExpressVPN 已支持 Amazon Vega OS 设备**：支持的 Fire TV 设备（包括 Fire TV Stick 4K Select）可直接从 Amazon Appstore 安装，并使用遥控器选择节点与连接。[官方公告](https://www.expressvpn.com/blog/expressvpn-amazon-vega-os/)
 - **Vega OS 仍有少量 DNS 查询可能位于 VPN 隧道外**：ExpressVPN 表示这是操作系统层级行为，并非其 App 独有；加密流量不受影响，但 Vega OS 用户仍应了解这项限制。[官方说明](https://www.expressvpn.com/support/troubleshooting/dns-queries-vega-os/)
 - **Proton VPN 推出新的客户端协议核心测试版**：新的 Proton Protocols 架构已进入 Windows、Android、iOS/iPadOS 与 Linux beta，目标是改善稳定性、抗审查能力与跨平台开发速度。[官方发布](https://protonvpn.com/blog/introducing-proton-protocols)
@@ -102,7 +102,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 - **Mullvad Android 2026.9-beta1 增加条件式多跳**：测试版加入互动式服务器地图、在设定需要时自动启用 multihop，并改善地点搜寻；正式版用户不应把 beta 功能视为已经全面上线。[官方变更记录](https://github.com/mullvad/mullvadvpn-app/blob/main/android/CHANGELOG.md)
 <!-- NEWS_END -->
 
-最近更新：`2026年9月14号`
+最近更新：`2026年9月20号`
 
 >**在当前的环境下，能在国内长期稳定并有效使用的VPN服务已经变得相对稀缺。许多VPN评论网站往往互相抄袭，发布的内容很多都已经失去了时效性。有一部分推荐的VPN在国内的实际效果并不理想，令人遗憾的是，很多的评论者身处国外，他们并无法提供在国内使用VPN的真实体验。特别是在过去的两年中，由于"防火长城"的严密封锁，许多过去可用的VPN现在已经变得几乎无法使用。因此，在阅读本文的同时，我建议大家需要谨慎理解并避免进入"坑"。本文将根据实际的使用经验介绍各种VPN软件的最新使用情况，并将持续更新最新的使用情况，以供大家参考和避坑。本文是关于中国安全翻牆策略的详细版本，讨论了翻牆软件、科学上网以及网络安全等相关问题。如果你只希望快速选择一款科学上网软件来翻牆，那麽可以直接查看本文下方的目录导航。
 
@@ -129,7 +129,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 
 > ## 本文内容导航
 > ### 1. [科学上网基本知识](#科学上网基本知识)
-> ### 2. [国产VPN推荐功能总结2026年9月14号测试](#国产VPN推荐功能总结2026年9月14号测试)
+> ### 2. [国产VPN推荐功能总结2026年9月20号测试](#国产VPN推荐功能总结2026年9月20号测试)
 > #### 2.1 [StrongVPN推荐](#StrongVPN推荐)
 > #### 2.2 [ExpressVPN-官方特价](#ExpressVPN-官方特价)
 > #### 2.3 [SurfsharkVPN-冲浪鲨-推荐](#SurfsharkVPN-冲浪鲨-推荐)
@@ -223,8 +223,8 @@ IP 地址就像街道地址一样。它公开识别你的实际位置，并且�
 知道如何翻墙成功的同伴可能听说过 VPN 一词，以了解 VPN 与什么连接。 VPN目前是一种加密策略，可以保护客户的IP、区域和个人数据不被泄露。 VPN 可以被视为一种伪装（如果从学术上讲，加密更重要的话）。在屏蔽（加扰）客户端 IP、IP 和个人数据后，他们可以通过防火墙到达一些墙外世界。
 同时，多数人频繁使用 VPN 背后的动机并不是来通过防火墙（就像我在Covid期间同时看到许多远端工作者VPN 一样）。然而这类传统VPN的已经不足以应付中国政府利用强大的国家优势制造的超级防火墙，传统的VPN在中国已经没有机会了。
 
-## 国产VPN推荐功能总结2026年9月14号测试
-<a name="国产VPN推荐功能总结2026年9月14号测试"></a>
+## 国产VPN推荐功能总结2026年9月20号测试
+<a name="国产VPN推荐功能总结2026年9月20号测试"></a>
 以下是我从数百个VPN中实际测试过的一些中国最好的VPN。实际测速对比，可以参考下方测速报告段落。我在中国从事与美国的贸易工作多年。 我用过很多互联网推荐的翻墙软件。我认为一个好的软件应该包括以下功能：
 
 - 高安全性（非中国公司，尽量不要设在中国）
@@ -1502,7 +1502,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 
 
 
-#### StrongVPN Speeds in Different Network Environments 最近更新 `2026年9月14号`更新
+#### StrongVPN Speeds in Different Network Environments 最近更新 `2026年9月20号`更新
 
 | Location      |   StrongVPN 4G |   StrongVPN 5G |   StrongVPN WiFi |
 |:--------------|---------------:|---------------:|-----------------:|
@@ -1515,7 +1515,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 | Africa        |             46 |             46 |               49 |
 
 
-#### ExpressVPN Speeds in Different Network Environments 最近更新 `2026年9月14号`更新
+#### ExpressVPN Speeds in Different Network Environments 最近更新 `2026年9月20号`更新
 
 | Location      |   ExpressVPN 4G |   ExpressVPN 5G |   ExpressVPN WiFi |
 |:--------------|----------------:|----------------:|------------------:|
@@ -1527,7 +1527,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 | South America |              51 |              52 |                54 |
 | Africa        |              48 |              46 |                48 |
 
-#### Surfshark Speeds in Different Network Environments 最近更新 `2026年9月14号`更新
+#### Surfshark Speeds in Different Network Environments 最近更新 `2026年9月20号`更新
 
 | Location      |   Surfshark 4G |   Surfshark 5G |   Surfshark WiFi |
 |:--------------|---------------:|---------------:|-----------------:|
@@ -1540,7 +1540,7 @@ _注意：在您购买时，我们可能会从中获得一定的佣金，但请�
 | Africa        |             46 |             46 |               45 |
 
 
-#### FlowVPN Speeds in Different Network Environments 最近更新 `2026年9月14号`更新
+#### FlowVPN Speeds in Different Network Environments 最近更新 `2026年9月20号`更新
 
 | Location      |   FlowVPN 4G |   FlowVPN 5G |   FlowVPN WiFi |
 |:--------------|-------------:|-------------:|---------------:|
