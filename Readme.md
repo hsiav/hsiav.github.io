@@ -30,7 +30,7 @@
 **StrongVPN 购买前先看这三点：**
 - **中国连线：** 本站持续观察和测速，重点看人在国内能不能连、能不能稳定连；购买前请用你自己的网络确认官网可打开。
 - **支付宝付款：** StrongVPN 支持支付宝；ExpressVPN 不支持支付宝，预算高、想买大厂品牌时再考虑。
-- **一年价格：** StrongVPN 首年约 **54美元 / 约388人民币**，平均每月约 **4.5美元 / 约32人民币**，一年内明显低于 ExpressVPN。
+- **一年价格：** StrongVPN 官网显示 **4.99美元/月 / 约36人民币/月**，首年实际收费 **53.99美元 / 约388人民币**，一年内明显低于 ExpressVPN。
 
 
 
@@ -47,7 +47,7 @@
 如果你愿意付更高年费换品牌、App 体验和大厂稳定性，再考虑 ExpressVPN。如果是一家人、多台手机电脑电视一起用，Surfshark 更适合，但它的低价通常要一次买两年/长约。FlowVPN 比较适合学生、临时测试或预算很紧的人，因为有 3 天试用；长期使用建议先确认 StrongVPN 的连线表现。
 
 
-- **本站目前实测可用：<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>，重点是中国能不能连、能不能稳定连；一年约54美元(约￥388人民币)，平均每月约4.5美元(约￥32人民币)、约省66%，支持支付宝，一年内比 ExpressVPN 便宜很多。** 
+- **本站目前实测可用：<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>，重点是中国能不能连、能不能稳定连；官网显示4.99美元/月(约￥36人民币/月)，首年实际收费53.99美元(约￥388人民币)、约省66%，支持支付宝，一年内比 ExpressVPN 便宜很多。** 
 - **如果预算较高、重视大厂品牌和速度稳定度，再考虑<a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 官方特价</a>；它是最贵的大厂路线，长约/续费价格请以官方结账页为准。**
 - **FlowVPN 有 3 天试用和较低年费，适合短期测试或临时备用，但不是本站中文站的长期主要选择。**
 
@@ -55,16 +55,16 @@
 
 | 推荐的VPN | 最优惠买法(时间) | 一个月价格(美元/人民币)  | 总价(美元/人民币) | 特色 | 支付宝(Alipay) |
 | ------------- | ------------- | ----- | ----- | ----- | ----- | 
-| <a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN</a> | 一次买一年 | $4.5 / 约￥32人民币 | $54 / 约￥388人民币 首年 | 一年方案最清楚；重点是中国能不能连、能不能稳定连；支持支付宝；一年内比 ExpressVPN 便宜很多 | 支援 |
+| <a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN</a> | 一次买一年 | 官网显示 $4.99 / 约￥36人民币 | 首年实付 $53.99 / 约￥388人民币 | 一年方案最清楚；重点是中国能不能连、能不能稳定连；支持支付宝；一年内比 ExpressVPN 便宜很多 | 支援 |
 | <a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 官方特价</a> | 2年/1年长约 | $3.49-$4.99 / 约￥25-36；单月$12.99 / 约￥93 | 长约约$97.72 / 约￥702；1年约$74.85 / 约￥537；续费约$99.95 / 约￥718/年 | 高价大厂方案；适合预算高、愿意为品牌和稳定性多付年费的用户 | 不支援 |
 | <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark</a> | 2年/长约 | $1.99 / 约￥14起 | Starter约$53.73 / 约￥386(+税)；续费约$79 / 约￥567/年 | 要买两年/长约才便宜；只适合需要无限多设备；不是一年内最便宜选择 | 不支援 |
 | <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(短期免费试用)</a> | 先试用再决定 | 单月$6.99 / 约￥50；年约$3.33 / 约￥24 | 3天试用；1年特价约$39.99 / 约￥287(原$49.99 / 约￥359) | 适合学生、短期测试/备用；长期使用建议先确认 StrongVPN 的连线表现 | 支援 |
 
 ### 墙宇宙 VPN价格 比较图 怎样购买最便宜 (中国翻墙VPN购买的最佳策略)
 
-上表价格为 2026-09-05 依各官方/联盟落地页查到的公开价格，人民币用 1 USD ≈ 7.18 CNY 粗算。人在国内选 VPN，第一件事不是最高速度，而是能不能连上、能不能稳定用一段时间、付款是否方便。本站排序重点是每日测速与连线观察，不是只看理论低价；中国网络环境会变化，购买前仍以你所在网络能否打开官网、完成付款为准。本站目前实测后放在前面的方案是 <a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>：它的年费约 $54(约￥388人民币) 清楚、平均每月约 $4.5(约￥32人民币)、约省66%、支持支付宝，一年内购买时比 ExpressVPN 便宜很多；如果只想买一年，StrongVPN 是目前最清楚的选择。Surfshark 要一次买两年/长约才有低价，主要适合需要无限多设备的人；FlowVPN 适合学生、短期测试或备用。
+上表价格为 2026-11-08 依各官方/联盟落地页查到的公开价格，人民币用 1 USD ≈ 7.18 CNY 粗算。人在国内选 VPN，第一件事不是最高速度，而是能不能连上、能不能稳定用一段时间、付款是否方便。本站排序重点是每日测速与连线观察，不是只看理论低价；中国网络环境会变化，购买前仍以你所在网络能否打开官网、完成付款为准。本站目前实测后放在前面的方案是 <a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>：官网显示 $4.99/月(约￥36人民币/月)，首年实际收费 $53.99(约￥388人民币)、约省66%、支持支付宝，一年内购买时比 ExpressVPN 便宜很多；如果只想买一年，StrongVPN 是目前最清楚的选择。Surfshark 要一次买两年/长约才有低价，主要适合需要无限多设备的人；FlowVPN 适合学生、短期测试或备用。
 
-- 如果打算一次购买一年，对于速度并不是太要求，可以先看<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN</a>，一年约54美元(约￥388人民币)，平均每月约4.5美元(约￥32人民币)、约省66%(隔一年再用一个新email使用本站优惠码)
+- 如果打算一次购买一年，对于速度并不是太要求，可以先看<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN</a>，官网显示4.99美元/月(约￥36人民币/月)，首年实际收费53.99美元(约￥388人民币)、约省66%(隔一年再用一个新email使用本站优惠码)
 - 如果预算较高、想买高稳定度大厂方案，再考虑<a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 官方特价</a>。ExpressVPN 属于最贵的大厂路线，1年价格肯定比 StrongVPN 贵；长约约$97.72起、1年约$74.85(约￥537)起，续费通常更高
 - 如果家里设备很多，可以考虑<a href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">surfshark</a>，Starter 长约约$53.73起(+税)，但通常要买两年/长约才便宜；重点是无限设备，不是一年内最便宜选择
 - FlowVPN 有 3 天试用，1年特价约$39.99(约￥287，原$49.99)，适合学生、短期测试或备用；如果要长期翻墙，建议先看每日实测连线状况，再决定是否使用 StrongVPN。
@@ -246,7 +246,7 @@ IP 地址就像街道地址一样。它公开识别你的实际位置，并且�
 ### StrongVPN推荐
 <img src="./image/speed_test/1d83ca53.gif" alt="drawing" width="400"/>
 
-StrongVPN属于最近兴起的欧美VPN。与欧美最大的ExpressVPN相比，价格便宜很多，首年平均每月约4.5美元（约￥32人民币），12个月计划首年约54美元（约￥388人民币）。ExpressVPN费用较高，实际价格以结账页为准。不仅如此， StrongVPN支持支付宝，ExpressVPN不支持。还有一个工程团队不断更新和修复节点。如果你只是想在线观看YouTube或Facebook，我推荐StrongVPN。StrongVPN网站声称它是“最好的多媒体VPN”，并且建议支持 Netflix、Hulu、ABC、HBO 和 Sky Go 等服务。
+StrongVPN属于最近兴起的欧美VPN。与欧美最大的ExpressVPN相比，价格便宜很多，官网显示每月4.99美元（约￥36人民币），12个月计划首年实际收费53.99美元（约￥388人民币）。ExpressVPN费用较高，实际价格以结账页为准。不仅如此， StrongVPN支持支付宝，ExpressVPN不支持。还有一个工程团队不断更新和修复节点。如果你只是想在线观看YouTube或Facebook，我推荐StrongVPN。StrongVPN网站声称它是“最好的多媒体VPN”，并且建议支持 Netflix、Hulu、ABC、HBO 和 Sky Go 等服务。
 
 StrongVPN 拥有适用于 Windows、Mac、iOS、Android 和 Amazon Fire TV 的应用程序，例如 Chrome 浏览器扩展程序，以及路由器、Fire TV、Kodi 等的设置指南。 StrongVPN 在超过 35 个国家的 46 个城市提供超过 950 台 P2P 友好服务器。您可以通过 L2TP、SSTP、OpenVPN、IKEv2 甚至现在的 WireGuard 协议进行连接，并通过电子邮件和实时聊天获得 24/7 客户支持以及 30 天退款保证。没什么花哨的，但规格很不错，对大多数人来说绰绰有余。
 
@@ -278,7 +278,7 @@ strongvpn设计了一个全球网络，其中包括 950 多台服务器，支持
 - 价格比ExpressVPN、Surfshark等欧美VPN便宜。最近，测试节点的速度和数量已经超过了ExpressVPN。
 - 支持支付宝。(接受所有主要信用卡、PayPal、支付宝)
 - 高稳定性
-- 首年约 $54（约￥388人民币；12 个月计划，平均约 $4.5/月，约￥32人民币/月；实际以结账页为准）
+- 官网显示 $4.99/月（约￥36人民币/月）；12 个月计划首年实际收费 $53.99（约￥388人民币；以结账页为准）
 
 | 功能/规格 | StrongVPN |
 | :-------: | :------- |
@@ -440,7 +440,7 @@ StrongVPN 的特点是支持支付宝(Alipay)。喜欢用支付宝付款的朋�
 
 <img src="./image/strong/s2-1.PNG" alt="drawing" width="1000"/>
 
-注册完 FlowVPN 以后，选择UK，你会发现你就可以购买囉。左边的一次买一年首年约54美元（约￥388人民币），(注意: 这个方式只能使用12个月，如果要续约，建议重新办一个email,再回来使用这个优惠码。)
+注册完 FlowVPN 以后，选择UK，你会发现你就可以购买囉。左边的一次买一年，官网显示4.99美元/月，首年实际收费53.99美元（约￥388人民币），(注意: 这个方式只能使用12个月，如果要续约，建议重新办一个email,再回来使用这个优惠码。)
 
 <img src="./image/strong/s3-1.PNG" alt="drawing" width="1000"/>
 
@@ -679,7 +679,7 @@ Proton VPN在2018年以前也是一个很火红的VPN，然而近年来由于防
 Astrillvpn算是很贵的VPN。在我们开始谈论 AstrillVPN 是否适合通过防火墙之前，我们先来看看以下几点我认为是不足的地方。
 
 首先价格太高了：
-Astrill VPN非常昂贵，一年一个月要10美元，而StrongVPN 平均每月约4.5美元（约￥32人民币），ExpressVPN 15个月每月7美元，即使你只购买六个月，每月9美元，Surfshark每月只需6美元，7美元，两个只需3美元 年。 这根本就是是整个 VPN 市场上最贵的一款。
+Astrill VPN非常昂贵，一年一个月要10美元，而StrongVPN 官网显示每月4.99美元（约￥36人民币），ExpressVPN 15个月每月7美元，即使你只购买六个月，每月9美元，Surfshark每月只需6美元，7美元，两个只需3美元 年。 这根本就是是整个 VPN 市场上最贵的一款。
 
 并非所有网站都可以访问（没有退款机制）：
 如果这么贵的话，应该是极速的，可以解封很多网站，但是AstrillVPN可以浏览Netflix，但是一些像huhu这样的网站就不行了。 最重要的是，与ExpressVPN、Surfshark VPN相比，StrongVPN有1个月的退款，而Astrill VPN只有7天的试用期（而且不退款）。 千万不要使用。

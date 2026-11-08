@@ -14,7 +14,7 @@
 
 | 推薦的VPN | 最優惠買法(時間) | 一個月價格(美金)  | 總價 | 特色 | 支付保(Alipay) |
 | ------------- | ------------- | ----- | ----- | ----- | ----- | 
-| <a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN</a>    | 一次買一年 | 4.5 | 54 | cp值最高 | 支援 |
+| <a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN</a>    | 一次買一年 | 官網顯示 4.99 | 首年實付 53.99 | cp值最高 | 支援 |
 |  <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(免費試用兩天)</a> |  一次買一年    |    $4.17 | 50 | 免費試用兩天 | 支援 |
 | <a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">Expressvpn (買12個月送三個月)</a>   | 一次買一年(可用15個月)     |  5.33 | 6.67 X 12 = 80 | 最高級 速度穩定度最高 | 不支援|
 | <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark</a> | 一次買兩年    |    $2.30 | 55 |  無限多設備 | 不支援 |
