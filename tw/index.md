@@ -12,16 +12,16 @@
 
 ### 我整理出的四個VPN的特色以及差異，包含最優惠的購買方式
 
-| 推薦的VPN | 最優惠買法(時間) | 一個月價格(美金)  | 總價 | 特色 | 支付保(Alipay) |
+| 推薦的VPN | 最優惠買法(時間) | 一個月價格(美金)  | 總價 | 特色 | 目前付款方式 |
 | ------------- | ------------- | ----- | ----- | ----- | ----- | 
-| <a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN</a>    | 一次買一年 | 官網顯示 4.99 | 首年實付 53.99 | cp值最高 | 支援 |
+| <a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN</a>    | 一次買一年 | 官網顯示 $4.99 | 首年實付 $53.99 | 一年方案清楚；比 ExpressVPN 便宜 | 銀聯信用卡/借記卡、PayPal；不再支援支付寶 |
 |  <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(免費試用兩天)</a> |  一次買一年    |    $4.17 | 50 | 免費試用兩天 | 支援 |
 | <a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">Expressvpn (買12個月送三個月)</a>   | 一次買一年(可用15個月)     |  5.33 | 6.67 X 12 = 80 | 最高級 速度穩定度最高 | 不支援|
 | <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark</a> | 一次買兩年    |    $2.30 | 55 |  無限多設備 | 不支援 |
 
 ### 墻宇宙 VPN價格 比較圖 怎樣購買最便宜 (中國翻墻VPN購買的最佳策略)
 
-- 如果打算一次購買一年，對於速度並不是太要求，建議買<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">strongvpn</a>，只要43美金(隔一年再用一個新email使用本站優惠瑪)
+- 如果打算一次購買一年，對於速度並不是太要求，可先看<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN</a>：官網顯示每月 $4.99，首年實付 $53.99；目前請使用銀聯信用卡/借記卡或 PayPal。
 - 如果打算一次購買兩年，對於速度並不是太要求，建議買<a href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">surfshark</a>，只要55美金(隔一年再用一個新email使用本站優惠瑪)
 - 如果打算一次買一年且對速度要求很高，當然建議買<a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (買12個月送三個月)</a>(隔一年再用一個新email使用本站優惠瑪)。一個月大概6美金
 - 如果只是想要念paper，速度上不那麽要求，可以考慮<a href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">flowvpn</a>
@@ -141,7 +141,7 @@ IP 地址就像街道地址一樣。它公開識別你的實際位置，並且�
 ### StrongVPN推薦
 <img src="./image/speed_test/1d83ca53.gif" alt="drawing" width="400"/>
 
-StrongVPN屬於最近興起的歐美VPN。與歐美最大的ExpressVPN相比，價格便宜很多，最低每月3.5美元（12個月計劃-每月3.5美元（總費用43.99美元）。ExpressVPN費用接近6美元不僅如此， StrongVPN支持支付寶，ExpressVPN不支持。還有一個工程團隊不斷更新和修覆節點。如果你只是想在線觀看YouTube或Facebook，我推薦StrongVPN。StrongVPN網站聲稱它是“最好的多媒體VPN”，並且建議支持 Netflix、Hulu、ABC、HBO 和 Sky Go 等服務。
+StrongVPN屬於歐美VPN。與ExpressVPN相比，一年方案便宜很多；官網顯示每月 $4.99，首年實際收費 $53.99。StrongVPN 已停止提供支付寶付款，中國用戶請使用銀聯信用卡/借記卡或 PayPal。還有一個工程團隊不斷更新和修復節點。如果你只是想在線觀看YouTube或Facebook，我推薦StrongVPN。StrongVPN網站聲稱它是“最好的多媒體VPN”，並且建議支持 Netflix、Hulu、ABC、HBO 和 Sky Go 等服務。
 
 StrongVPN 擁有適用於 Windows、Mac、iOS、Android 和 Amazon Fire TV 的應用程序，例如 Chrome 瀏覽器擴展程序，以及路由器、Fire TV、Kodi 等的設置指南。 StrongVPN 在超過 35 個國家的 46 個城市提供超過 950 台 P2P 友好服務器。您可以通過 L2TP、SSTP、OpenVPN、IKEv2 甚至現在的 WireGuard 協議進行連接，並通過電子郵件和實時聊天獲得 24/7 客戶支持以及 30 天退款保證。沒什麽花哨的，但規格很不錯，對大多數人來說綽綽有余。
 
@@ -171,7 +171,7 @@ strongvpn設計了一個全球網絡，其中包括 950 多台服務器，支持
 - 如果你有任何問題或困難，熟練的技術人員團隊將隨時為你提供幫助。我們提供 24/7 客戶支持，確保及時解決所有問題
 - StrongVPN的隱私政策：在您使用VPN服務時，您的數據不會被跟蹤或存儲
 - 價格比ExpressVPN、Surfshark等歐美VPN便宜。最近，測試節點的速度和數量已經超過了ExpressVPN。
-- 支持支付寶。(接受所有主要信用卡、PayPal、支付寶)
+- 付款方式：銀聯信用卡/借記卡或 PayPal；不再支援支付寶
 - 高穩定性
 - 每月只需3.50 美元（12 個月計劃 – 每月 3.50 美元（總成本 43.99 美元）
 
@@ -182,7 +182,7 @@ strongvpn設計了一個全球網絡，其中包括 950 多台服務器，支持
 | 服務器數量 | 950+ |
 | 國家數量 | 35+ |
 | 注冊國家 | 美國 |
-| 付款方式 | 信用卡、PayPal、支付寶 |
+| 付款方式 | 銀聯信用卡/借記卡、PayPal；不再支援支付寶 |
 | 需要實名嗎？ | 無 |
 | 加密協議 | WireGuard、OpenVPN、IKEv2、L2TP、SSTP |
 | 數據使用 | 無限制帶寬 |
@@ -326,8 +326,8 @@ Surfshark是一家位於英屬維爾京群島的VPN服務提供商，和ExpressV
 
 
 
-## strongvpn手把手-支付保alipay-購買教學
-strongvpn的特點就是有支付保(alipay)喜歡支付保的付款的朋友，建議使用strongvpn，或是flowvpn
+## StrongVPN 銀聯卡或 PayPal 購買教學
+**付款更新（2026年11月9日）：StrongVPN 結帳已經不再提供支付寶。中國用戶請準備銀聯信用卡/借記卡（UnionPay）或 PayPal，並以結帳頁實際顯示為準。**
 
 第一步驟: 前往本站的專屬優惠 <a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table" target="_blank">StrongVPN</a>，點選start now (參照下圖)
 
@@ -341,9 +341,7 @@ strongvpn的特點就是有支付保(alipay)喜歡支付保的付款的朋友，
 
 <img src="./image/strong/s3-1.PNG" alt="drawing" width="1000"/>
 
-第三步驟: 往下滑，選擇alipay付款，或是國內銀行卡，包含visa或是master card(海外卡也可以)，還有paypal可以用
-
-<img src="./image/strong/s4-1.PNG" alt="drawing" width="1000"/>
+第三步驟: 往下滑到付款區域，選擇銀聯信用卡/借記卡（UnionPay）或 PayPal。支付寶已經停止，下面不再展示舊的支付寶付款截圖，避免誤導。
 
 
 ### 移動設備（Android / iOS)上的StrongVPN設置教程
@@ -374,7 +372,7 @@ strongvpn的特點就是有支付保(alipay)喜歡支付保的付款的朋友，
 
 ## expressvpn線上優惠瑪購買教學-如何購買ExpressVPN
 <a name="expressvpn線上優惠瑪購買教學-如何購買ExpressVPN"></a>
-要注意: expressvpn 不支援支付寶，喜歡支付保的付款的朋友，建議使用strongvpn，或是flowvpn。
+要注意：StrongVPN 與 ExpressVPN 目前都不能用支付寶完成結帳；StrongVPN 請使用銀聯信用卡/借記卡或 PayPal。FlowVPN 可作為短期測試或臨時備用。
 Expressvpn 支援: 國內銀行卡購買ExpressVPN，包含visa或是master card(海外卡也可以)，還有比特幣，還有paypal可以用。因為expressvpn 是海外網站，所以你可能需要翻牆才能訪問。關於這點，可以參考我的鏡像站連上網站的方法。
 
 ### 第一步: 前往優惠連結<a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn 優惠</a>:點選: get expressvpn (底下的紅框框)
