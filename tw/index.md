@@ -51,7 +51,7 @@ VPN使用者極度重視連接速度 - 如果VPN讓你的網速變得龜速，�
 <img src="./image/speed_test/vpn_speed_test_combined.png" alt="drawing" width="1000"/>
 
 
-- **如果打算一次購買一年，對於速度並不是太要求，建議買<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">strongvpn</a>，只要43美金(隔一年再用一個新email使用本站優惠瑪)，一個月大概4美金** 
+- **如果打算一次購買一年，對速度要求不是最高，可先看<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN</a>；官網顯示每月 $4.99，首年實付 $53.99。**
 - **如果打算一次買一年且對速度要求很高，當然建議買<a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (買12個月送三個月)</a>(隔一年再用一個新email使用本站優惠瑪)。一個月大概6美金**
 
 
@@ -173,7 +173,7 @@ strongvpn設計了一個全球網絡，其中包括 950 多台服務器，支持
 - 價格比ExpressVPN、Surfshark等歐美VPN便宜。最近，測試節點的速度和數量已經超過了ExpressVPN。
 - 付款方式：銀聯信用卡/借記卡或 PayPal；不再支援支付寶
 - 高穩定性
-- 每月只需3.50 美元（12 個月計劃 – 每月 3.50 美元（總成本 43.99 美元）
+- 官網顯示每月 $4.99，12 個月方案首年實付 $53.99
 
 | 功能/規格 | StrongVPN |
 | :-------: | :------- |
@@ -337,7 +337,7 @@ Surfshark是一家位於英屬維爾京群島的VPN服務提供商，和ExpressV
 
 <img src="./image/strong/s2-1.PNG" alt="drawing" width="1000"/>
 
-註冊完flowvpn以後，選擇UK，你會發現你就可以購買囉。左邊的一次買一年只要43美金，(注意: 這個方式只能使用12個月，如果要續約，建議重新辦一個email,再回來使用這個優惠瑪。)
+註冊完 FlowVPN 以後，選擇 UK，再回到 StrongVPN 官網確認是否能正常開啟結帳頁。12 個月方案官網顯示每月 $4.99，首年實付 $53.99；續費與最終付款金額以結帳頁為準。
 
 <img src="./image/strong/s3-1.PNG" alt="drawing" width="1000"/>
 
@@ -573,7 +573,7 @@ Proton VPN在2018年以前也是一個很火紅的VPN，然而近年來由於防
 Astrillvpn算是很貴的VPN。在我們開始談論 AstrillVPN 是否適合通過防火墻之前，我們先來看看以下幾點我認為是不足的地方。
 
 首先價格太高了：
-Astrill VPN非常昂貴，一年一個月要10美元，而StrongVPN每月3美元，ExpressVPN 15個月每月7美元，即使你只購買六個月，每月9美元，Surfshark每月只需6美元，7美元，兩個只需3美元 年。 這根本就是是整個 VPN 市場上最貴的一款。
+Astrill VPN非常昂貴，一年平均每月約10美元；StrongVPN 中文方案官網顯示每月 $4.99、首年實付 $53.99，ExpressVPN 與 Surfshark 的價格則會依購買期數和活動而變。比較時應看首期總價、期數與續費，不要只看廣告上的月均價格。
 
 並非所有網站都可以訪問（沒有退款機制）：
 如果這麽貴的話，應該是極速的，可以解封很多網站，但是AstrillVPN可以瀏覽Netflix，但是一些像huhu這樣的網站就不行了。 最重要的是，與ExpressVPN、Surfshark VPN相比，StrongVPN有1個月的退款，而Astrill VPN只有7天的試用期（而且不退款）。 千萬不要使用。
