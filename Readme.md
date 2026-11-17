@@ -25,12 +25,9 @@
 
 ### 直接看 价格性价比结论 墙宇宙 VPN价格 测速比较图
 
-**先看购买结论：** 如果你人在国内，只想买一年、可以使用银行卡或 PayPal、又希望年费明显低于 ExpressVPN，先看 <a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>。结账页目前支持 Visa、Mastercard、American Express、Discover 和 UnionPay（银联）银行卡，也可使用 PayPal；StrongVPN 团队已特别确认中国大陆发行的银联信用卡和银联借记卡可以正常完成付款。本站每天更新测速图，重点不是谁理论速度最高，而是谁能连、能稳定连、价格和付款方式是否清楚。ExpressVPN 适合预算高、想要大厂品牌的人；Surfshark 适合多设备长约；FlowVPN 适合先短期试用或临时备用。
+**先看判断方法：** 本文不以最低月费或单次最高速度直接排名。人在国内应先确认官网能打开、自己的网络能连接，再比较首期总价、续费、付款方式、设备数量和退款条件。下面的测速图与价格表分别回答性能和购买条件，不把广告口号当成结论。
 
-**StrongVPN 购买前先看这三点：**
-- **中国连线：** 本站持续观察和测速，重点看人在国内能不能连、能不能稳定连；购买前请用你自己的网络确认官网可打开。
-- **付款方式（2026年11月12日确认）：** 结账页目前支持 Visa、Mastercard、American Express、Discover 和 UnionPay（银联）银行卡，也可使用 PayPal。StrongVPN 团队已特别确认中国大陆发行的银联信用卡和银联借记卡可以正常完成付款；支付宝已停止提供。
-- **一年价格：** StrongVPN 官网显示 **4.99美元/月 / 约36人民币/月**，首年实际收费 **53.99美元 / 约388人民币**，一年内明显低于 ExpressVPN。
+购买前只核对三件事：你的网络能否连接、结账页首期与续费总额是否一致、你是否拥有页面实际支持的付款方式。具体数字集中放在下方比较表，避免同一结论反复出现。
 
 
 
@@ -43,13 +40,8 @@
 从2026年11月14号 回推7天, 14天, 30天, 90天的测速。
 <img src="./image/speed_test/vpn_speed_test_combined.png?v=20260710-speed" alt="drawing" width="1000"/>
 
-**怎样把测速图变成购买建议：** 人在国内，第一件事不是谁测速最高，而是谁能不能连、能不能稳定连。StrongVPN 在本站的定位是：一年内价格明显低于 ExpressVPN、只需购买一年、速度不是最高但足够日常翻墙、网页、视频和公共 Wi-Fi 使用；付款可使用 Visa、Mastercard、American Express、Discover、银联银行卡或 PayPal。
-如果你愿意付更高年费换品牌、App 体验和大厂稳定性，再考虑 ExpressVPN。如果是一家人、多台手机电脑电视一起用，Surfshark 更适合，但它的低价通常要一次买两年/长约。FlowVPN 比较适合学生、临时测试或预算很紧的人；目前本站 affiliate 页面首屏显示 2 天试用，最终收费和续费金额要在建立账号时确认。长期使用建议先确认 StrongVPN 的连线表现。
+**怎样读测速图：** 图表只能比较本站测试条件下的相对速度，不能保证你所在城市、运营商和时段得到相同结果。先看能否连接和连续使用，再看速度；购买条件则以下方表格和最终结账页为准。
 
-
-- **本站目前实测可用：<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>，重点是中国能不能连、能不能稳定连；官网显示4.99美元/月(约￥36人民币/月)，首年实际收费53.99美元(约￥388人民币)、约省66%。结账支持 Visa、Mastercard、American Express、Discover、银联银行卡和 PayPal；中国大陆发行的银联信用卡和银联借记卡已由 StrongVPN 团队确认可正常付款。**
-- **如果预算较高、重视大厂品牌和速度稳定度，再考虑<a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 官方特价</a>；它是最贵的大厂路线，长约/续费价格请以官方结账页为准。**
-- **FlowVPN affiliate 页面目前首屏显示 2 天试用，适合短期测试或临时备用；最终收费和续费金额要在建立账号时确认，不是本站中文站的长期主要选择。**
 
 ### 我整理出的四个VPN的特色以及差异，包含最优惠的购买方式
 
@@ -62,12 +54,7 @@
 
 ### 墙宇宙 VPN价格 比较图 怎样购买最便宜 (中国翻墙VPN购买的最佳策略)
 
-上表价格为 2026-11-15 依各官方/联盟落地页查到的公开价格，人民币用 1 USD ≈ 7.18 CNY 粗算；StrongVPN 付款方式于 2026-11-12 再次确认。人在国内选 VPN，第一件事不是最高速度，而是能不能连上、能不能稳定用一段时间、付款是否方便。本站排序重点是每日测速与连线观察，不是只看理论低价；中国网络环境会变化，购买前仍以你所在网络能否打开官网、完成付款为准。本站目前实测后放在前面的方案是 <a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>：官网显示 $4.99/月(约￥36人民币/月)，首年实际收费 $53.99(约￥388人民币)、约省66%。结账页目前支持 Visa、Mastercard、American Express、Discover 和 UnionPay（银联）银行卡，也可使用 PayPal；StrongVPN 团队已特别确认中国大陆发行的银联信用卡和银联借记卡可以正常完成付款。支付宝已经停止。一年内购买时仍比 ExpressVPN 便宜很多；如果只想买一年，StrongVPN 是目前最清楚的选择。Surfshark 要一次买两年/长约才有低价，主要适合需要无限多设备的人；FlowVPN affiliate 页面目前显示 2 天试用，最终收费与续费金额需在建立账号时确认。
-
-- 如果打算一次购买一年，对于速度并不是太要求，可以先看<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN</a>，官网显示4.99美元/月(约￥36人民币/月)，首年实际收费53.99美元(约￥388人民币)、约省66%；结账页显示续费89.99美元(约￥646人民币)，购买前请确认自动续费条款
-- 如果预算较高、想买高稳定度大厂方案，再考虑<a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 官方特价</a>。ExpressVPN 属于较贵的大厂路线；Basic 2年首28个月约$83.72(约￥601)，1年首15个月约$74.85(约￥537)，续费约$99.95/年(约￥718)
-- 如果家里设备很多，可以考虑<a href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">surfshark</a>，Starter 首27个月约$67.23(约￥483，VAT/税费可能另计)，但要买两年/长约才便宜；重点是无限设备，不是一年内最便宜选择
-- FlowVPN affiliate 页面目前首屏显示 2 天试用，但建立账号前未清楚显示最终方案价格；适合学生、短期测试或备用，收费与续费金额请以建立账号时的页面为准。
+上表价格为 2026-11-15 依各官方或联盟落地页核对的公开价格，人民币按 1 USD ≈ 7.18 CNY 粗算。不同方案的合同长度并不相同，不能只比较页面上的平均月费；首期总额、续费、税费和付款方式均以最终结账页为准。
 
 
 经由我研究和多方的测试，针对不同地区蒐集到的VPN的测速资料，做成以下图片给大家参考。Expressvpn速度稳定度最高，strongvpn次之，surfshark和flowvpn差不多。就看大家的购买策略。以下是我针对 四款VPN在台湾，日本，南韩，等常见地区的平均，经过多次测试并且画出标准差(error bar)。考量到价格跟速度比较，
@@ -88,7 +75,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 <a href="/es/">Español</a> 或 <a href="/es/index.html">Versión en Español</a> -->
 
 # 最近新闻-小红书事件
-近期台湾内政部宣布自 12 月 4 日起，对在台拥有超过 300 万用户的中国社群平台「小红书」实施为期一年的「停止解析、限制接取」，原因包括国安局 15 项资安检测全数不合格、涉入逾 1700 件诈骗并造成 2.4 亿元损失、且平台未受中华民国法律管辖并长期未回应政府改善要求，因此被认定具有高度资安风险并呼吁民众停止使用。同时，针对近期流传的 VPN 谣言也需澄清：StrongVPN、ExpressVPN、Surfshark 与 FLOWVPN 均正常营运，并无任何服务异常情况，使用上完全可以放心。「墙宇宙」至今已实测超过 400 款 VPN，本网站无任何跳出式广告，所有推荐皆以「能否真正翻牆、能否稳定使用」为唯一标准；我们使用国际公认的 Speedtest 每週更新最新的测速图。依目前实测数据与购买策略，本站目前把 StrongVPN 中文优惠放在比较前面，原因是连线观察和一年价格比较清楚；结账支持 Visa、Mastercard、American Express、Discover、银联银行卡和 PayPal，中国大陆发行的银联信用卡和银联借记卡已确认可正常付款。ExpressVPN、Surfshark 可作为预算或多设备需求的替代方案；FLOWVPN 只建议短期测试或临时备用。
+近期台湾内政部宣布自 12 月 4 日起，对在台拥有超过 300 万用户的中国社群平台「小红书」实施为期一年的「停止解析、限制接取」，原因包括国安局 15 项资安检测全数不合格、涉入逾 1700 件诈骗并造成 2.4 亿元损失、且平台未受中华民国法律管辖并长期未回应政府改善要求，因此被认定具有高度资安风险并呼吁民众停止使用。VPN 服务状态与平台封锁都会变化，本文不以传言判断，持续用连线观察、测速图、官方状态和实际结账页分别核对；购买前仍应在自己的网络与设备上测试。
 
 
 - **[快连 VPN (LetsVPN) 正式停止中国地区营运](https://www.reddit.com/r/travelchina/comments/1sxfaiq/letsvpn_permanently_shut_down_chinese_mainland/)**
@@ -242,15 +229,15 @@ IP 地址就像街道地址一样。它公开识别你的实际位置，并且�
 
 
 <a name="StrongVPN推荐"></a>
-### 1.<a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN–性价比最高</a>
-### StrongVPN推荐
+### 1.<a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN–一年方案与中国连线观察</a>
+### StrongVPN 适用情况
 <img src="./image/speed_test/1d83ca53.gif" alt="drawing" width="400"/>
 
-StrongVPN属于最近兴起的欧美VPN。与欧美最大的ExpressVPN相比，价格便宜很多，官网显示每月4.99美元（约￥36人民币），12个月计划首年实际收费53.99美元（约￥388人民币）。ExpressVPN费用较高，实际价格以结账页为准。StrongVPN 结账页目前支持 Visa、Mastercard、American Express、Discover 和 UnionPay（银联）银行卡，也可使用 PayPal；StrongVPN 团队已特别确认中国大陆发行的银联信用卡和银联借记卡可正常完成付款。支付宝已停止。还有一个工程团队不断更新和修复节点。如果你只是想在线观看YouTube或Facebook，我推荐StrongVPN。StrongVPN网站声称它是“最好的多媒体VPN”，并且建议支持 Netflix、Hulu、ABC、HBO 和 Sky Go 等服务。
+StrongVPN 在本文排第一，是因为目前的一年方案便于控制首期成本，而且本站仍在持续观察它的中国连线。具体价格与付款方式已经集中列在上方比较表；这里不再重复。它并不保证每个网络或串流平台都能使用，购买后应在退款期限内测试 YouTube、网页、视频和常用应用。
 
-StrongVPN 拥有适用于 Windows、Mac、iOS、Android 和 Amazon Fire TV 的应用程序，例如 Chrome 浏览器扩展程序，以及路由器、Fire TV、Kodi 等的设置指南。 StrongVPN 在超过 35 个国家的 46 个城市提供超过 950 台 P2P 友好服务器。您可以通过 L2TP、SSTP、OpenVPN、IKEv2 甚至现在的 WireGuard 协议进行连接，并通过电子邮件和实时聊天获得 24/7 客户支持以及 30 天退款保证。没什么花哨的，但规格很不错，对大多数人来说绰绰有余。
+StrongVPN 提供 Windows、Mac、iOS、Android 和 Amazon Fire TV 应用，也有路由器等设备的设置指南。官方资料列出 950 多台服务器、35 个以上国家，以及 WireGuard、OpenVPN、IKEv2 等协议。功能是否适合仍要看你的设备、运营商和主要用途。
 
-strongvpn设计了一个全球网络，其中包括 950 多台服务器，支持 30 多个国家和 46 个城市，并提供 59,500 个 VPN。真正在线隐私的零日志记录: StrongVPN 是业内少数可以承诺零日志记录的 VPN 之一。因为strongvpn拥有自己的服务器，所以有能力控制谁和什么可以访问你的数据。绝不会将您的私人信息或活动交到任何第三方手中。strongvpn对将您的数据出售给出价最高者不感兴趣。只是想帮助您保持安全。
+StrongVPN 在隐私政策中声明不记录 VPN 活动与连线流量；账号、付款及法律请求如何处理，应以当前隐私政策为准。与有公开第三方审计的服务相比，读者也应把可验证证据与公司声明分开判断。
 
 
 #### STRONGVP 的速度到底有多快？
@@ -268,17 +255,14 @@ strongvpn设计了一个全球网络，其中包括 950 多台服务器，支持
 
 - 广泛的平台支持 适用于 iOS、Android、macOS、Windows 等的应用程序
 - 最多支持 12 个同时连接
-- 解锁 Netflix、Amazon Prime Video、Disney Plus
+- 串流兼容性会随平台与服务器变化，应在退款期限内自行测试
 - 250GB SugarSync 存储空间，包年套餐
-- 超过 8000 台服务器
+- 官方资料列出 950 多台服务器
 - 可以通过 L2TP、SSTP、OpenVPN、IKEv2 甚至 WireGuard 协议进行连接
 - 只要你在购买后 30 天内提出要求，你就会收到全额退款
 - 如果你有任何问题或困难，熟练的技术人员团队将随时为你提供帮助。我们提供 24/7 客户支持，确保及时解决所有问题
-- StrongVPN的隐私政策：在您使用VPN服务时，您的数据不会被跟踪或存储
-- 价格比ExpressVPN、Surfshark等欧美VPN便宜。最近，测试节点的速度和数量已经超过了ExpressVPN。
-- 付款方式：支持 Visa、Mastercard、American Express、Discover、银联银行卡和 PayPal；中国大陆发行的银联信用卡和银联借记卡已确认可正常付款；不支持支付宝
-- 高稳定性
-- 官网显示 $4.99/月（约￥36人民币/月）；12 个月计划首年实际收费 $53.99（约￥388人民币；以结账页为准）
+- StrongVPN 声明不记录 VPN 活动；具体范围请阅读当前隐私政策
+- 连线稳定性取决于地区、运营商、服务器和协议
 
 | 功能/规格 | StrongVPN |
 | :-------: | :------- |
@@ -430,21 +414,21 @@ Surfshark是一家位于英属维尔京群岛的VPN服务提供商，和ExpressV
 
 
 ## StrongVPN 银联卡或 PayPal 购买教学
-**付款确认（2026年11月12日）：结账页目前支持 Visa、Mastercard、American Express、Discover 和 UnionPay（银联）银行卡，也可使用 PayPal。StrongVPN 团队已特别确认中国大陆发行的银联信用卡和银联借记卡可以正常完成付款；支付宝已停止提供。**
+**付款确认（2026年11月12日）：支付宝已停止；结账页可选择银行卡或 PayPal，中国大陆发行的银联信用卡与借记卡已获 StrongVPN 团队确认。最终仍以结账页实际显示为准。**
 
 第一步骤: 前往本站的专属优惠 <a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN</a>，点选start now (参照下图)
 
 <img src="./image/strong/s1-1.PNG" alt="drawing" width="1000"/>
 
-第二步骤: 如果你开启后发现你没办法购买，因为你正在使用其他VPN，这时候可以先透过注册 FlowVPN(注册方式可以参考下方的 FlowVPN 安装教学)。FlowVPN 有短期试用，你可以先用它打开 StrongVPN 购买页面。
+第二步骤: 如果购买页打不开，先关闭其他 VPN 或代理，换用家庭网络或手机网络重试，并确认浏览器没有拦截 Cookie。不要为了打开结账页先购买另一项 VPN；仍失败时请联系 StrongVPN 支持。
 
 <img src="./image/strong/s2-1.PNG" alt="drawing" width="1000"/>
 
-注册完 FlowVPN 以后，选择 UK，你会发现你就可以打开 StrongVPN 购买页面。左边的一次买一年，官网显示4.99美元/月，首年实际收费53.99美元（约￥388人民币）；结账页目前显示之后自动续费89.99美元（约￥646人民币）。购买前请确认自动续费条款，不要把首年优惠价当成永久价格。
+进入方案页后选择一年计划。当前截图显示首年收费53.99美元（约￥388人民币），之后自动续费89.99美元（约￥646人民币）。购买前请再次确认结账页，不要把首年优惠价当成永久价格。
 
 <img src="./image/strong/strongvpn-annual-plan-53-99-20261113.png" alt="StrongVPN 年度方案首年 53.99 美元，续费 89.99 美元" width="1000"/>
 
-第三步骤: 往下滑到付款区域，可以看到 Visa、Mastercard、American Express、Discover 和 UnionPay 标志。可使用这些银行卡或选择 PayPal；StrongVPN 团队已特别确认中国大陆发行的银联信用卡和银联借记卡可以正常完成交易。支付宝已经停止。
+第三步骤: 往下滑到付款区域，选择页面实际显示的银行卡或 PayPal。不要再按旧资料寻找支付宝；若使用银联卡，请在提交前核对币种、首期总额和自动续费。
 
 
 ### 移动设备（Android / iOS)上的StrongVPN设置教程
@@ -475,8 +459,7 @@ Surfshark是一家位于英属维尔京群岛的VPN服务提供商，和ExpressV
 
 ## expressvpn线上优惠码购买教学-如何购买ExpressVPN
 <a name="expressvpn线上优惠码购买教学-如何购买ExpressVPN"></a>
-要注意：StrongVPN 与 ExpressVPN 目前都不能用支付宝完成结账；StrongVPN 结账支持 Visa、Mastercard、American Express、Discover、银联银行卡和 PayPal，其中中国大陆发行的银联信用卡和银联借记卡已确认可正常付款。FlowVPN 则适合作为短期测试或临时备用。
-ExpressVPN 支援: 国内银行卡购买ExpressVPN，包含visa或是master card(海外卡也可以)，还有比特币，还有paypal可以用。因为 ExpressVPN 是海外网站，所以你可能需要翻牆才能访问。关于这点，可以参考我的镜像站连上网站的方法。
+ExpressVPN 的付款选项会随地区变化，购买前请以它自己的结账页为准。因为 ExpressVPN 是海外网站，部分网络可能无法直接打开；不要根据其他 VPN 的付款方式推测 ExpressVPN 一定相同。
 
 ### 第一步: 前往优惠连结<a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 优惠</a>:点选: get ExpressVPN (底下的红框框)
 
@@ -549,7 +532,7 @@ ExpressVPN 支援: 国内银行卡购买ExpressVPN，包含visa或是master card
 ### 第一步骤: 按照上面的方式购买完成以后，到<a href="https://www.flowvpx.com/download/">flowvpn官方网站</a> 下载自己的使用设备
 有windows, mac, android, iOS 可供选择。
 
-**2026年7月 Windows 新版 App 提醒：** FlowVPN 通知他们的新 Windows App 加入 Split Tunnelling / VPN Bypass、HTTPS 或 SMTP 隧道协议，以及新的操作介面。这个更新比较适合 Windows 用户拿来短期测试、临时备用，或在购买长期方案前先确认自己所在网络能不能连。本站中文站的购买逻辑不变：长期主力仍先看 StrongVPN 的实测连线和一年价格；StrongVPN 付款可使用 Visa、Mastercard、American Express、Discover、银联银行卡或 PayPal。FlowVPN 适合用短期试用做备用测试。官方说明可看：<a rel="nofollow noopener" href="https://www.flowvpn.com/windows-application/">FlowVPN Windows Application</a>。
+**2026年7月 Windows 新版 App 提醒：** FlowVPN 通知他们的新 Windows App 加入 Split Tunnelling / VPN Bypass、HTTPS 或 SMTP 隧道协议，以及新的操作介面。这个更新适合 Windows 用户短期检查所在网络能否连接；试用后的收费与续订条件要在账号页面确认。官方说明可看：<a rel="nofollow noopener" href="https://www.flowvpn.com/windows-application/">FlowVPN Windows Application</a>。
 
 ### 第二步骤: 打开安装档案，输入帐号密码，即可开始使用。
 
@@ -677,7 +660,7 @@ Proton VPN在2018年以前也是一个很火红的VPN，然而近年来由于防
 Astrillvpn算是很贵的VPN。在我们开始谈论 AstrillVPN 是否适合通过防火墙之前，我们先来看看以下几点我认为是不足的地方。
 
 首先价格太高了：
-Astrill VPN 的年费通常偏高。相比之下，StrongVPN 官网目前显示每月4.99美元、首年实际收费53.99美元；ExpressVPN 与 Surfshark 的活动价格会随方案和促销改变，请以本文上方已核对的比较表及各自结账页为准。
+Astrill VPN 的年费通常偏高。各家活动会随方案和促销改变，具体价格请直接查看本文上方比较表及各自结账页，不在这里重复报价。
 
 并非所有网站都可以访问（没有退款机制）：
 如果这么贵的话，应该是极速的，可以解封很多网站，但是AstrillVPN可以浏览Netflix，但是一些像huhu这样的网站就不行了。 最重要的是，与ExpressVPN、Surfshark VPN相比，StrongVPN有1个月的退款，而Astrill VPN只有7天的试用期（而且不退款）。 千万不要使用。
@@ -829,7 +812,7 @@ PureVPN拥有多种加密协议，并提供安全的DNS机制以及其他隐私�
 无日志政策几乎是VPN必要条件，简单说: 他永远不会记录或存储您的数据。但是，除了检查VPN提供商的历史记录是没有什么好方法可以知道哪些提供商会真正的清除用户的纪录。过去有不少VPN号称无纪录，但是后面被发现 偷偷的贩售使用者资料，这类VPN，我有整理在下方。大家千万不要使用。
 
 ### 8 多元付款方式 
-不同 VPN 支持的付款方式不同，常见选项包括信用卡、PayPal、银联或加密货币。不要根据旧资料假设一定支持支付宝；StrongVPN 当前结账页显示 Visa、Mastercard、American Express、Discover、银联银行卡和 PayPal，其他品牌请以各自结账页为准。
+不同 VPN 支持的付款方式不同，常见选项包括信用卡、PayPal、银联或加密货币。不要根据旧资料假设一定支持支付宝，每个品牌都以自己的最终结账页为准。
 
 ### 9 安全性高: 使用最新的加密系统
 加密的原理需要用到很多数学，这裡不在详述，VPN使用加密协议对您的数据进行加扰，并使用加密密钥确保其安全。你很可能会看到以字母和数字组合命名的加密类型，例如 AES-256、RSA-4096。这都是不同的加密演算法，牵涉到很多代数相关的问题，简单说 数字越大，加密协议越安全。
