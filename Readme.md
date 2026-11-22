@@ -25,11 +25,11 @@
 
 ### 直接看 价格性价比结论 墙宇宙 VPN价格 测速比较图
 
-**先看购买结论：** 如果你人在国内，只想买一年、可以使用银联信用卡、一般信用卡或 PayPal，又希望年费明显低于 ExpressVPN，先看 <a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>。本站每天更新测速图，重点不是谁理论速度最高，而是谁能连、能稳定连、价格和付款方式是否清楚；若你的网络能打开官网并完成付款，StrongVPN 是目前一年方案里最清楚的选择。ExpressVPN 适合预算高、想要大厂品牌的人；Surfshark 适合多设备长约；FlowVPN 适合先短期试用或临时备用。
+**先看购买结论：** 如果你人在国内，只想买一年，又希望年费明显低于 ExpressVPN，先看 <a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>。本站每天更新测速图，重点不是谁理论速度最高，而是谁能连、能稳定连；StrongVPN 的一年价格清楚，也是本站持续观察中国连线的方案。ExpressVPN 适合预算高、想要大厂品牌的人；Surfshark 适合多设备长约；FlowVPN 适合先短期试用或临时备用。
 
 **StrongVPN 购买前先看这三点：**
 - **中国连线：** 本站持续观察和测速，重点看人在国内能不能连、能不能稳定连；购买后请在退款期限内用自己的运营商、设备和常用网站测试。
-- **付款方式：** 中国大陆用户若直接选择银联，目前应使用**银联信用卡**；银联借记卡可能被直接拦截。若直接银联失败，或只有银联借记卡，可选择 **PayPal**，再在 PayPal 内绑定银联信用卡或借记卡完成付款。此为 StrongVPN 付款团队 2026年11月19日提供的最新指引，实际结果仍会受发卡行与 PayPal 审核影响。
+- **付款方式：** 结账页提供银联信用卡、Visa、Mastercard、American Express、Discover 和 PayPal；银联借记卡可通过 PayPal 使用。详细步骤放在下方购买教学。
 - **一年价格：** 首年实际收费 **53.99美元 / 约388人民币**，平均每月约 **4.50美元 / 约32人民币**，一年内明显低于 ExpressVPN；之后续费为 **89.99美元**。
 
 
@@ -43,7 +43,7 @@
 从2026年11月18号 回推7天, 14天, 30天, 90天的测速。
 <img src="./image/speed_test/vpn_speed_test_combined.png?v=20260710-speed" alt="drawing" width="1000"/>
 
-**怎样把测速图变成购买建议：** 人在国内，第一件事不是谁测速最高，而是谁能不能连、能不能稳定连。StrongVPN 在本站的定位是：一年内价格明显低于 ExpressVPN、速度不是最高但足够日常翻墙、网页、视频和公共 Wi-Fi 使用；目前可用银联信用卡、一般信用卡或 PayPal 付款。银联借记卡请改走 PayPal 绑定银联卡的路径。
+**怎样把测速图变成购买建议：** 人在国内，第一件事不是谁测速最高，而是谁能不能连、能不能稳定连。StrongVPN 在本站的定位是：一年内价格明显低于 ExpressVPN、速度不是最高但足够日常翻墙、网页、视频和公共 Wi-Fi 使用。
 如果你愿意付更高年费换品牌、App 体验和大厂稳定性，再考虑 ExpressVPN。如果是一家人、多台手机电脑电视一起用，Surfshark 更适合，但它的低价通常要一次买两年/长约。FlowVPN 比较适合学生、临时测试或预算很紧的人，因为有 3 天试用；长期使用建议先确认 StrongVPN 的连线表现。
 
 - **本站目前持续观察中国连线：<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>，首年实际收费53.99美元（约￥388人民币），平均每月约4.50美元（约￥32人民币），一年内比 ExpressVPN 便宜很多。**
@@ -55,7 +55,7 @@
 
 | 推荐的VPN | 最优惠买法(时间) | 一个月价格(美元/人民币)  | 总价(美元/人民币) | 特色 | 目前付款方式 |
 | ------------- | ------------- | ----- | ----- | ----- | ----- | 
-| <a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN</a> | 一次买一年 | 首年折合约 $4.50 / ￥32人民币 | 首年实付 $53.99 / ￥388人民币 | 一年方案最清楚；重点是中国能不能连、能不能稳定连；一年内比 ExpressVPN 便宜很多 | 直接银联限信用卡；银联借记卡或直接付款失败时，改用 PayPal 绑定银联信用卡/借记卡；也支持页面所列一般信用卡 |
+| <a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN</a> | 一次买一年 | 首年折合约 $4.50 / ￥32人民币 | 首年实付 $53.99 / ￥388人民币 | 一年方案最清楚；重点是中国能不能连、能不能稳定连；一年内比 ExpressVPN 便宜很多 | 银联信用卡、Visa、Mastercard、American Express、Discover、PayPal；银联借记卡可通过 PayPal 使用 |
 | <a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 官方特价</a> | 2年/1年长约 | Basic 2年约$2.99 / 约￥21；1年约$4.99 / 约￥36 | 2年首28个月约$83.72 / 约￥601；1年首15个月约$74.85 / 约￥537；续费约$99.95 / 约￥718/年 | 高价大厂方案；适合预算高、愿意为品牌和稳定性多付年费的用户 | 银行卡、PayPal等；以结账页为准 |
 | <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark</a> | 首27个月长约 | Starter约$2.49 / 约￥18 | 首27个月约$67.23 / 约￥483(VAT/税费可能另计) | 要买两年/长约才便宜；适合需要无限多设备；不是一年内最便宜选择 | 银行卡、PayPal等；以结账页为准 |
 | <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(短期免费试用)</a> | 先试用再决定 | affiliate 页面建立账号前未清楚显示方案价格 | 页面目前显示3天试用；最终收费与续费金额在建立账号时确认 | 适合学生、短期测试/备用；长期使用建议先确认 StrongVPN 的连线表现 | 试用透过 PayPal 预先核准付款；开始前确认试用后的收费 |
@@ -284,7 +284,7 @@ StrongVPN 在隐私政策中声明不记录 VPN 活动与连线流量；账号�
 | 服务器数量 | 950+ |
 | 国家数量 | 35+ |
 | 注册国家 | 美国 |
-| 付款方式 | Visa、Mastercard、American Express、Discover、PayPal；中国大陆直接银联限信用卡，银联借记卡请通过 PayPal 绑定后付款 |
+| 付款方式 | 银联信用卡、Visa、Mastercard、American Express、Discover、PayPal；银联借记卡可通过 PayPal 使用 |
 | 建立账号 | 需要电子邮件及结账所需的付款资料 |
 | 加密协议 | WireGuard、OpenVPN、IKEv2、L2TP、SSTP |
 | 数据使用 | 无限制带宽 |
@@ -423,7 +423,7 @@ Surfshark是一家位于英属维尔京群岛的VPN服务提供商，和ExpressV
 
 <a name="strongvpn-银联卡或-paypal-购买教学"></a>
 ## StrongVPN 银联卡或 PayPal 购买教学
-**付款确认：StrongVPN 中文优惠页和结账页目前已显示 UnionPay。根据 StrongVPN 付款团队 2026年11月19日的最新指引，中国大陆用户直接使用银联时只应使用银联信用卡；银联借记卡可能被直接拦截。银联借记卡或直接银联失败时，请选择 PayPal，再在 PayPal 内绑定银联信用卡或借记卡。**
+**付款确认：StrongVPN 中文优惠页和结账页目前已显示 UnionPay，并提供银联信用卡、Visa、Mastercard、American Express、Discover 和 PayPal。使用银联借记卡时，可选择 PayPal 并在 PayPal 内绑定银联卡。**
 
 第一步骤: 前往本站的专属优惠 <a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN</a>，点选start now (参照下图)
 
@@ -437,9 +437,9 @@ Surfshark是一家位于英属维尔京群岛的VPN服务提供商，和ExpressV
 
 <img src="./image/strong/strongvpn-annual-plan-53-99-20261113.png" alt="StrongVPN 年度方案首年 53.99 美元，续费 89.99 美元" width="1000"/>
 
-第三步骤: 往下滑到付款区域。如果直接选择 UnionPay，请只使用**银联信用卡**，并确认卡片已经开启线上或跨境付款；银联借记卡目前可能被系统直接拦截。提交前核对币种、首期总额和自动续费。
+第三步骤: 往下滑到付款区域，选择页面提供的银联信用卡、一般信用卡或 PayPal。提交前核对币种、首期总额和自动续费。
 
-第四步骤（银联借记卡或直接银联失败时）: 回到付款方式选择 **PayPal**，登录或建立 PayPal 账号，在 PayPal 内绑定你的银联信用卡或银联借记卡，再返回完成 StrongVPN 付款。StrongVPN 付款团队表示这条路径目前看起来可以使用，但最终仍以 PayPal、发卡行与结账页实际审核结果为准。
+第四步骤（使用银联借记卡）: 选择 **PayPal**，登录或建立 PayPal 账号，在 PayPal 内绑定银联借记卡，再返回完成 StrongVPN 付款。
 
 
 ### 移动设备（Android / iOS)上的StrongVPN设置教程
