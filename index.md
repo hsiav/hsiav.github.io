@@ -17,19 +17,21 @@
     <h3 style="color: #262626; margin-top: 20px;">🛡️ 墙宇宙 2026 避险实测：每日观察连线状态</h3>
     <p style="font-size: 14px; color: #555;">面对封锁升级，下面只列本站仍在持续观察、测速和检查连线状况的方案；中国网络环境会变化，购买前请先确认官网可打开、付款可完成：</p>
     
-    <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
-        <a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" style="padding: 10px 20px; background: #52c41a; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">StrongVPN (实测可用)</a>
-        <a href="https://go.expressvpn.com/c/3828265/1462855/16063" style="padding: 10px 20px; background: #faad14; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">ExpressVPN (大厂)</a>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 15px;">
+        <a href="https://go.expressvpn.com/c/3828265/1462855/16063" style="padding: 10px 20px; background: #faad14; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">ExpressVPN (大厂首选)</a>
+        <a href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github" style="padding: 10px 20px; background: #1677ff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">FlowVPN (3天试用)</a>
+        <a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" style="padding: 10px 20px; background: #52c41a; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">StrongVPN (一年方案)</a>
+        <a href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang" style="padding: 10px 20px; background: #0f8f8f; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Surfshark (多设备)</a>
     </div>
 </div>
 
 ### 直接看 价格性价比结论 墙宇宙 VPN价格 测速比较图
 
-**先看购买结论：** 如果你人在国内，只想买一年、又希望年费明显低于 ExpressVPN，先看 <a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>。本站每天更新测速图，重点不是谁理论速度最高，而是谁能连、能稳定连、价格是否清楚；若你的网络能打开官网，StrongVPN 是目前一年方案里最清楚的选择。ExpressVPN 适合预算高、想要大厂品牌的人；Surfshark 适合多设备长约；FlowVPN 适合先短期试用或临时备用。
+**先看购买结论：** 如果你人在国内，当前最重视大厂品牌、App 体验、客服与长期维护资源，可以先看 <a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 官方特价</a>。本站每天更新测速图，重点不是只看理论速度，而是谁能连、能稳定连、购买和退款规则是否清楚；目前本站先把 ExpressVPN 放在前面。2026年11月26日活动页显示 Basic 为2年+4个月、首28个月共78.12美元(等值每月2.79美元，约￥20人民币/月)，之后每年续费99.95美元。想先短期测试，可以看有 3 天试用的 FlowVPN；只想买一年并能顺利完成付款，可比较 StrongVPN；需要很多设备同时使用，再看 Surfshark。
 
-**StrongVPN 购买前先看这两点：**
-- **中国连线：** 本站持续观察和测速，重点看人在国内能不能连、能不能稳定连；购买前请用你自己的网络确认官网可打开。
-- **一年价格：** StrongVPN 首年实际收费 **53.99美元 / 约388人民币**，平均每月约 **4.50美元 / 约32人民币**，一年内明显低于 ExpressVPN；之后续费为 **89.99美元**。
+**ExpressVPN 购买前先看这两点：**
+- **中国连线：** 中国网络环境会变化，本站持续观察和测速；购买前请用你自己的网络确认官网能够打开，并在购买后尽快测试常用设备和线路。
+- **价格与退款：** 2026年11月26日活动页显示 Basic 首28个月共 **78.12美元 / 约￥561人民币**，等值每月 **2.79美元 / 约￥20人民币**，之后每年续费 **99.95美元 / 约￥718人民币**；活动、税费和续费请以结账页为准。购买后可利用 30 天退款保证实际测试是否适合自己的网络。
 
 
 
@@ -42,31 +44,32 @@
 从2026年11月24号 回推7天, 14天, 30天, 90天的测速。
 <img src="./image/speed_test/vpn_speed_test_combined.png?v=20260710-speed" alt="drawing" width="1000"/>
 
-**怎样把测速图变成购买建议：** 人在国内，第一件事不是谁测速最高，而是谁能不能连、能不能稳定连。StrongVPN 在本站的定位是：一年内价格明显低于 ExpressVPN、速度不是最高但足够日常翻墙、网页、视频和公共 Wi-Fi 使用。  
-如果你愿意付更高年费换品牌、App 体验和大厂稳定性，再考虑 ExpressVPN。如果是一家人、多台手机电脑电视一起用，Surfshark 更适合，但它的低价通常要一次买两年/长约。FlowVPN 比较适合学生、临时测试或预算很紧的人，因为有 3 天试用；长期使用建议先确认 StrongVPN 的连线表现。
+**怎样把测速图变成购买建议：** 人在国内，第一件事不是谁测速最高，而是谁能不能连、能不能稳定连。目前本站先看 ExpressVPN，理由是品牌规模、客户端完整度、客服与长期维护资源；价格较高，所以购买后应在退款期内立刻测试。  
+FlowVPN 排在第二，适合先用 3 天试用确认自己的网络；StrongVPN 排在第三，首年总价清楚、适合只买一年，但购买前要确认自己能够完成付款；Surfshark 排在第四，主要优势是无限设备，低价通常需要两年或长约。
 
 
-- **本站目前实测可用：<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>，重点是中国能不能连、能不能稳定连；首年53.99美元(约￥388人民币)，平均每月约4.50美元(约￥32人民币)、约省66%，一年内比 ExpressVPN 便宜很多。**
-- **如果预算较高、重视大厂品牌和速度稳定度，再考虑<a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 官方特价</a>；它是最贵的大厂路线，长约/续费价格请以官方结账页为准。**
-- **FlowVPN 有 3 天试用和较低年费，适合短期测试或临时备用，但不是本站中文站的长期主要选择。**
+- **如果重视大厂品牌、App 体验和长期维护，先看<a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 官方特价</a>；目前 Basic 首28个月78.12美元(等值每月2.79美元)，之后每年续费99.95美元，税费与最终价格以结账页为准。**
+- **如果想先测试再决定，可看<a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN 3 天试用</a>，适合短期测试或临时备用。**
+- **如果只想买一年并能顺利完成付款，再比较<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>；首年53.99美元(约￥388人民币)，之后续费89.99美元。**
+- **如果家里有很多手机、电脑和电视，再看<a href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark</a>；优势是无限设备，但低价通常需要两年/长约。**
 
 ### 我整理出的四个VPN的特色以及差异，包含最优惠的购买方式
 
 | 推荐的VPN | 最优惠买法(时间) | 一个月价格(美元/人民币)  | 总价(美元/人民币) | 特色 | 目前付款方式 |
 | ------------- | ------------- | ----- | ----- | ----- | ----- | 
+| <a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 官方特价</a> | 2年+4个月活动 | $2.79 / 约￥20人民币 | 首28个月$78.12 / 约￥561人民币；之后$99.95 / 约￥718人民币/年 | 大厂优先方案；10台设备；30天退款保证；适合重视App、客服与长期维护的人 | 银行卡、PayPal等；税费与最终金额以结账页为准 |
+| <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(短期免费试用)</a> | 先试用再决定 | 单月$6.99 / 约￥50；年约$3.33 / 约￥24 | 3天试用；1年特价约$39.99 / 约￥287(原$49.99 / 约￥359) | 适合用 3 天试用先确认网络；长期大厂方案可比较 ExpressVPN | PayPal；以账号页面为准 |
 | <a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN</a> | 一次买一年 | $4.50 / 约￥32人民币 | $53.99 / 约￥388人民币 首年 | 一年方案最清楚；重点是中国能不能连、能不能稳定连；一年内比 ExpressVPN 便宜很多 | 银联信用卡、Visa、Mastercard、American Express、Discover、PayPal；银联借记卡可通过 PayPal 使用 |
-| <a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 官方特价</a> | 2年/1年长约 | $3.49-$4.99 / 约￥25-36；单月$12.99 / 约￥93 | 长约约$97.72 / 约￥702；1年约$74.85 / 约￥537；续费约$99.95 / 约￥718/年 | 高价大厂方案；适合预算高、愿意为品牌和稳定性多付年费的用户 | 银行卡、PayPal等；以结账页为准 |
 | <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark</a> | 2年/长约 | $1.99 / 约￥14起 | Starter约$53.73 / 约￥386(+税)；续费约$79 / 约￥567/年 | 要买两年/长约才便宜；只适合需要无限多设备；不是一年内最便宜选择 | 银行卡、PayPal等；以结账页为准 |
-| <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(短期免费试用)</a> | 先试用再决定 | 单月$6.99 / 约￥50；年约$3.33 / 约￥24 | 3天试用；1年特价约$39.99 / 约￥287(原$49.99 / 约￥359) | 适合学生、短期测试/备用；长期使用建议先确认 StrongVPN 的连线表现 | PayPal；以账号页面为准 |
 
 ### 墙宇宙 VPN价格 比较图 怎样购买最便宜 (中国翻墙VPN购买的最佳策略)
 
-上表价格为 2026-11-18 依各官方/联盟落地页查到的公开价格，人民币用 1 USD ≈ 7.18 CNY 粗算。人在国内选 VPN，第一件事不是最高速度，而是能不能连上、能不能稳定用一段时间。本站排序重点是每日测速与连线观察，不是只看理论低价；中国网络环境会变化，购买前仍以你所在网络能否打开官网为准。本站目前实测后放在前面的方案是 <a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN 中文优惠</a>：首年53.99美元(约￥388人民币)、平均每月约4.50美元(约￥32人民币)、约省66%，一年内购买时比 ExpressVPN 便宜很多；如果只想买一年，StrongVPN 是目前最清楚的选择。Surfshark 要一次买两年/长约才有低价，主要适合需要无限多设备的人；FlowVPN 适合学生、短期测试或备用。
+上表价格为 2026-11-26 依各官方/联盟落地页查到的公开价格，人民币用 1 USD ≈ 7.18 CNY 粗算。人在国内选 VPN，第一件事不是最高速度，而是能不能连上、能不能稳定使用，第二件事才是价格。目前本站先把 ExpressVPN 放在前面，适合愿意为大厂品牌、App 体验、客服和长期维护资源支付较高费用的人；FlowVPN 放第二，适合用 3 天试用先确认网络；StrongVPN 放第三，适合只买一年且能顺利完成付款的人；Surfshark 放第四，适合需要无限设备并愿意购买两年/长约的人。
 
-- 如果打算一次购买一年，对于速度并不是太要求，可以先看<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN</a>，首年53.99美元(约￥388人民币)，平均每月约4.50美元(约￥32人民币)、约省66%(隔一年再用一个新email使用本站优惠码)
-- 如果预算较高、想买高稳定度大厂方案，再考虑<a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 官方特价</a>。ExpressVPN 属于最贵的大厂路线，1年价格肯定比 StrongVPN 贵；长约约$97.72起、1年约$74.85(约￥537)起，续费通常更高
-- 如果家里设备很多，可以考虑<a href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">surfshark</a>，Starter 长约约$53.73起(+税)，但通常要买两年/长约才便宜；重点是无限设备，不是一年内最便宜选择
-- FlowVPN 有 3 天试用，1年特价约$39.99(约￥287，原$49.99)，适合学生、短期测试或备用；如果要长期翻墙，建议先看每日实测连线状况，再决定是否使用 StrongVPN。
+- 如果预算足够、重视大厂品牌、客户端体验与稳定维护，先看<a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 官方特价</a>；目前 Basic 首28个月78.12美元(等值每月2.79美元)，之后每年续费99.95美元，并在 30 天退款期内尽快测试
+- 如果希望先测试自己的网络，再看<a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN 3 天试用</a>；适合学生、短期测试或临时备用
+- 如果只想一次购买一年并能顺利完成付款，再比较<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN</a>；首年53.99美元(约￥388人民币)，之后续费89.99美元
+- 如果家里设备很多，可以考虑<a href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark</a>；重点是无限设备，但低价通常需要两年/长约
 
 
 经由我研究和多方的测试，针对不同地区蒐集到的VPN的测速资料，做成以下图片给大家参考。Expressvpn速度稳定度最高，strongvpn次之，surfshark和flowvpn差不多。就看大家的购买策略。以下是我针对 四款VPN在台湾，日本，南韩，等常见地区的平均，经过多次测试并且画出标准差(error bar)。考量到价格跟速度比较，
@@ -87,7 +90,7 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 <a href="/es/">Español</a> 或 <a href="/es/index.html">Versión en Español</a> -->
 
 # 最近新闻-小红书事件
-近期台湾内政部宣布自 12 月 4 日起，对在台拥有超过 300 万用户的中国社群平台「小红书」实施为期一年的「停止解析、限制接取」，原因包括国安局 15 项资安检测全数不合格、涉入逾 1700 件诈骗并造成 2.4 亿元损失、且平台未受中华民国法律管辖并长期未回应政府改善要求，因此被认定具有高度资安风险并呼吁民众停止使用。同时，针对近期流传的 VPN 谣言也需澄清：StrongVPN、ExpressVPN、Surfshark 与 FLOWVPN 均正常营运，并无任何服务异常情况，使用上完全可以放心。「墙宇宙」至今已实测超过 400 款 VPN，本网站无任何跳出式广告，所有推荐皆以「能否真正翻牆、能否稳定使用」为唯一标准；我们使用国际公认的 Speedtest 每週更新最新的测速图。依目前实测数据与购买策略，本站目前把 StrongVPN 中文优惠放在比较前面，原因是连线观察和价格都比较清楚；ExpressVPN、Surfshark 可作为预算或多设备需求的替代方案；FLOWVPN 只建议短期测试或临时备用。
+近期台湾内政部宣布自 12 月 4 日起，对在台拥有超过 300 万用户的中国社群平台「小红书」实施为期一年的「停止解析、限制接取」，原因包括国安局 15 项资安检测全数不合格、涉入逾 1700 件诈骗并造成 2.4 亿元损失、且平台未受中华民国法律管辖并长期未回应政府改善要求，因此被认定具有高度资安风险并呼吁民众停止使用。同时，针对近期流传的 VPN 谣言也需澄清：StrongVPN、ExpressVPN、Surfshark 与 FLOWVPN 均正常营运，并无任何服务异常情况，使用上完全可以放心。「墙宇宙」至今已实测超过 400 款 VPN，本网站无任何跳出式广告，所有推荐皆以「能否真正翻牆、能否稳定使用」为唯一标准；我们使用国际公认的 Speedtest 每週更新最新的测速图。依目前实测数据与购买策略，本站目前先把 ExpressVPN 放在比较前面，适合重视大厂品牌、App 体验和长期维护的人；FLOWVPN 可用 3 天试用先确认网络；StrongVPN 适合只买一年且能顺利完成付款的人；Surfshark 适合需要无限设备并愿意购买长约的人。
 
 
 - **[快连 VPN (LetsVPN) 正式停止中国地区营运](https://www.reddit.com/r/travelchina/comments/1sxfaiq/letsvpn_permanently_shut_down_chinese_mainland/)**
@@ -129,10 +132,10 @@ VPN使用者极度重视连接速度 - 如果VPN让你的网速变得龟速，�
 > ## 本文内容导航
 > ### 1. [科学上网基本知识](#科学上网基本知识)
 > ### 2. [国产VPN推荐功能总结2026年11月24号测试](#国产VPN推荐功能总结2026年11月24号测试)
-> #### 2.1 [StrongVPN推荐](#StrongVPN推荐)
-> #### 2.2 [ExpressVPN-官方特价](#ExpressVPN-官方特价)
-> #### 2.3 [SurfsharkVPN-冲浪鲨-推荐](#SurfsharkVPN-冲浪鲨-推荐)
-> #### 2.4 [FlowVPN-推荐-免费用两天](#FlowVPN-推荐-免费用两天)
+> #### 2.1 [ExpressVPN-官方特价](#ExpressVPN-官方特价)
+> #### 2.2 [FlowVPN-推荐-免费试用三天](#FlowVPN-推荐-免费用两天)
+> #### 2.3 [StrongVPN推荐](#StrongVPN推荐)
+> #### 2.4 [SurfsharkVPN-冲浪鲨-推荐](#SurfsharkVPN-冲浪鲨-推荐)
 > #### 2.5 [分析和对比市面上不同VPN提供商的隐私政策](#分析和对比市面上不同VPN提供商的隐私政策)
 > ### 3. [StrongVPN手把手购买教学](#strongvpn手把手购买教学)
 > #### 3.1 [移动设备-Android-iOS-上的StrongVPN设置教程](#移动设备-Android-iOS-上的StrongVPN设置教程)
@@ -240,8 +243,80 @@ IP 地址就像街道地址一样。它公开识别你的实际位置，并且�
 - 价格正常（公平合理），CP值正常
 
 
+<a name="ExpressVPN-官方特价"></a>
+### 1 <a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 官方特价</a>
+### ExpressVPN-官方特价
+
+<img src="./image/speed_test/w_d.png" alt="drawing" width="1000"/>
+
+
+### Expressvpn 的特色
+
+VPN市场有很多竞争，但 ExpressVPN 在其中脱颖而出：它拥有专业的功能，提供的方式比其他任何人都多。
+一流的平台支持包括适用于 Windows、Mac、Android、iOS、Linux 和其他操作系统的应用程序，更不用说许多路由器的自定义固件，以及 Apple TV、Fire TV、PlayStation、Chromebook、Kindle 的详细手动设置指南等等。一组强大的核心功能提供了多层保护。例如，ExpressVPN 通过使用自己的 DNS 服务器来保护您的互联网流量。高端加密技术甚至可以防止最先进的攻击者窥探您的活动。即使 VPN 掉线，也没有问题：高质量的终止开关会立即激活以阻止您的互联网连接并确保您的安全。
+
+该公司提供由 3,000 多台服务器组成的庞大网络，遍布 94 个国家的 160 个城市。欧洲和美国的覆盖范围最好，但 ExpressVPN 在亚洲也有很多地点和几个在其他地方很少出现的国家。例如，仅亚太地区就有 27 个国家——Mozilla VPN在其整个网络中只有大约 30 个国家。ExpressVPN是全球最大的VPN公司，提供自有资源快速更新，ExpressVPN拥有超宽网络（3000多台服务器的安全网络），提供，快速，连接Netflix和几乎所有内容，支持种子下载，绝对记录用户日志记录，几乎所有人都可以使用。 每次当前监控的百分比总是在稳定区域同步更新。在国内达到九成翻墙成功机率，是墙体成功率最高的欧美公司。它属于最高级别的VPN，唯一的问题是价格有点高。
+
+ExpressVPN 的隐私保护使用工业级加密。Diffie-Helman 密钥交换可以安全地建立与远程服务器的链接，而 AES-256-GCM 支持可以保护您的数据免受即使是装备最精良的攻击者的攻击，而强大的 HMAC 身份验证可以防止数据被实时更改。DNS 支持是另一个亮点。ExpressVPN 不仅提供 DNS 泄漏保护以防止有关您的在线活动的数据从VPN 隧道泄漏，而且还在其每台服务器上运行自己的私有、零知识、256 位加密 DNS。与一些较小的提供商相比，这是一个主要优势，在最坏的情况下，它们可能会将您的 DNS 流量重定向到 OpenDNS 或其他一些第三方服务。除了在 DNS 服务器上登录的风险外，使用未加密的 DNS 使攻击者有机会拦截您的请求、过滤它们、阻止甚至更改它们——使用 ExpressVPN 的方法在很大程度上消除了所有问题。
+
+
+特点如下：
+
+- 多达 160 个地点，遍布 94 个国家/地区
+- 非常多的用户
+- 每次开机，总能快速更新服务器
+- 30天內無條件退款
+- **24/7** 客户服务
+- 适用于 Windows、Mac、Android、iOS、Linux 和其他操作系统的应用程序
+- 还包括 Apple TV、Fire TV、PlayStation、Chromebook、Kindle
+- ExpressVPN 提供各种货币的支付方式，甚至比特币
+- 工业级加密
+
+
+截至2026年11月26日，本站 ExpressVPN 官方特价链接显示 Basic 为2年+4个月，首28个月共78.12美元(等值每月2.79美元)，之后每年续费99.95美元。活动期限、税费和最终结账金额可能变化，付款前请再次核对，并在30天退款保证期间尽快测试自己的网络与设备。
+
+
+**安装 Android 或 iOS 应用程序可以获得 7 天的试用期，ExpressVPN 的 30 天退款保证也让您可以安全地为自己检查服务**
+
+**如果您决定取消，该过程也非常简单。您不必向公司证明您的决定是合理的。您可以完全使用该服务 30 天，如果您不满意，或者只是改变主意，只需告诉 ExpressVPN，您将获得退款。完全不需要擔心。**
+
+
+| 特性 | ExpressVPN |
+| ---- | ---------- |
+| 伺服器数量 | 3000+ |
+| 伺服器国家 | 94 |
+| 支援的平台 | Windows, Mac, iOS, Android, Linux, BlackBerry, Kindle Fire, Nook, routers, consoles (MediaStreamer), Amazon Fire TV Stick, Apple TV, Boxee, Chromebook, Windows Phone |
+| 同时连接数 | 5 |
+| 分割通道技术 | 是 |
+| 断开开关技术 | 是 |
+| 支援的协议 | Lightway, OpenVPN UDP, OpenVPN TCP, L2TP/IPSec, IKEv2 |
+| 注册国家 | 英属维京群岛 |
+| 支援 | 24/7即时聊天，电子邮件，知识库 |
+
+
+### 2 <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(免费试用三天)</a>
+### FlowVPN-推荐-免费用两天
+<a name="FlowVPN-推荐-免费用两天"></a>
+![image](./image/speed_test/download.jpg)
+
+### FlowVPN 的特色(三天免费试用)
+
+
+
+- 超級棒的三天免费试用
+- 便宜好用，适合学生使用
+- 属中囯VPN，稳定度速度输欧美VPN厂商，參考我上面測速照片。
+- 支持的协议包括 IPSec IKEv1、IPSec IKEv2、Wireguard、OpenVPN、L2TP 和 PPTP。
+- flowvpn自定义 SSL 和 FlowTCP 协议。
+- 覆盖全球 60 多个国家/地区的 100 多台服务器，包括英国、美国、香港和澳大利亚。
+- 适用于 Mac、iPad、iPhone、Android 和 Windows
+- 在最多 4 台设备上同时使用
+- FlowVPN 为学生和教职员工提供学生折扣
+
+
+
 <a name="StrongVPN推荐"></a>
-### 1.<a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN–性价比最高</a>
+### 3.<a rel="nofollow noopener" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title" target="_blank">StrongVPN–一年方案价格清楚</a>
 ### StrongVPN推荐
 <img src="./image/speed_test/1d83ca53.gif" alt="drawing" width="400"/>
 
@@ -294,58 +369,7 @@ strongvpn设计了一个全球网络，其中包括 950 多台服务器，支持
 | 隐私政策 | 无日志记录 |
 
 
-<a name="ExpressVPN-官方特价"></a>
-### 2 <a rel="nofollow noopener" href="https://go.expressvpn.com/c/3828265/1462855/16063">ExpressVPN 官方特价</a>
-### ExpressVPN-官方特价
-
-<img src="./image/speed_test/w_d.png" alt="drawing" width="1000"/>
-
-
-### Expressvpn 的特色
-
-VPN市场有很多竞争，但 ExpressVPN 在其中脱颖而出：它拥有专业的功能，提供的方式比其他任何人都多。
-一流的平台支持包括适用于 Windows、Mac、Android、iOS、Linux 和其他操作系统的应用程序，更不用说许多路由器的自定义固件，以及 Apple TV、Fire TV、PlayStation、Chromebook、Kindle 的详细手动设置指南等等。一组强大的核心功能提供了多层保护。例如，ExpressVPN 通过使用自己的 DNS 服务器来保护您的互联网流量。高端加密技术甚至可以防止最先进的攻击者窥探您的活动。即使 VPN 掉线，也没有问题：高质量的终止开关会立即激活以阻止您的互联网连接并确保您的安全。
-
-该公司提供由 3,000 多台服务器组成的庞大网络，遍布 94 个国家的 160 个城市。欧洲和美国的覆盖范围最好，但 ExpressVPN 在亚洲也有很多地点和几个在其他地方很少出现的国家。例如，仅亚太地区就有 27 个国家——Mozilla VPN在其整个网络中只有大约 30 个国家。ExpressVPN是全球最大的VPN公司，提供自有资源快速更新，ExpressVPN拥有超宽网络（3000多台服务器的安全网络），提供，快速，连接Netflix和几乎所有内容，支持种子下载，绝对记录用户日志记录，几乎所有人都可以使用。 每次当前监控的百分比总是在稳定区域同步更新。在国内达到九成翻墙成功机率，是墙体成功率最高的欧美公司。它属于最高级别的VPN，唯一的问题是价格有点高。
-
-ExpressVPN 的隐私保护使用工业级加密。Diffie-Helman 密钥交换可以安全地建立与远程服务器的链接，而 AES-256-GCM 支持可以保护您的数据免受即使是装备最精良的攻击者的攻击，而强大的 HMAC 身份验证可以防止数据被实时更改。DNS 支持是另一个亮点。ExpressVPN 不仅提供 DNS 泄漏保护以防止有关您的在线活动的数据从VPN 隧道泄漏，而且还在其每台服务器上运行自己的私有、零知识、256 位加密 DNS。与一些较小的提供商相比，这是一个主要优势，在最坏的情况下，它们可能会将您的 DNS 流量重定向到 OpenDNS 或其他一些第三方服务。除了在 DNS 服务器上登录的风险外，使用未加密的 DNS 使攻击者有机会拦截您的请求、过滤它们、阻止甚至更改它们——使用 ExpressVPN 的方法在很大程度上消除了所有问题。
-
-
-特点如下：
-
-- 多达 160 个地点，遍布 94 个国家/地区
-- 非常多的用户
-- 每次开机，总能快速更新服务器
-- 30天內無條件退款
-- **24/7** 客户服务
-- 适用于 Windows、Mac、Android、iOS、Linux 和其他操作系统的应用程序
-- 还包括 Apple TV、Fire TV、PlayStation、Chromebook、Kindle
-- ExpressVPN 提供各种货币的支付方式，甚至比特币
-- 工业级加密
-
-
-还有一些方法可以节省一些现金。请通过本站 ExpressVPN 官方特价链接进入活动页，并在付款前确认当前赠送月份、税费和最终结账金额；不同时间的活动可能会变化。
-
-
-**安装 Android 或 iOS 应用程序可以获得 7 天的试用期，ExpressVPN 的 30 天退款保证也让您可以安全地为自己检查服务**
-
-**如果您决定取消，该过程也非常简单。您不必向公司证明您的决定是合理的。您可以完全使用该服务 30 天，如果您不满意，或者只是改变主意，只需告诉 ExpressVPN，您将获得退款。完全不需要擔心。**
-
-
-| 特性 | ExpressVPN |
-| ---- | ---------- |
-| 伺服器数量 | 3000+ |
-| 伺服器国家 | 94 |
-| 支援的平台 | Windows, Mac, iOS, Android, Linux, BlackBerry, Kindle Fire, Nook, routers, consoles (MediaStreamer), Amazon Fire TV Stick, Apple TV, Boxee, Chromebook, Windows Phone |
-| 同时连接数 | 5 |
-| 分割通道技术 | 是 |
-| 断开开关技术 | 是 |
-| 支援的协议 | Lightway, OpenVPN UDP, OpenVPN TCP, L2TP/IPSec, IKEv2 |
-| 注册国家 | 英属维京群岛 |
-| 支援 | 24/7即时聊天，电子邮件，知识库 |
-
-
-### 3 <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark (具有无限多设备连接)</a>
+### 4 <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark (具有无限多设备连接)</a>
 ### Surfshark VPN 冲浪鲨 推荐
 <a name="SurfsharkVPN-冲浪鲨-推荐"></a>
 <img src="./image/surfshark/1-1.png" alt="drawing" width="1000"/>
@@ -372,27 +396,6 @@ Surfshark可以解除对 Netflix的封锁，而且还列出了近20 个国家/�
 - Surfshark 最大的吸引力在于它的价格，在撰写本文时，**2 年计划的价格为每月 2.30 美元。是我见过最便宜的VPN厂商**
 - Surfshark Nexus 将在 2022 年和 2023 年提供新功能，**IP Rotator 每隔几分钟就会自动更改您的 IP 地址，而无需断开连接。**
 
-
-
-
-### 4 <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(免费试用两天)</a>
-### FlowVPN-推荐-免费用两天
-<a name="FlowVPN-推荐-免费用两天"></a>
-![image](./image/speed_test/download.jpg)
-
-### FlowVPN 的特色(两天免费试用)
-
-
-
-- 超級棒的两天免费试用
-- 便宜好用，适合学生使用
-- 属中囯VPN，稳定度速度输欧美VPN厂商，參考我上面測速照片。
-- 支持的协议包括 IPSec IKEv1、IPSec IKEv2、Wireguard、OpenVPN、L2TP 和 PPTP。
-- flowvpn自定义 SSL 和 FlowTCP 协议。
-- 覆盖全球 60 多个国家/地区的 100 多台服务器，包括英国、美国、香港和澳大利亚。
-- 适用于 Mac、iPad、iPhone、Android 和 Windows
-- 在最多 4 台设备上同时使用
-- FlowVPN 为学生和教职员工提供学生折扣
 
 
 
