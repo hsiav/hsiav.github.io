@@ -35,6 +35,15 @@
 
 
 
+<!-- EXPRESSVPN_BLACK_FRIDAY_2026_START -->
+<div style="border: 2px solid #da3940; padding: 15px 18px; margin: 18px 0 24px; background: #fff7f7;">
+  <p style="margin-top: 0;"><strong>ExpressVPN Black Friday 延长活动：仅至 2026 年 12 月 2 日</strong></p>
+  <p>24 个月方案加送 4 个月：Basic 每月等值 <strong>2.79 美元（约￥20，81% off）/ 2.39 欧元</strong>；Advanced 每月等值 <strong>3.99 美元（约￥29，76% off）/ 3.49 欧元</strong>；Pro 每月等值 <strong>6.99 美元（约￥50，69% off）/ 5.99 欧元（70% off）</strong>。</p>
+  <p><a rel="nofollow noopener" target="_blank" href="https://go.expressvpn.com/c/3828265/3729112/16063"><strong>查看 ExpressVPN Black Friday 官方活动页</strong></a></p>
+  <p style="margin-bottom: 0; font-size: 0.92em;">这是限时活动；方案、税费、实际总收费与续费金额请以结账页为准。</p>
+</div>
+<!-- EXPRESSVPN_BLACK_FRIDAY_2026_END -->
+
 #### 墙宇宙 VPN 速度测试图，包含上传跟下载速度。
 
 针对这样测速，我们不只每天更新，并起从今天起，过去**七天，14天，一个月，三个月**的测速，都经过平均，每天都坐至少10-20次的连线测试。关于我们设备的细节，可以参考本文末尾。横线代表标准差。
@@ -946,6 +955,17 @@ Surfshack 提供了一种专用的智能上网模式，可自动将您连接到�
 
 ## strongvpn 的使用安装教学
 
+<!-- YOUTUBE_TUTORIAL_STRONGVPN_START -->
+<div style="border: 1px solid #d9d9d9; padding: 14px; margin: 16px 0 22px; background: #fafafa;">
+  <p style="margin-top: 0;"><strong>StrongVPN 中文安装影片</strong>：先从本站链接进入官方页面，购买后再依影片完成下载、登入与连接。</p>
+  <p><a rel="nofollow noopener" target="_blank" href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=youtube_embed">先打开 StrongVPN 官方／优惠页面</a></p>
+  <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/qh4QRCkfZKo" title="StrongVPN 中文安装教程" style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+  <p style="margin-bottom: 0; font-size: 0.92em;">若影片暂时无法载入，可<a target="_blank" rel="noopener" href="https://youtu.be/qh4QRCkfZKo">直接打开 YouTube 教程</a>，或继续阅读下方图文步骤。</p>
+</div>
+<!-- YOUTUBE_TUTORIAL_STRONGVPN_END -->
+
 现在来解释如何下载并使用strongvpn。按照上述方法付完钱以后，选择你的对应设备: 有iOS, linux, windows, mac, 或android，这裡用windows系统当作教学。关于其他设备，可以参考我的其他文章。
 
 ###  第一步  StrongVPN官方网站注册并完成购买以后，从<a href="https://strongtech.org/cn/exclusive/?tr_aid=60d96b5810e50&chan=w_github&data1=fanqiang&data2=title">StrongVPN</a> 登入用户端后台，选择”StrongVPN Client”，strongvpn会自动侦测你的系统。
@@ -974,6 +994,17 @@ Surfshack 提供了一种专用的智能上网模式，可自动将您连接到�
 
 
 ## Expressvpn 的安装教学
+
+<!-- YOUTUBE_TUTORIAL_EXPRESSVPN_START -->
+<div style="border: 1px solid #d9d9d9; padding: 14px; margin: 16px 0 22px; background: #fafafa;">
+  <p style="margin-top: 0;"><strong>ExpressVPN 中文安装影片</strong>：先从本站链接进入官方页面，购买后再依影片完成下载、登入与连接。</p>
+  <p><a rel="nofollow noopener" target="_blank" href="https://go.expressvpn.com/c/3828265/1462855/16063">先打开 ExpressVPN 官方／优惠页面</a></p>
+  <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Za45ZVMWrS0" title="ExpressVPN 中文安装教程" style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+  <p style="margin-bottom: 0; font-size: 0.92em;">若影片暂时无法载入，可<a target="_blank" rel="noopener" href="https://youtu.be/Za45ZVMWrS0">直接打开 YouTube 教程</a>，或继续阅读下方图文步骤。</p>
+</div>
+<!-- YOUTUBE_TUTORIAL_EXPRESSVPN_END -->
 
 现在来解释如何下载并使用Expressvpn。按照上述方法付完钱以后，选择你的对应设备: 有iOS, linux, windows, mac, 或android，这裡用windows系统当作教学。关于其他设备，可以参考我的其他文章。
 
@@ -1007,6 +1038,17 @@ Expressvpn 底下我用mac当作教学。 先到<a href="https://www.expressvpn.
 
 ## Surfshark 的安装教学
 
+<!-- YOUTUBE_TUTORIAL_SURFSHARK_START -->
+<div style="border: 1px solid #d9d9d9; padding: 14px; margin: 16px 0 22px; background: #fafafa;">
+  <p style="margin-top: 0;"><strong>Surfshark 中文安装影片</strong>：先从本站链接进入官方页面，购买后再依影片完成下载、登入与连接。</p>
+  <p><a rel="nofollow noopener" target="_blank" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang_youtube_embed">先打开 Surfshark 官方／优惠页面</a></p>
+  <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/xOKMEXBhEvE" title="Surfshark 中文安装教程" style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+  <p style="margin-bottom: 0; font-size: 0.92em;">若影片暂时无法载入，可<a target="_blank" rel="noopener" href="https://youtu.be/xOKMEXBhEvE">直接打开 YouTube 教程</a>，或继续阅读下方图文步骤。</p>
+</div>
+<!-- YOUTUBE_TUTORIAL_SURFSHARK_END -->
+
 现在来解释如何下载并使用Surfshark。按照上述方法付完钱以后，选择你的对应设备: 有iOS, linux, windows, mac, 或android，这裡用windows系统当作教学。关于其他设备，可以参考我的其他文章。
 ### 到官方网站下载surfshark以后，进行安装
 可參考下方圖片，系統會詢問你是否安裝，都點是:
@@ -1027,6 +1069,17 @@ Expressvpn 底下我用mac当作教学。 先到<a href="https://www.expressvpn.
 
 
 ## flowvpn 的安装教学
+
+<!-- YOUTUBE_TUTORIAL_FLOWVPN_START -->
+<div style="border: 1px solid #d9d9d9; padding: 14px; margin: 16px 0 22px; background: #fafafa;">
+  <p style="margin-top: 0;"><strong>FlowVPN 中文安装影片</strong>：先从本站链接进入官方页面，购买后再依影片完成下载、登入与连接。</p>
+  <p><a rel="nofollow noopener" target="_blank" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github.youtube_embed">先打开 FlowVPN 官方／优惠页面</a></p>
+  <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Xsni3hViXHo" title="FlowVPN 中文安装教程" style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+  <p style="margin-bottom: 0; font-size: 0.92em;">若影片暂时无法载入，可<a target="_blank" rel="noopener" href="https://youtu.be/Xsni3hViXHo">直接打开 YouTube 教程</a>，或继续阅读下方图文步骤。</p>
+</div>
+<!-- YOUTUBE_TUTORIAL_FLOWVPN_END -->
 
 ### 现在来解释如何下载并使用FlowVPN。按照上述方法付完钱以後
 选择你的对应设备: 有iOS, linux, windows, mac, 或android，这裡用windows系统当作教学。关于其他设备，可以参考我的其他文章。
